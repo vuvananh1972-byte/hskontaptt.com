@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ôn luyện HSK 1–6 (HSK 3.0)</title>
+<meta name="description" content="App miễn phí ôn luyện từ vựng HSK 1–6 theo danh sách HSK 3.0, giải thích tiếng Việt, ví dụ có pinyin, phát âm, kiểm tra hằng ngày và ôn tập ngắt quãng.">
+<link rel="stylesheet" href="style.css">
+<script>
+  var LV = 6, CH = false;
+  try { LV = +localStorage.getItem('hskapp.level') || 0; CH = !!LV || !!localStorage.getItem('hsk6app.v1'); } catch (e) { }
+  if (!(LV >= 1 && LV <= 6)) LV = 6;
+  window.HSK_LEVEL = LV; window.HSK_CHOSEN = CH;
+  document.write('<script src="data/' + (LV === 6 ? 'vocab' : 'vocab' + LV) + '.js"><\/script>');
+  if (LV === 6) ['grammar', 'readings', 'listening', 'prompts'].forEach(function (f) { document.write('<script src="data/' + f + '.js"><\/script>'); });
+</script>
+</head>
+<body>
+<header class="top">
+  <div class="brand" id="brand">汉语 <b>HSK</b></div>
+  <nav id="nav">
+    <a href="#/home">Trang chủ</a>
+    <a href="#/lesson">Bài học hôm nay</a>
+    <a href="#/review">Ôn tập</a>
+    <a href="#/tests">Kiểm tra</a>
+    <a href="#/progress">Tiến độ</a>
+    <a href="#/mistakes">Sổ lỗi sai</a>
+    <a href="#/dict">Từ điển</a>
+    <a href="#/download">Tải tài liệu</a>
+    <a href="#/settings">Cài đặt</a>
+  </nav>
+  <div class="timer" id="timer" title="Đồng hồ học hôm nay">
+    <button id="timerBtn">▶</button><span id="timerText">0:00</span><span class="tgoal" id="tgoal">/ 60:00</span>
+  </div>
+</header>
+<main id="main"></main>
+<footer class="foot" id="footText"></footer>
+<script src="app.js"></script>
+</body>
+</html>

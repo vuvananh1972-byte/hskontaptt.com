@@ -1,0 +1,42 @@
+APP ÔN LUYỆN HSK 1–6 (HSK 3.0)
+==============================
+
+DÙNG TRỰC TUYẾN (chia sẻ được cho mọi người)
+https://vuvananh1972-byte.github.io/hskontaptt.com/
+
+CHỌN CẤP ĐỘ
+- Lần đầu mở app sẽ hỏi chọn cấp HSK 1–6. Đổi cấp bằng ô chọn "Cấp ..." trên thanh trên cùng hoặc trong Cài đặt.
+- Mỗi cấp có tiến độ riêng. HSK 1: 20 từ/ngày, HSK 2: 25 từ/ngày, HSK 3–6: 30 từ/ngày.
+- Cấp 1–5: mỗi ngày 2 phần (Từ vựng 20' + Kiểm tra 10', 20 câu), mục tiêu 30 phút; sau khi học hết từ mới có 5 ngày củng cố.
+- Cấp 6: lộ trình 60 ngày đầy đủ 7 phần như hướng dẫn bên dưới.
+- Mục "Tải tài liệu": tải toàn bộ từ vựng HSK 1–6 (Excel / CSV).
+
+CÁCH MỞ APP TRÊN MÁY (không cần mạng)
+1. Mở thư mục app.
+2. Bấm đúp vào file index.html. App mở trong trình duyệt (nên dùng Google Chrome để có đủ tính năng nghe, nói, ghi âm).
+   Mẹo: kéo index.html vào thanh dấu trang (bookmark) của Chrome để lần sau mở nhanh.
+Không cần cài đặt, không cần mạng (chỉ cần mạng khi bấm các liên kết tra từ / đọc thêm).
+
+MỖI NGÀY HỌC 1 TIẾNG (CẤP 6)
+- Bấm "Bài học hôm nay". Đồng hồ trên góc phải tự chạy, mục tiêu 60 phút.
+- Làm lần lượt 7 phần: Từ vựng (15') → Ngữ pháp (10') → Đọc hiểu (10') → Luyện nghe (8') → Luyện viết (7') → Luyện nói (5') → Kiểm tra cuối ngày (5').
+- Bài kiểm tra cuối ngày: 10 từ mới, 5 từ cũ, 5 câu ngữ pháp, 2 câu đọc hiểu. Đạt 80% thì ngày tiếp theo mở. Chưa đạt thì làm lại.
+- Mỗi 7 ngày có bài kiểm tra tổng hợp tuần (mục "Kiểm tra"). Từ ngày 46 có thi thử 60 câu, tính giờ 30 phút.
+- Mục "Ôn tập": thẻ từ ôn tập ngắt quãng – từ nào đến hạn sẽ hiện ra mỗi ngày. Nên ôn trước khi học bài mới.
+- "Tiến độ" và "Sổ lỗi sai" theo dõi số từ đã học, điểm từng ngày, thời gian học và các lỗi bạn hay mắc.
+
+PHẦN VIẾT VÀ NÓI
+App không tự chấm được bài viết/bài nói tự do. Viết xong, bấm "Sao chép để nhờ Claude chấm" rồi dán vào cuộc trò chuyện với Claude: bạn sẽ được sửa từng lỗi, viết lại bản HSK 6 và chấm điểm.
+Phần nói có ghi âm để nghe lại; trên Chrome app còn tự chuyển lời nói thành chữ.
+
+GIỌNG ĐỌC TIẾNG TRUNG (phần nghe)
+App dùng giọng đọc tiếng phổ thông có sẵn trên máy. Nếu không nghe được:
+Mac: Cài đặt hệ thống → Trợ năng → Nội dung được đọc → Giọng hệ thống → Quản lý giọng… → thêm giọng Tiếng Trung (Trung Quốc đại lục), ví dụ Tingting.
+
+DỮ LIỆU
+Tiến độ lưu trong trình duyệt trên máy này. Vào "Cài đặt" → "Tải file sao lưu" mỗi tuần một lần cho an toàn.
+Đừng xóa dữ liệu trình duyệt (cookie/dữ liệu trang) nếu chưa sao lưu.
+
+NỘI DUNG
+- 1.123 từ cấp 6 theo danh sách HSK 3.0 (chỉ từ mới của cấp 6, không lẫn HSK 2.0). Theo HSK 3.0, cấp 6 có khoảng 1.100 từ mới, nên app dạy 30 từ/ngày đến ngày 38, sau đó củng cố từ khó và luyện đề.
+- 45 bài ngữ pháp, 14 bài đọc, 15 bài nghe, 45 đề viết và 45 chủ đề nói; giai đoạn 4 luyện viết tóm lược (缩写) và kể lại bài nghe như đề thi thật.

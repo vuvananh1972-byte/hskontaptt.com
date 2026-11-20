@@ -1,0 +1,954 @@
+﻿Cấp,STT,Chữ Hán,Pinyin,Từ loại,Nghĩa tiếng Việt,Nghĩa tiếng Anh,Kết hợp thường gặp,Câu ví dụ,Pinyin câu ví dụ,Dịch câu ví dụ
+HSK 3,1,把,bǎ,"giới từ, lượng từ, động từ, số từ",(giới từ đưa tân ngữ lên trước động từ); cái (lượng từ vật có cán),to hold; to grasp; to hold a baby in position to help it urinate or defecate; handlebar,把书放好；把门关上；一把椅子,请把门关上。,qǐng bǎ mén guān shàng.,Làm ơn đóng cửa lại.
+HSK 3,2,被,bèi,"giới từ, ngữ tố, phó từ","bị, được (câu bị động)",quilt; to cover (with); (literary) to suffer (a misfortune),被批评；被发现；被偷了,我的自行车被偷了。,wǒ de zì xíng chē bèi tōu le.,Xe đạp của tôi bị trộm mất rồi.
+HSK 3,3,就是,jiù shì,"động từ, phó từ",chính là; dù … cũng,exactly; precisely; only; simply; just; (used correlatively with 也) even; even if,就是他；就是这样；就是……也……,他就是我说的那个人。,tā jiù shì wǒ shuō de nà ge rén.,Anh ấy chính là người tôi đã nói.
+HSK 3,4,时,shí,"ngữ tố, thời gian","giờ; lúc, khi",o'clock; time; when,……时；按时；同时,上课时不要说话。,shàng kè shí bú yào shuō huà.,Trong lúc học đừng nói chuyện.
+HSK 3,5,需要,xū yào,"động từ, danh từ, động/danh từ","cần, nhu cầu",to need; to want; to demand; to require; needs,需要帮助；需要时间；不需要,你需要什么帮助吗？,nǐ xū yào shén me bāng zhù ma?,Bạn có cần giúp gì không?
+HSK 3,6,开始,kāi shǐ,"động từ, động/danh từ",bắt đầu,to begin; beginning; to start,开始上课；开始工作；从……开始,我们现在开始上课。,wǒ men xiàn zài kāi shǐ shàng kè.,Bây giờ chúng ta bắt đầu học.
+HSK 3,7,并,bìng,"phó từ, liên từ",và; hoàn toàn (không) (nhấn mạnh phủ định),and; furthermore; also,并不；并没有；并且,事情并不像你想的那么简单。,shì qíng bìng bú xiàng nǐ xiǎng de nà me jiǎn dān.,Sự việc hoàn toàn không đơn giản như bạn nghĩ.
+HSK 3,8,所,suǒ,"trợ từ, lượng từ, danh từ","(lượng từ trường, bệnh viện); nơi","actually; place; classifier for houses, small buildings, institutions etc",一所学校；所有；所以,这是一所很有名的大学。,zhè shì yī suǒ hěn yǒu míng de dà xué.,Đây là một trường đại học rất nổi tiếng.
+HSK 3,9,死,sǐ,"động từ, tính từ, động/danh từ, phó từ",chết,to die; impassable; uncrossable,死了；饿死了；累死了,我今天累死了。,wǒ jīn tiān lèi sǐ le.,Hôm nay tôi mệt chết đi được.
+HSK 3,10,种,zhǒng,"lượng từ, động từ, ngữ tố","loại, kiểu",seed; species; kind,这种；各种；一种方法,我不喜欢这种颜色。,wǒ bù xǐ huān zhè zhǒng yán sè.,Tôi không thích màu này.
+HSK 3,11,希望,xī wàng,"động từ, danh từ, động/danh từ",hy vọng,to hope; a hope; a wish,希望你来；有希望；我的希望,我希望明天天气好。,wǒ xī wàng míng tiān tiān qì hǎo.,Tôi hy vọng ngày mai thời tiết đẹp.
+HSK 3,12,发生,fā shēng,"động từ, động/danh từ",xảy ra,to happen; to occur; to take place; to break out,发生了什么；发生事故；经常发生,这里发生了什么事？,zhè lǐ fā shēng le shén me shì?,Ở đây đã xảy ra chuyện gì?
+HSK 3,13,为了,wèi le,"giới từ, động từ","để, vì (mục đích)",for; for the purpose of; in order to,为了学习；为了孩子；为了……而……,为了学好汉语，他来到了中国。,"wèi le xué hǎo hàn yǔ, tā lái dào le zhōng guó.","Để học giỏi tiếng Trung, anh ấy đã đến Trung Quốc."
+HSK 3,14,只是,zhǐ shì,"phó từ, liên từ, động từ",chỉ là,merely; only; just; nothing but; simply; but; however,只是想；只是一个；只是……而已,我只是想帮你。,wǒ zhǐ shì xiǎng bāng nǐ.,Tôi chỉ muốn giúp bạn thôi.
+HSK 3,15,世界,shì jiè,danh từ,thế giới,world,全世界；世界上；世界杯,世界上有很多国家。,shì jiè shàng yǒu hěn duō guó jiā.,Trên thế giới có rất nhiều quốc gia.
+HSK 3,16,情况,qíng kuàng,danh từ,"tình hình, tình huống",circumstances; state of affairs; situation,了解情况；什么情况；这种情况,现在的情况怎么样？,xiàn zài de qíng kuàng zěn me yàng?,Tình hình bây giờ thế nào?
+HSK 3,17,比赛,bǐ sài,"động/danh từ, động từ","cuộc thi, trận đấu",competition (sports etc); match; to compete,足球比赛；参加比赛；比赛开始,今天晚上有一场足球比赛。,jīn tiān wǎn shàng yǒu yì cháng zú qiú bǐ sài.,Tối nay có một trận bóng đá.
+HSK 3,18,继续,jì xù,động từ,tiếp tục,to continue; to proceed with; to go on with,继续学习；继续努力；继续下去,休息一下，我们继续工作。,"xiū xī yī xià, wǒ men jì xù gōng zuò.",Nghỉ một chút rồi chúng ta tiếp tục làm việc.
+HSK 3,19,心,xīn,danh từ,"tim, lòng",heart; mind; intention,小心；关心；心里,她是一个心很好的人。,tā shì yí gè xīn hěn hǎo de rén.,Cô ấy là người có tấm lòng rất tốt.
+HSK 3,20,已,yǐ,phó từ,đã (văn viết),already; to stop; then,已经；早已；已有,会议已结束。,huì yì yǐ jié shù.,Cuộc họp đã kết thúc.
+HSK 3,21,张,zhāng,"lượng từ, tên riêng, động từ, ngữ tố","tờ, tấm, chiếc (lượng từ vật phẳng)",to open up; to spread; sheet of paper,一张纸；一张桌子；张开,请给我两张票。,qǐng gěi wǒ liǎng zhāng piào.,Cho tôi hai vé.
+HSK 3,22,关系,guān xi,"danh từ, động từ",quan hệ,relation; relationship; to concern,没关系；关系很好；国际关系,我们的关系很好。,wǒ men de guān xi hěn hǎo.,Quan hệ của chúng tôi rất tốt.
+HSK 3,23,内,nèi,phương vị,"trong, nội",inside; inner; internal,室内；国内；一周内,请在三天内完成。,qǐng zài sān tiān nèi wán chéng.,Hãy hoàn thành trong vòng ba ngày.
+HSK 3,24,总,zǒng,"phó từ, từ khu biệt, động từ",luôn; tổng,general; overall; to sum up; in every case; always; invariably,总是；总经理；总共,他总说自己很忙。,tā zǒng shuō zì jǐ hěn máng.,Anh ấy luôn nói mình rất bận.
+HSK 3,25,每,měi,đại từ,mỗi,each; every,每天；每个人；每次,我每天都学习汉语。,wǒ měi tiān dōu xué xí hàn yǔ.,Ngày nào tôi cũng học tiếng Trung.
+HSK 3,26,美,měi,"từ khu biệt, tính từ, ngữ tố, tính/danh từ",đẹp,(bound form) the Americas (abbr. for 洲); (bound form) USA (abbr. for 美国); beautiful,很美；美丽；美国,这里的风景很美。,zhè lǐ de fēng jǐng hěn měi.,Phong cảnh ở đây rất đẹp.
+HSK 3,27,一切,yī qiè,đại từ,"tất cả, mọi thứ",everything; every; all,一切都好；一切顺利；为了一切,祝你一切顺利！,zhù nǐ yī qiè shùn lì!,Chúc bạn mọi việc thuận lợi!
+HSK 3,28,由,yóu,"giới từ, động từ","do, bởi; từ",to follow; from; because of; due to,由他负责；由……组成；由于,这件事由我负责。,zhè jiàn shì yóu wǒ fù zé.,Việc này do tôi phụ trách.
+HSK 3,29,任何,rèn hé,đại từ,bất kỳ,any; whatever; whichever,任何人；任何时候；任何问题,有任何问题都可以问我。,yǒu rèn hé wèn tí dōu ké yǐ wèn wǒ.,Có bất kỳ vấn đề gì đều có thể hỏi tôi.
+HSK 3,30,决定,jué dìng,"động từ, danh từ",quyết định,to decide (to do something); to resolve; decision,做决定；决定了；最后决定,我决定明年去中国留学。,wǒ jué dìng míng nián qù zhōng guó liú xué.,Tôi quyết định năm sau sang Trung Quốc du học.
+HSK 3,31,只有,zhǐ yǒu,"liên từ, phó từ, động từ",chỉ có,"only have ...; there is only ...; (used in combination with 才) it is only if one ... (that one can ...) (Example: 只有通过治疗才能痊愈 ""the only way to cure it is with therapy"")",只有……才……；只有一个,只有努力学习，才能考好。,"zhǐ yǒu nǔ lì xué xí, cái néng kǎo hǎo.",Chỉ có học hành chăm chỉ mới thi tốt được.
+HSK 3,32,如何,rú hé,đại từ,như thế nào (văn viết),how; what way; what,如何学习；如何解决；不知如何,我们应该如何解决这个问题？,wǒ men yīng gāi rú hé jiě jué zhè ge wèn tí?,Chúng ta nên giải quyết vấn đề này như thế nào?
+HSK 3,33,受,shòu,động từ,"chịu, nhận",to receive; to accept; to suffer,受欢迎；受伤；受影响,这个老师很受学生欢迎。,zhè ge lǎo shī hěn shòu xué shēng huān yíng.,Thầy giáo này rất được học sinh yêu mến.
+HSK 3,34,使,shǐ,động từ,"khiến, làm cho",to make; to cause; to enable,使人高兴；使用；使……成为,这个消息使大家很高兴。,zhè ge xiāo xī shǐ dà jiā hěn gāo xìng.,Tin này khiến mọi người rất vui.
+HSK 3,35,其实,qí shí,phó từ,thật ra,actually; in fact; really,其实不难；其实我；其实是,其实这个问题很简单。,qí shí zhè ge wèn tí hěn jiǎn dān.,Thật ra vấn đề này rất đơn giản.
+HSK 3,36,连,lián,"trợ từ, phó từ, động từ, danh từ",ngay cả; liền,to link; to join; to connect,连……都/也……；连续；连忙,他连饭都没吃就走了。,tā lián fàn dōu méi chī jiù zǒu le.,Anh ấy cơm cũng chưa ăn đã đi rồi.
+HSK 3,37,当然,dāng rán,"phó từ, từ khu biệt",đương nhiên,only natural; as it should be; certainly,当然可以；当然不；当然了,“你能帮我吗？”“当然可以。”,"""nǐ néng bāng wǒ ma? """"dāng rán ké yǐ. """,“Bạn giúp tôi được không?” “Đương nhiên được.”
+HSK 3,38,部,bù,"lượng từ, danh từ","bộ (lượng từ phim, máy); bộ phận",ministry; department; section,一部电影；一部手机；部门,这部电影很感人。,zhè bù diàn yǐng hěn gǎn rén.,Bộ phim này rất cảm động.
+HSK 3,39,消息,xiāo xi,danh từ,tin tức,news; information,好消息；听到消息；没有消息,我有一个好消息告诉你。,wǒ yǒu yí gè hǎo xiāo xi gào sù nǐ.,Tôi có một tin tốt muốn báo bạn.
+HSK 3,40,表现,biǎo xiàn,"động từ, động/danh từ","biểu hiện, thể hiện",to show; to show off; to display,表现很好；表现出；工作表现,他在比赛中表现得很好。,tā zài bǐ sài zhōng biǎo xiàn dé hěn hǎo.,Anh ấy đã thể hiện rất tốt trong trận đấu.
+HSK 3,41,解决,jiě jué,"động từ, động/danh từ",giải quyết,"to solve; to resolve; to settle (a problem); to eliminate; to wipe out (an enemy, bandits etc)",解决问题；解决办法；得到解决,这个问题已经解决了。,zhè ge wèn tí yǐ jīng jiě jué le.,Vấn đề này đã được giải quyết.
+HSK 3,42,成功,chéng gōng,"tính từ, tính/danh từ, tính/phó từ",thành công,"Chenggong or Chengkung town in Taitung County 台东县, southeast Taiwan; success; to succeed",成功了；获得成功；成功的人,祝你成功！,zhù nǐ chéng gōng!,Chúc bạn thành công!
+HSK 3,43,结束,jié shù,"động từ, động/danh từ",kết thúc,termination; to finish; to end,结束了；比赛结束；结束工作,会议几点结束？,huì yì jǐ diǎn jié shù?,Cuộc họp mấy giờ kết thúc?
+HSK 3,44,者,zhě,"hậu tố, đại từ, trợ từ ngữ khí, danh từ, ngữ tố, trợ từ",người (hậu tố: 作者、读者),(after a verb or adjective) one who (is) ...; (after a noun) person involved in ...; -er,作者；记者；读者,这本书的作者是谁？,zhè běn shū de zuò zhě shì shuí?,Tác giả của quyển sách này là ai?
+HSK 3,45,转,zhuǎn,động từ,"chuyển, rẽ",to turn; to change direction; to transfer,转身；往左转；转告,到路口往右转。,dào lù kǒu wǎng yòu zhuǎn.,Đến ngã tư thì rẽ phải.
+HSK 3,46,调查,diào chá,"động từ, động/danh từ",điều tra,investigation; inquiry; to investigate,进行调查；调查结果；市场调查,警察正在调查这件事。,jǐng chá zhèng zài diào chá zhè jiàn shì.,Cảnh sát đang điều tra việc này.
+HSK 3,47,方式,fāng shì,danh từ,"phương thức, cách",way; manner; style; mode; pattern,生活方式；联系方式；用这种方式,你的联系方式是什么？,nǐ de lián xì fāng shì shì shén me?,Phương thức liên lạc của bạn là gì?
+HSK 3,48,美元,Měi yuán,"lượng từ, danh từ",đô la Mỹ,American dollar; US dollar,一百美元；美元换人民币,这个包要两百美元。,zhè ge bāo yào liǎng bǎi Měi yuán.,Cái túi này giá hai trăm đô la.
+HSK 3,49,处理,chǔ lǐ,"động từ, động/danh từ",xử lý,to handle; to deal with; to punish; to treat sth by a special process; to process,处理问题；处理好；处理一下,这件事我来处理。,zhè jiàn shì wǒ lái chǔ lǐ.,Việc này để tôi xử lý.
+HSK 3,50,强,qiáng,"tính từ, ngữ tố, tính/phó từ",mạnh,strong; powerful; better,很强；能力强；强大,他的工作能力很强。,tā de gōng zuò néng lì hěn qiáng.,Năng lực làm việc của anh ấy rất mạnh.
+HSK 3,51,能力,néng lì,danh từ,năng lực,capability; ability,工作能力；有能力；提高能力,他有能力做好这件事。,tā yǒu néng lì zuò hǎo zhè jiàn shì.,Anh ấy có năng lực làm tốt việc này.
+HSK 3,52,保护,bǎo hù,"động từ, động/danh từ",bảo vệ,to protect; to defend; to safeguard,保护环境；保护自己；保护动物,我们要保护环境。,wǒ men yào bǎo hù huán jìng.,Chúng ta phải bảo vệ môi trường.
+HSK 3,53,管,guǎn,"động từ, lượng từ","quản lý; lo, can thiệp",to take care (of); to control; to manage,管理；不管；别管我,这件事你别管了。,zhè jiàn shì nǐ bié guǎn le.,Việc này bạn đừng can thiệp nữa.
+HSK 3,54,支持,zhī chí,"động từ, động/danh từ",ủng hộ,to be in favor of; to support; to back,支持你；得到支持；大力支持,谢谢大家的支持。,xiè xie dà jiā de zhī chí.,Cảm ơn sự ủng hộ của mọi người.
+HSK 3,55,注意,zhù yì,"động từ, động/danh từ",chú ý,to take note of; to pay attention to,注意安全；注意身体；引起注意,天冷了，注意身体。,"tiān lěng le, zhù yì shēn tǐ.","Trời lạnh rồi, chú ý sức khỏe."
+HSK 3,56,活,huó,"động từ, danh từ, tính từ",sống; công việc,to live; alive; living,活着；生活；干活,这条鱼还活着。,zhè tiáo yú hái huó zhe.,Con cá này vẫn còn sống.
+HSK 3,57,拍,pāi,"động từ, lượng từ, ngữ tố",vỗ; chụp (ảnh); quay (phim),to pat; to clap; to slap,拍照；拍电影；拍手,我们在这儿拍张照吧。,wǒ men zài zhè ér pāi zhāng zhào ba.,Chúng ta chụp một tấm ảnh ở đây nhé.
+HSK 3,58,整个,zhěng gè,"từ khu biệt, số từ, danh từ","toàn bộ, cả",whole; entire; total,整个世界；整个上午；整个城市,我整个上午都在学习。,wǒ zhěng gè shàng wǔ dōu zài xué xí.,Cả buổi sáng tôi đều học.
+HSK 3,59,极了,jí le,"trợ từ ngữ khí, trợ từ",cực kỳ,extremely; exceedingly,好极了；高兴极了；累极了,这个主意好极了！,zhè ge zhǔ yì hǎo jí le!,Ý kiến này hay cực kỳ!
+HSK 3,60,保证,bǎo zhèng,"động từ, động/danh từ","đảm bảo, cam đoan",guarantee; to guarantee; to ensure,保证质量；我保证；保证完成,我保证明天按时到。,wǒ bǎo zhèng míng tiān àn shí dào.,Tôi đảm bảo mai đến đúng giờ.
+HSK 3,61,根本,gēn běn,"phó từ, danh từ, tính từ",căn bản; hoàn toàn (không),fundamental; basic; root,根本不；根本问题；从根本上,我根本不认识他。,wǒ gēn běn bù rèn shí tā.,Tôi hoàn toàn không quen anh ta.
+HSK 3,62,城市,chéng shì,danh từ,thành phố,city; town,大城市；城市生活；这个城市,上海是一个大城市。,shàng hǎi shì yí gè dà chéng shì.,Thượng Hải là một thành phố lớn.
+HSK 3,63,目前,mù qián,thời gian,"hiện nay, trước mắt",at the present time; currently,目前的情况；到目前为止,目前我还没有工作。,mù qián wǒ hái méi yǒu gōng zuò.,Hiện tại tôi vẫn chưa có việc làm.
+HSK 3,64,游戏,yóu xì,"danh từ, động từ",trò chơi,game; to play,玩游戏；电子游戏；游戏机,孩子们在玩游戏。,hái zi men zài wán yóu xì.,Bọn trẻ đang chơi trò chơi.
+HSK 3,65,马,mǎ,"danh từ, tên riêng, từ khu biệt",ngựa,abbr. for Malaysia 马来西亚; horse; horse or cavalry piece in Chinese chess,骑马；一匹马；马上,他会骑马。,tā huì qí mǎ.,Anh ấy biết cưỡi ngựa.
+HSK 3,66,比较,bǐ jiào,"phó từ, động/danh từ, động từ",tương đối; so sánh,to compare; to contrast; comparatively,比较好；比较一下；比较多,今天比较冷。,jīn tiān bǐ jiào lěng.,Hôm nay tương đối lạnh.
+HSK 3,67,存在,cún zài,"động từ, động/danh từ",tồn tại,to exist; to be; existence,存在问题；不存在；仍然存在,这个计划还存在一些问题。,zhè ge jì huà hái cún zài yì xiē wèn tí.,Kế hoạch này vẫn còn tồn tại một số vấn đề.
+HSK 3,68,终于,zhōng yú,phó từ,cuối cùng (cũng),at last; in the end; finally,终于到了；终于明白；终于完成,我终于找到了工作。,wǒ zhōng yú zhǎo dào le gōng zuò.,Cuối cùng tôi đã tìm được việc làm.
+HSK 3,69,现场,xiàn chǎng,nơi chốn,"hiện trường, tại chỗ","the scene (of a crime, accident etc); (on) the spot; (at) the site",事故现场；现场直播；在现场,记者在现场报道。,jì zhě zài xiàn chǎng bào dào.,Phóng viên đưa tin tại hiện trường.
+HSK 3,70,下来,xià lai,động từ,"xuống; (bổ ngữ: lại, tiếp tục)","to come down; (completed action marker); (after verb of motion, indicates motion down and towards us, also fig.)",坐下来；记下来；停下来,请把电话号码写下来。,qǐng bǎ diàn huà hào mǎ xiě xià lai.,Hãy ghi số điện thoại lại.
+HSK 3,71,个人,gè rén,danh từ,cá nhân,individual; personal; oneself,个人问题；个人信息；我个人认为,这是我的个人意见。,zhè shì wǒ de gè rén yì jiàn.,Đây là ý kiến cá nhân của tôi.
+HSK 3,72,除了,chú le,giới từ,ngoài … ra,besides; apart from (... also...); in addition to,除了……以外；除了他,除了汉语，我还会说英语。,"chú le hàn yǔ, wǒ hái huì shuō yīng yǔ.","Ngoài tiếng Trung, tôi còn biết nói tiếng Anh."
+HSK 3,73,区,qū,danh từ,"khu, quận",area; region; district,地区；市区；区别,我住在海淀区。,wǒ zhù zài hǎi diàn qū.,Tôi sống ở quận Hải Điến.
+HSK 3,74,总是,zǒng shì,"phó từ, động từ",luôn luôn,always,总是这样；总是迟到；总是很忙,他总是第一个到学校。,tā zǒng shì dì yí gè dào xué xiào.,Cậu ấy luôn là người đến trường đầu tiên.
+HSK 3,75,指,zhǐ,"động từ, ngữ tố",chỉ; ngón tay,finger; to point at or to; to indicate or refer to,指出；手指；指着,他指着地图说：“我们在这儿。”,"tā zhǐ zhe dì tú shuō: ""wǒ men zài zhè ér. """,Anh ấy chỉ vào bản đồ nói: “Chúng ta ở đây.”
+HSK 3,76,精神,jīng shen,danh từ,"tinh thần; có tinh thần, phấn chấn",vigor; vitality; drive,有精神；精神好；精神压力,你今天看起来很精神。,nǐ jīn tiān kàn qǐ lái hěn jīng shen.,Hôm nay trông bạn rất có tinh thần.
+HSK 3,77,双,shuāng,"số từ, lượng từ",đôi (lượng từ),two; double; pair,一双鞋；双方；双手,我买了一双鞋。,wǒ mǎi le yī shuāng xié.,Tôi mua một đôi giày.
+HSK 3,78,保持,bǎo chí,"động từ, động/danh từ","giữ, duy trì",to keep; to maintain; to hold,保持安静；保持联系；保持健康,我们要保持联系。,wǒ men yào bǎo chí lián xì.,Chúng ta phải giữ liên lạc.
+HSK 3,79,代表,dài biǎo,"danh từ, động từ",đại biểu; đại diện,representative; delegate; to represent,学生代表；代表大家；代表团,他代表我们班参加比赛。,tā dài biǎo wǒ men bān cān jiā bǐ sài.,Cậu ấy đại diện lớp chúng tôi tham gia cuộc thi.
+HSK 3,80,突然,tū rán,"tính/phó từ, tính từ",đột nhiên,sudden; abrupt; unexpected,突然下雨；很突然；突然发生,天突然下起了大雨。,tiān tū rán xià qǐ le dà yǔ.,Trời đột nhiên đổ mưa to.
+HSK 3,81,里面,lǐ miàn,phương vị,bên trong,inside; interior; also pr. [lǐ mian],在里面；里面有；房间里面,盒子里面是什么？,hé zi lǐ miàn shì shén me?,Bên trong hộp là gì?
+HSK 3,82,确定,què dìng,"động từ, động/danh từ","xác định, chắc chắn",definite; certain; fixed,确定时间；不确定；确定一下,你确定是他吗？,nǐ què dìng shì tā ma?,Bạn chắc chắn là anh ấy không?
+HSK 3,83,目标,mù biāo,danh từ,mục tiêu,target; goal; objective,实现目标；我的目标；定目标,我的目标是通过HSK六级。,wǒ de mù biāo shì tōng guòHSK liù jí.,Mục tiêu của tôi là thi đỗ HSK cấp 6.
+HSK 3,84,任务,rèn wu,danh từ,nhiệm vụ,mission; assignment; task; duty; role,完成任务；工作任务；学习任务,今天的任务完成了。,jīn tiān de rèn wu wán chéng le.,Nhiệm vụ hôm nay hoàn thành rồi.
+HSK 3,85,容易,róng yì,"tính từ, tính/phó từ",dễ,easy; straightforward; likely; liable to; apt to,很容易；不容易；容易生病,这道题很容易。,zhè dào tí hěn róng yì.,Câu này rất dễ.
+HSK 3,86,联系,lián xì,"động từ, động/danh từ","liên hệ, liên lạc",connection; contact; relation,联系方式；保持联系；跟他联系,到了以后跟我联系。,dào le yǐ hòu gēn wǒ lián xì.,Đến nơi thì liên lạc với tôi.
+HSK 3,87,合作,hé zuò,"động/danh từ, động từ",hợp tác,to cooperate; to collaborate; to work together,合作伙伴；跟他合作；合作愉快,希望我们合作愉快。,xī wàng wǒ men hé zuò yú kuài.,Hy vọng chúng ta hợp tác vui vẻ.
+HSK 3,88,因此,yīn cǐ,liên từ,vì vậy,thus; consequently; as a result,因此……,他每天练习，因此进步很快。,"tā měi tiān liàn xí, yīn cǐ jìn bù hěn kuài.","Anh ấy luyện tập hằng ngày, vì vậy tiến bộ rất nhanh."
+HSK 3,89,人员,rén yuán,danh từ,"nhân viên, nhân sự",staff; crew; personnel,工作人员；服务人员；人员名单,请问工作人员在哪儿？,qǐng wèn gōng zuò rén yuán zài nǎ ér?,Xin hỏi nhân viên ở đâu?
+HSK 3,90,按,àn,"giới từ, động từ","ấn, bấm; theo",to press; to push; to leave aside or shelve,按时；按照；按一下,请按一下这个按钮。,qǐng àn yī xià zhè ge àn niǔ.,Hãy bấm nút này một cái.
+HSK 3,91,线,xiàn,"danh từ, lượng từ","đường, sợi, tuyến",thread; string; wire,一条线；地铁二号线；在线,你坐地铁二号线就能到。,nǐ zuò dì tiě èr hào xiàn jiù néng dào.,Bạn đi tàu điện tuyến số 2 là đến.
+HSK 3,92,报告,bào gào,"danh từ, động từ",báo cáo,to inform; to report; to make known,写报告；工作报告；报告会,我在写工作报告。,wǒ zài xiě gōng zuò bào gào.,Tôi đang viết báo cáo công việc.
+HSK 3,93,台,tái,"lượng từ, danh từ, từ khu biệt",đài; chiếc (lượng từ máy móc),Taiwan (abbr.); (classical) you (in letters); desk; table; counter,一台电脑；电视台；舞台,我买了一台新电脑。,wǒ mǎi le yī tái xīn diàn nǎo.,Tôi mua một chiếc máy tính mới.
+HSK 3,94,生命,shēng mìng,danh từ,"sinh mệnh, sự sống",life (as the characteristic of living beings); living being; creature,生命安全；保护生命；生命力,生命只有一次。,shēng mìng zhí yǒu yī cì.,Sinh mệnh chỉ có một lần.
+HSK 3,95,明显,míng xiǎn,"tính từ, tính/phó từ","rõ ràng, rõ rệt",clear; distinct; obvious,很明显；明显的变化；明显提高,他的汉语明显进步了。,tā de hàn yǔ míng xiǎn jìn bù le.,Tiếng Trung của anh ấy rõ ràng đã tiến bộ.
+HSK 3,96,伤,shāng,"động từ, danh từ",vết thương; làm bị thương,to injure; injury; wound,受伤；伤心；伤口,他的腿受伤了。,tā de tuǐ shòu shāng le.,Chân anh ấy bị thương rồi.
+HSK 3,97,曾经,céng jīng,phó từ,đã từng,once; already; former,曾经去过；曾经是；曾经有,我曾经在北京工作过两年。,wǒ céng jīng zài běi jīng gōng zuò guò liǎng nián.,Tôi đã từng làm việc ở Bắc Kinh hai năm.
+HSK 3,98,另外,lìng wài,"đại từ, liên từ, phó từ",ngoài ra; khác,additional; in addition; besides,另外一个；另外的；另外还有,另外，我还想说一件事。,"lìng wài, wǒ hái xiǎng shuō yī jiàn shì.","Ngoài ra, tôi còn muốn nói một chuyện."
+HSK 3,99,简单,jiǎn dān,"tính từ, tính/phó từ",đơn giản,simple; not complicated,很简单；简单的；简单地说,这个问题很简单。,zhè ge wèn tí hěn jiǎn dān.,Vấn đề này rất đơn giản.
+HSK 3,100,血,xuè,danh từ,máu,blood; colloquial pr. [xiě],流血；血型；出血,他的手流血了。,tā de shǒu liú xuè le.,Tay anh ấy chảy máu rồi.
+HSK 3,101,到底,dào dǐ,"phó từ, động từ",rốt cuộc,finally; in the end; when all is said and done,到底是谁；到底怎么了；坚持到底,你到底去不去？,nǐ dào dǐ qù bù qù?,Rốt cuộc bạn có đi hay không?
+HSK 3,102,绝对,jué duì,"phó từ, tính từ",tuyệt đối,absolute; unconditional,绝对不；绝对没问题；绝对正确,我绝对不会告诉别人。,wǒ jué duì bú huì gào sù bié rén.,Tôi tuyệt đối sẽ không nói với người khác.
+HSK 3,103,坚持,jiān chí,động từ,kiên trì,to persevere with; to persist in; to insist on,坚持下去；坚持学习；坚持到底,学语言要坚持每天练习。,xué yǔ yán yào jiān chí měi tiān liàn xí.,Học ngôn ngữ phải kiên trì luyện tập mỗi ngày.
+HSK 3,104,派,pài,"động từ, danh từ, lượng từ","phái, cử",clique; school; group,派人；派去；派代表,公司派他去上海工作。,gōng sī pài tā qù shàng hǎi gōng zuò.,Công ty cử anh ấy đi làm việc ở Thượng Hải.
+HSK 3,105,好好,hǎo hǎo,"phó từ, trạng thái từ","cho tốt, đàng hoàng",well; carefully; nicely,好好学习；好好休息；好好想想,你要好好休息。,nǐ yào hǎo hǎo xiū xī.,Bạn phải nghỉ ngơi cho tốt.
+HSK 3,106,技术,jì shù,danh từ,"kỹ thuật, công nghệ",technology; technique; skill,新技术；技术人员；科学技术,这家公司的技术很先进。,zhè jiā gōng sī de jì shù hěn xiān jìn.,Công nghệ của công ty này rất tiên tiến.
+HSK 3,107,设计,shè jì,"động từ, động/danh từ",thiết kế,to design; to plan; design; plan,设计师；服装设计；设计得很好,这件衣服是她设计的。,zhè jiàn yī fú shì tā shè jì de.,Bộ quần áo này do cô ấy thiết kế.
+HSK 3,108,利用,lì yòng,"động từ, động/danh từ","lợi dụng, tận dụng",to exploit; to make use of; to use,利用时间；利用机会；充分利用,我们要好好利用时间。,wǒ men yào hǎo hǎo lì yòng shí jiān.,Chúng ta phải tận dụng tốt thời gian.
+HSK 3,109,性,xìng,"ngữ tố, danh từ, hậu tố",tính; giới tính,nature; character; property,性格；性别；重要性,这件事的重要性很大。,zhè jiàn shì de zhòng yào xìng hěn dà.,Tầm quan trọng của việc này rất lớn.
+HSK 3,110,建议,jiàn yì,"danh từ, động từ","kiến nghị, đề nghị",to propose; to suggest; to recommend; proposal; suggestion; recommendation,提建议；我建议；好的建议,我建议你早点儿去医院。,wǒ jiàn yì nǐ zǎo diǎn ér qù yī yuàn.,Tôi đề nghị bạn đi bệnh viện sớm.
+HSK 3,111,各位,gè wèi,đại từ,các vị,"everybody; all (guests, colleagues etc); all of you",各位同学；各位老师；各位朋友,各位好，欢迎大家来到这里。,"gè wèi hǎo, huān yíng dà jiā lái dào zhè lǐ.","Chào các vị, chào mừng mọi người đến đây."
+HSK 3,112,约,yuē,"phó từ, từ khu biệt, động từ, ngữ tố",hẹn; khoảng,to make an appointment; to invite; approximately,约会；约好；大约,我约了朋友一起吃饭。,wǒ yuē le péng yǒu yì qǐ chī fàn.,Tôi hẹn bạn cùng ăn cơm.
+HSK 3,113,抓,zhuā,động từ,"bắt, nắm",to grab; to catch; to arrest,抓住；抓紧；抓小偷,警察抓住了小偷。,jǐng chá zhuā zhù le xiǎo tōu.,Cảnh sát đã bắt được tên trộm.
+HSK 3,114,光,guāng,"danh từ, phó từ, động từ, tính từ",ánh sáng; hết sạch; chỉ,light; ray; bright; shiny; only; merely,阳光；吃光了；光说不做,饭都吃光了。,fàn dōu chī guāng le.,Cơm ăn hết sạch rồi.
+HSK 3,115,意义,yì yì,danh từ,ý nghĩa,sense; meaning; significance,有意义；重要意义；没有意义,这件事很有意义。,zhè jiàn shì hěn yǒu yì yì.,Việc này rất có ý nghĩa.
+HSK 3,116,父亲,fù qīn,danh từ,"cha, bố",father; also pr. [fù qin],我的父亲；父亲节；当父亲,我父亲是一名医生。,wǒ fù qīn shì yī míng yī shēng.,Cha tôi là một bác sĩ.
+HSK 3,117,并且,bìng qiě,liên từ,"và, hơn nữa",and; besides; moreover,并且还；……并且……,他会说汉语，并且说得很好。,"tā huì shuō hàn yǔ, bìng qiě shuō dé hěn hǎo.","Anh ấy biết nói tiếng Trung, hơn nữa nói rất giỏi."
+HSK 3,118,金,jīn,"từ khu biệt, ngữ tố, tên riêng, thời gian",vàng (kim loại),Jurchen Jin dynasty (1115-1234); gold; chemical element Au,金色；黄金；金牌,她得了一块金牌。,tā dé le yī kuài jīn pái.,Cô ấy giành được một huy chương vàng.
+HSK 3,119,社会,shè huì,danh từ,xã hội,society,社会问题；进入社会；社会发展,大学毕业后，他进入了社会。,"dà xué bì yè hòu, tā jìn rù le shè huì.","Sau khi tốt nghiệp đại học, anh ấy bước vào xã hội."
+HSK 3,120,下去,xià qù,động từ,xuống; (bổ ngữ: tiếp tục),to go down; to descend; to go on,说下去；坚持下去；走下去,你继续说下去。,nǐ jì xù shuō xià qù.,Bạn cứ tiếp tục nói đi.
+HSK 3,121,证明,zhèng míng,"động từ, danh từ, động/danh từ",chứng minh; giấy chứng nhận,proof; certificate; identification,证明自己；开证明；事实证明,事实证明他是对的。,shì shí zhèng míng tā shì duì de.,Sự thật chứng minh anh ấy đúng.
+HSK 3,122,记者,jì zhě,danh từ,phóng viên,reporter; journalist,当记者；新闻记者；记者会,她是一名新闻记者。,tā shì yī míng xīn wén jì zhě.,Cô ấy là một phóng viên thời sự.
+HSK 3,123,确实,què shí,"tính/phó từ, tính từ, phó từ","quả thực, đích thực",indeed; really; reliable,确实很好；确实如此；确实不错,这个方法确实有用。,zhè ge fāng fǎ què shí yǒu yòng.,Cách này quả thực hữu ích.
+HSK 3,124,力,lì,"danh từ, ngữ tố","sức, lực",power; force; strength,力气；努力；能力,他用力推开了门。,tā yòng lì tuī kāi le mén.,Anh ấy dùng sức đẩy cửa ra.
+HSK 3,125,发展,fā zhǎn,"động từ, động/danh từ",phát triển,development; growth; to develop,经济发展；发展很快；发展中国家,这个城市发展得很快。,zhè ge chéng shì fā zhǎn dé hěn kuài.,Thành phố này phát triển rất nhanh.
+HSK 3,126,谈,tán,"động từ, ngữ tố","nói chuyện, bàn",to speak; to talk; to converse,谈话；谈一谈；谈恋爱,我想跟你谈谈。,wǒ xiǎng gēn nǐ tán tán.,Tôi muốn nói chuyện với bạn.
+HSK 3,127,至少,zhì shǎo,phó từ,ít nhất,at least; (to say the) least,至少要；至少三天；至少有,学好汉语至少需要两年。,xué hǎo hàn yǔ zhì shǎo xū yào liǎng nián.,Học giỏi tiếng Trung ít nhất cần hai năm.
+HSK 3,128,负责,fù zé,"động từ, động/danh từ, tính từ","phụ trách, chịu trách nhiệm",to be in charge of; to take responsibility for; to be to blame,负责人；负责工作；对……负责,这个项目由他负责。,zhè ge xiàng mù yóu tā fù zé.,Dự án này do anh ấy phụ trách.
+HSK 3,129,首先,shǒu xiān,"phó từ, liên từ",trước hết,first (of all); in the first place,首先……然后……；首先要,首先，我们要了解情况。,"shǒu xiān, wǒ men yào liáo jiě qíng kuàng.",Trước hết chúng ta phải tìm hiểu tình hình.
+HSK 3,130,交易,jiāo yì,"danh từ, động/danh từ, động từ",giao dịch,to deal; to trade; to transact; transaction; deal,做交易；网上交易；交易市场,这笔交易很成功。,zhè bǐ jiāo yì hěn chéng gōng.,Vụ giao dịch này rất thành công.
+HSK 3,131,理解,lǐ jiě,"động từ, động/danh từ","lý giải, thấu hiểu",to comprehend; to understand,理解你；互相理解；不理解,我很理解你的感受。,wǒ hěn lǐ jiě nǐ de gǎn shòu.,Tôi rất hiểu cảm nhận của bạn.
+HSK 3,132,报道,bào dào,"động từ, danh từ, động/danh từ",đưa tin; bài báo,to report (news); report,新闻报道；报道说；进行报道,报纸上报道了这件事。,bào zhǐ shàng bào dào le zhè jiàn shì.,Báo chí đã đưa tin về việc này.
+HSK 3,133,父母,fù mǔ,danh từ,cha mẹ,father and mother; parents,我的父母；孝敬父母；父母亲,我很想念我的父母。,wǒ hěn xiǎng niàn wǒ de fù mǔ.,Tôi rất nhớ bố mẹ.
+HSK 3,134,城,chéng,danh từ,"thành, thành phố",city walls; city; town,进城；城里；长城,他在城里工作。,tā zài chéng lǐ gōng zuò.,Anh ấy làm việc trong thành phố.
+HSK 3,135,安排,ān pái,"động từ, động/danh từ",sắp xếp,to arrange; to plan; to set up,安排时间；安排工作；做安排,明天的工作我已经安排好了。,míng tiān de gōng zuò wǒ yǐ jīng ān pái hǎo le.,Công việc ngày mai tôi đã sắp xếp xong rồi.
+HSK 3,136,力量,lì liang,danh từ,"sức mạnh, lực lượng",power; force; strength,有力量；团结的力量；给我力量,团结就是力量。,tuán jié jiù shì lì liang.,Đoàn kết là sức mạnh.
+HSK 3,137,敢,gǎn,"động từ, ngữ tố",dám,to dare; daring; (polite) may I venture,不敢；敢说；敢做,我不敢一个人走夜路。,wǒ bù gǎn yí gè rén zǒu yè lù.,Tôi không dám đi đường đêm một mình.
+HSK 3,138,造成,zào chéng,động từ,gây ra,to bring about; to create; to cause,造成影响；造成损失；造成问题,大雨造成了交通问题。,dà yǔ zào chéng le jiāo tōng wèn tí.,Mưa lớn đã gây ra vấn đề giao thông.
+HSK 3,139,某,mǒu,đại từ,nào đó,some; a certain; sb or sth indefinite,某人；某天；某个地方,某个地方有人在唱歌。,mǒu gè dì fāng yǒu rén zài chàng gē.,Ở nơi nào đó có người đang hát.
+HSK 3,140,随,suí,"giới từ, động từ, ngữ tố","theo, tùy",to follow; to comply with; varying according to...,随便；随时；随着,你随我来。,nǐ suí wǒ lái.,Bạn đi theo tôi.
+HSK 3,141,支,zhī,"lượng từ, động từ","cây, chiếc (lượng từ bút, đội); chi",to support; to sustain; to erect,一支笔；一支球队；支持,我买了两支笔。,wǒ mǎi le liǎng zhī bǐ.,Tôi mua hai cây bút.
+HSK 3,142,人生,rén shēng,danh từ,đời người,life (one's time on earth),人生目标；人生道路；美好的人生,人生只有一次。,rén shēng zhí yǒu yī cì.,Đời người chỉ có một lần.
+HSK 3,143,会议,huì yì,danh từ,"hội nghị, cuộc họp",meeting; conference,开会议；会议室；参加会议,会议在三楼会议室举行。,huì yì zài sān lóu huì yì shì jǔ xíng.,Cuộc họp được tổ chức ở phòng họp tầng ba.
+HSK 3,144,幸福,xìng fú,"tính từ, tính/danh từ, danh từ riêng",hạnh phúc,happiness; happy; blessed,很幸福；幸福的生活；祝你幸福,祝你们幸福！,zhù nǐ men xìng fú!,Chúc các bạn hạnh phúc!
+HSK 3,145,自然,zì rán,"danh từ, phó từ, tính từ",tự nhiên,nature; natural; naturally,大自然；很自然；自然地,他说话很自然。,tā shuō huà hěn zì rán.,Anh ấy nói chuyện rất tự nhiên.
+HSK 3,146,责任,zé rèn,danh từ,trách nhiệm,responsibility; blame; duty,有责任；负责任；责任心,这是我的责任。,zhè shì wǒ de zé rèn.,Đây là trách nhiệm của tôi.
+HSK 3,147,失去,shī qù,động từ,mất đi,to lose,失去机会；失去信心；失去朋友,我不想失去这个机会。,wǒ bù xiǎng shī qù zhè ge jī huì.,Tôi không muốn mất cơ hội này.
+HSK 3,148,赢,yíng,động từ,thắng,to beat; to win; to profit,赢了；赢得；赢比赛,我们队赢了！,wǒ men duì yíng le!,Đội chúng ta thắng rồi!
+HSK 3,149,报,bào,"danh từ, động từ",báo; báo cáo,to announce; to inform; report,报纸；报名；报告,我想报一个汉语班。,wǒ xiǎng bào yí gè hàn yǔ bān.,Tôi muốn đăng ký một lớp tiếng Trung.
+HSK 3,150,人民,rén mín,danh từ,nhân dân,the people,人民群众；为人民服务；人民币,中国人民很热情。,zhōng guó rén mín hěn rè qíng.,Nhân dân Trung Quốc rất nhiệt tình.
+HSK 3,151,步,bù,"lượng từ, danh từ, động từ",bước,a step; a pace; walk,一步；跑步；进步,他向前走了两步。,tā xiàng qián zǒu le liǎng bù.,Anh ấy bước lên phía trước hai bước.
+HSK 3,152,面对,miàn duì,động từ,đối mặt,to face; to confront,面对困难；面对现实；面对面,我们要勇敢面对困难。,wǒ men yào yǒng gǎn miàn duì kùn nán.,Chúng ta phải dũng cảm đối mặt với khó khăn.
+HSK 3,153,事件,shì jiàn,danh từ,sự kiện,event; happening; incident,重大事件；这个事件；交通事件,这个事件引起了大家的关注。,zhè ge shì jiàn yǐn qǐ le dà jiā de guān zhù.,Sự kiện này đã thu hút sự quan tâm của mọi người.
+HSK 3,154,压力,yā lì,danh từ,áp lực,pressure,工作压力；有压力；压力很大,最近我的压力很大。,zuì jìn wǒ de yā lì hěn dà.,Dạo này áp lực của tôi rất lớn.
+HSK 3,155,结婚,jié hūn,"động từ, động/danh từ",kết hôn,to marry; to get married,结婚了；跟他结婚；结婚典礼,他们明年结婚。,tā men míng nián jié hūn.,Năm sau họ kết hôn.
+HSK 3,156,由于,yóu yú,"giới từ, liên từ","do, bởi vì",due to; as a result of; thanks to,由于……；由于天气原因,由于下大雨，比赛取消了。,"yóu yú xià dà yǔ, bǐ sài qǔ xiāo le.",Do mưa lớn nên trận đấu bị hủy.
+HSK 3,157,母亲,mǔ qīn,danh từ,mẹ,mother; also pr. [mǔ qin],我的母亲；母亲节；伟大的母亲,母亲是我最爱的人。,mǔ qīn shì wǒ zuì ài de rén.,Mẹ là người tôi yêu nhất.
+HSK 3,158,同意,tóng yì,"động từ, động/danh từ",đồng ý,to agree; to consent; to approve,同意你；不同意；大家都同意,我同意你的看法。,wǒ tóng yì nǐ de kàn fǎ.,Tôi đồng ý với quan điểm của bạn.
+HSK 3,159,训练,xùn liàn,"động/danh từ, động từ","huấn luyện, tập luyện",to train; to drill; training,训练运动员；参加训练；训练很累,运动员每天都要训练。,yùn dòng yuán měi tiān dōu yào xùn liàn.,Vận động viên ngày nào cũng phải tập luyện.
+HSK 3,160,部门,bù mén,danh từ,"bộ phận, ban ngành",department; branch; section,销售部门；政府部门；各个部门,他在哪个部门工作？,tā zài nǎ ge bù mén gōng zuò?,Anh ấy làm ở bộ phận nào?
+HSK 3,161,过程,guò chéng,danh từ,quá trình,course of events; process,学习过程；在……过程中；整个过程,学习的过程很重要。,xué xí de guò chéng hěn zhòng yào.,Quá trình học tập rất quan trọng.
+HSK 3,162,深,shēn,"tính từ, phó từ, ngữ tố, từ khu biệt",sâu; đậm,deep (lit. and fig.),很深；深色；深夜,这条河很深。,zhè tiáo hé hěn shēn.,Con sông này rất sâu.
+HSK 3,163,各,gè,đại từ,"các, mỗi",each; every,各种；各国；各位,各国的朋友都来了。,gè guó de péng yǒu dōu lái le.,Bạn bè các nước đều đến.
+HSK 3,164,选手,xuǎn shǒu,danh từ,tuyển thủ,athlete; contestant,参赛选手；网球选手；优秀选手,这位选手跑得很快。,zhè wèi xuǎn shǒu pǎo dé hěn kuài.,Tuyển thủ này chạy rất nhanh.
+HSK 3,165,仍然,réng rán,phó từ,"vẫn, vẫn còn",still; as before; yet,仍然是；仍然没有；仍然很好,他仍然住在那里。,tā réng rán zhù zài nà lǐ.,Anh ấy vẫn sống ở đó.
+HSK 3,166,显示,xiǎn shì,"động từ, động/danh từ","hiển thị, cho thấy",to show; to illustrate; to display,显示出；调查显示；显示屏,调查显示，很多人喜欢网上购物。,"diào chá xiǎn shì, hěn duō rén xǐ huān wǎng shàng gòu wù.",Điều tra cho thấy nhiều người thích mua sắm trên mạng.
+HSK 3,167,属于,shǔ yú,động từ,thuộc về,to be classified as; to belong to; to be part of,属于我；属于……的；不属于,这本书属于图书馆。,zhè běn shū shǔ yú tú shū guǎn.,Quyển sách này thuộc về thư viện.
+HSK 3,168,值得,zhí de,động từ,đáng,to be worth; to deserve,值得一看；值得学习；不值得,这本书值得一看。,zhè běn shū zhí de yī kàn.,Quyển sách này đáng đọc.
+HSK 3,169,人类,rén lèi,danh từ,loài người,humanity; human race; mankind,人类社会；人类历史；全人类,人类只有一个地球。,rén lèi zhí yǒu yí gè dì qiú.,Loài người chỉ có một trái đất.
+HSK 3,170,亲,qīn,"động từ, tính từ, tính/phó từ, ngữ tố",thân; hôn,parent; one's own (flesh and blood); relative,亲人；亲自；亲一下,妈妈亲了亲孩子的脸。,mā ma qīn le qīn hái zi de liǎn.,Mẹ hôn lên má đứa bé.
+HSK 3,171,经历,jīng lì,"động từ, danh từ",trải qua; trải nghiệm,experience; to experience; to go through,生活经历；经历过；工作经历,他经历了很多困难。,tā jīng lì le hěn duō kùn nán.,Anh ấy đã trải qua rất nhiều khó khăn.
+HSK 3,172,仍,réng,phó từ,vẫn (văn viết),still; yet; to remain; (literary) frequently; often,仍是；仍在；仍然,他仍在等你。,tā réng zài děng nǐ.,Anh ấy vẫn đang đợi bạn.
+HSK 3,173,紧张,jǐn zhāng,"tính từ, tính/phó từ, tính/danh từ","căng thẳng, hồi hộp",nervous; keyed up; intense,很紧张；别紧张；紧张的工作,考试的时候我很紧张。,kǎo shì de shí hòu wǒ hěn jǐn zhāng.,Lúc thi tôi rất hồi hộp.
+HSK 3,174,仅,jǐn,phó từ,chỉ (văn viết),barely; only; merely,仅有；不仅；仅仅,这里仅有三个人。,zhè lǐ jǐn yǒu sān gè rén.,Ở đây chỉ có ba người.
+HSK 3,175,挂,guà,"động từ, lượng từ",treo; cúp (máy),to hang or suspend (from a hook etc); to hang up (the phone); (of a line) to be dead,挂在墙上；挂电话；挂号,墙上挂着一张地图。,qiáng shàng guà zhe yī zhāng dì tú.,Trên tường treo một tấm bản đồ.
+HSK 3,176,事实,shì shí,danh từ,sự thật,fact,事实上；事实证明；这是事实,这是一个事实。,zhè shì yí gè shì shí.,Đây là một sự thật.
+HSK 3,177,本来,běn lái,"phó từ, từ khu biệt","vốn dĩ, ban đầu",original; originally; at first,本来想；本来就；本来的,我本来想去，后来没时间。,"wǒ běn lái xiǎng qù, hòu lái méi shí jiān.","Tôi vốn định đi, sau đó không có thời gian."
+HSK 3,178,基本,jī běn,"tính từ, tính/phó từ, danh từ",cơ bản,basic; fundamental; main,基本上；基本知识；基本要求,这是最基本的问题。,zhè shì zuì jī běn de wèn tí.,Đây là vấn đề cơ bản nhất.
+HSK 3,179,类,lèi,"lượng từ, danh từ, ngữ tố",loại,kind; type; class,这类；人类；分类,我喜欢这类电影。,wǒ xǐ huān zhè lèi diàn yǐng.,Tôi thích loại phim này.
+HSK 3,180,专家,zhuān jiā,danh từ,chuyên gia,expert; specialist,医学专家；专家说；请专家,专家说多喝水对身体好。,zhuān jiā shuō duō hē shuǐ duì shēn tǐ hǎo.,Chuyên gia nói uống nhiều nước tốt cho sức khỏe.
+HSK 3,181,跳,tiào,"động từ, động/danh từ, lượng từ",nhảy,to jump; to hop; to skip over,跳舞；跳高；跳起来,他高兴得跳了起来。,tā gāo xìng dé tiào le qǐ lái.,Anh ấy vui đến mức nhảy cẫng lên.
+HSK 3,182,久,jiǔ,"tính từ, ngữ tố, tính/phó từ",lâu,(long) time; (long) duration of time,很久；多久；好久不见,我等了很久。,wǒ děng le hěn jiǔ.,Tôi đợi rất lâu.
+HSK 3,183,以来,yǐ lái,phương vị,từ … đến nay,since (a previous event),长期以来；三年以来；自……以来,来中国以来，我交了很多朋友。,"lái zhōng guó yǐ lái, wǒ jiāo le hěn duō péng yǒu.","Từ khi đến Trung Quốc, tôi kết được nhiều bạn."
+HSK 3,184,反应,fǎn yìng,"động/danh từ, động từ, danh từ",phản ứng,to react; to respond; reaction,有反应；反应很快；没有反应,他的反应很快。,tā de fǎn yìng hěn kuài.,Phản ứng của anh ấy rất nhanh.
+HSK 3,185,地区,dì qū,danh từ,"khu vực, vùng",local; regional; district (not necessarily formal administrative unit),这个地区；山区；地区经济,这个地区经常下雨。,zhè ge dì qū jīng cháng xià yǔ.,Khu vực này thường xuyên mưa.
+HSK 3,186,关注,guān zhù,"động từ, động/danh từ","quan tâm, chú ý",to pay attention to; to follow sth closely; to follow (on social media),关注新闻；受到关注；引起关注,这件事引起了很多人的关注。,zhè jiàn shì yǐn qǐ le hěn duō rén de guān zhù.,Việc này đã thu hút sự chú ý của rất nhiều người.
+HSK 3,187,表演,biǎo yǎn,"động/danh từ, động từ",biểu diễn,play; show; performance,表演节目；看表演；精彩的表演,她的表演非常精彩。,tā de biǎo yǎn fēi cháng jīng cǎi.,Màn biểu diễn của cô ấy vô cùng đặc sắc.
+HSK 3,188,警察,jǐng chá,danh từ,cảnh sát,police; police officer,交通警察；找警察；警察局,有问题可以找警察。,yǒu wèn tí ké yǐ zhǎo jǐng chá.,Có vấn đề có thể tìm cảnh sát.
+HSK 3,189,价值,jià zhí,danh từ,giá trị,"value; worth; fig. values (ethical, cultural etc)",有价值；价值观；很高的价值,这本书很有价值。,zhè běn shū hěn yǒu jià zhí.,Quyển sách này rất có giá trị.
+HSK 3,190,相当,xiāng dāng,"phó từ, động từ, động/danh từ","tương đương; khá, rất",equivalent to; appropriate; considerably,相当好；相当于；相当多,他的汉语相当好。,tā de hàn yǔ xiāng dāng hǎo.,Tiếng Trung của anh ấy khá tốt.
+HSK 3,191,困难,kùn nan,"tính từ, tính/danh từ",khó khăn,difficult; challenging; straitened circumstances,遇到困难；克服困难；很困难,有困难就告诉我。,yǒu kùn nan jiù gào sù wǒ.,Có khó khăn thì nói với tôi.
+HSK 3,192,专业,zhuān yè,danh từ,chuyên ngành; chuyên nghiệp,specialty; specialized field; main field of study (at university),学什么专业；专业知识；很专业,你在大学学什么专业？,nǐ zài dà xué xué shén me zhuān yè?,Bạn học chuyên ngành gì ở đại học?
+HSK 3,193,难道,nán dào,phó từ,"lẽ nào, chẳng lẽ",don't tell me ...; could it be that...?,难道……吗；难道你不知道,难道你不知道这件事吗？,nán dào nǐ bù zhī dào zhè jiàn shì ma?,Chẳng lẽ bạn không biết chuyện này?
+HSK 3,194,牛,niú,"danh từ, ngữ tố, tên riêng",con bò,ox; cow; bull,牛肉；牛奶；一头牛,他家养了三头牛。,tā jiā yǎng le sān tóu niú.,Nhà anh ấy nuôi ba con bò.
+HSK 3,195,规定,guī dìng,"danh từ, động từ",quy định,to stipulate; to specify; to prescribe; to fix (a price); to set (a quota); regulations; rules; provisions; stipulations,有规定；学校规定；按规定,学校规定上课不能用手机。,xué xiào guī dìng shàng kè bù néng yòng shǒu jī.,Trường quy định trong giờ học không được dùng điện thoại.
+HSK 3,196,产生,chǎn shēng,"động từ, động/danh từ","sinh ra, nảy sinh",to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate,产生影响；产生兴趣；产生问题,我对中国文化产生了兴趣。,wǒ duì zhōng guó wén huà chǎn shēng le xìng qù.,Tôi đã nảy sinh hứng thú với văn hóa Trung Quốc.
+HSK 3,197,对方,duì fāng,danh từ,"đối phương, bên kia",the other person; the other side; the other party,了解对方；对方的；和对方,你要尊重对方的意见。,nǐ yào zūn zhòng duì fāng de yì jiàn.,Bạn phải tôn trọng ý kiến của đối phương.
+HSK 3,198,状态,zhuàng tài,danh từ,trạng thái,condition; state; state of affairs,身体状态；工作状态；最好的状态,他今天的状态很好。,tā jīn tiān de zhuàng tài hěn hǎo.,Hôm nay phong độ của anh ấy rất tốt.
+HSK 3,199,群,qún,"lượng từ, ngữ tố","nhóm, đàn, bầy","group; crowd; flock, herd, pack etc",一群人；一群羊；群众,一群孩子在公园里玩儿。,yī qún hái zi zài gōng yuán lǐ wán ér.,Một nhóm trẻ con đang chơi trong công viên.
+HSK 3,200,照,zhào,"động từ, giới từ, ngữ tố, phó từ",chiếu; chụp; theo,to shine; to illuminate; according to,照相；照镜子；照着做,请照着这个样子做。,qǐng zhào zhe zhè ge yàng zi zuò.,Hãy làm theo mẫu này.
+HSK 3,201,环境,huán jìng,danh từ,môi trường,environment; circumstances; surroundings,保护环境；学习环境；环境很好,这里的环境很安静。,zhè lǐ de huán jìng hěn ān jìng.,Môi trường ở đây rất yên tĩnh.
+HSK 3,202,火,huǒ,"danh từ, tính từ, động từ",lửa,fire; urgent; ammunition,着火；火车；发火,小心火！,xiǎo xīn huǒ!,Cẩn thận lửa!
+HSK 3,203,建立,jiàn lì,"động từ, động/danh từ","xây dựng, thành lập",to establish; to set up; to found,建立关系；建立公司；建立信心,我们建立了良好的关系。,wǒ men jiàn lì le liáng hǎo de guān xì.,Chúng ta đã xây dựng được mối quan hệ tốt.
+HSK 3,204,更加,gèng jiā,phó từ,càng thêm,more (than sth else); even more,更加努力；更加重要；更加美丽,我们以后要更加努力。,wǒ men yǐ hòu yào gèng jiā nǔ lì.,Sau này chúng ta phải cố gắng hơn nữa.
+HSK 3,205,老板,lǎo bǎn,danh từ,ông chủ,Robam (brand); boss; business proprietor,饭店老板；我的老板；当老板,我们老板人很好。,wǒ men lǎo bǎn rén hěn hǎo.,Ông chủ chúng tôi là người rất tốt.
+HSK 3,206,市场,shì chǎng,danh từ,"thị trường, chợ",marketplace; market (also in abstract),超级市场；市场经济；去市场,我去市场买菜。,wǒ qù shì chǎng mǎi cài.,Tôi đi chợ mua rau.
+HSK 3,207,必要,bì yào,"tính từ, tính/danh từ",cần thiết,necessary; essential; indispensable,有必要；没有必要；必要的时候,没有必要担心。,méi yǒu bì yào dān xīn.,Không cần thiết phải lo lắng.
+HSK 3,208,祝,zhù,"động từ, tên riêng",chúc,"to pray for; to wish (sb bon voyage, happy birthday etc); person who invokes the spirits during sacrificial ceremonies",祝你生日快乐；祝贺；祝福,祝你身体健康！,zhù nǐ shēn tǐ jiàn kāng!,Chúc bạn sức khỏe!
+HSK 3,209,危险,wēi xiǎn,"tính từ, tính/danh từ, danh từ",nguy hiểm,danger; dangerous,很危险；有危险；危险的地方,这里很危险，别过去。,"zhè lǐ hěn wēi xiǎn, bié guò qù.","Ở đây rất nguy hiểm, đừng qua đó."
+HSK 3,210,管理,guǎn lǐ,"động/danh từ, động từ",quản lý,to supervise; to manage; to administer,管理公司；管理人员；时间管理,他在公司负责管理工作。,tā zài gōng sī fù zé guǎn lǐ gōng zuò.,Anh ấy phụ trách công việc quản lý ở công ty.
+HSK 3,211,乱,luàn,"phó từ, tính từ, động từ","lộn xộn, bừa bãi",in confusion or disorder; in a confused state of mind; disorder,很乱；乱七八糟；别乱说,你的房间太乱了。,nǐ de fáng jiān tài luàn le.,Phòng của bạn bừa bộn quá.
+HSK 3,212,适合,shì hé,động từ,phù hợp,to fit; to suit,适合你；很适合；不适合,这份工作很适合你。,zhè fèn gōng zuò hěn shì hé nǐ.,Công việc này rất phù hợp với bạn.
+HSK 3,213,正式,zhèng shì,"tính/phó từ, tính từ",chính thức,formal; official,正式开始；正式员工；正式的场合,比赛正式开始了。,bǐ sài zhèng shì kāi shǐ le.,Cuộc thi chính thức bắt đầu.
+HSK 3,214,救,jiù,"động từ, động/danh từ",cứu,to save; to assist; to rescue,救人；救命；救火,他救了一个孩子。,tā jiù le yí gè hái zi.,Anh ấy đã cứu một đứa trẻ.
+HSK 3,215,从来,cóng lái,phó từ,từ trước đến nay,always; at all times; never (if used in negative sentence),从来不；从来没有,我从来没去过上海。,wǒ cóng lái méi qù guò shàng hǎi.,Tôi chưa bao giờ đi Thượng Hải.
+HSK 3,216,图,tú,"danh từ, động từ","hình, bản đồ",diagram; picture; drawing,地图；图书馆；图片,请看下面这张图。,qǐng kàn xià miàn zhè zhāng tú.,Mời xem hình dưới đây.
+HSK 3,217,实际上,shí jì shàng,phó từ,"thực tế, thật ra",in fact; in reality; as a matter of fact,实际上……,实际上，他已经知道了。,"shí jì shàng, tā yǐ jīng zhī dào le.",Thật ra anh ấy đã biết rồi.
+HSK 3,218,达到,dá dào,động từ,đạt đến,to reach; to achieve; to attain,达到目标；达到要求；达到标准,他的汉语达到了很高的水平。,tā de hàn yǔ dá dào le hěn gāo de shuǐ píng.,Tiếng Trung của anh ấy đã đạt trình độ rất cao.
+HSK 3,219,现实,xiàn shí,"danh từ, tính từ",hiện thực,reality; actuality; real,现实生活；面对现实；很现实,梦想变成了现实。,mèng xiǎng biàn chéng le xiàn shí.,Ước mơ đã trở thành hiện thực.
+HSK 3,220,不断,bù duàn,phó từ,không ngừng,unceasing; uninterrupted; continuous,不断提高；不断努力；不断发展,他的汉语水平不断提高。,tā de hàn yǔ shuǐ píng bù duàn tí gāo.,Trình độ tiếng Trung của anh ấy không ngừng nâng cao.
+HSK 3,221,媒体,méi tǐ,danh từ,truyền thông,"media, esp. news media",新闻媒体；社交媒体；媒体报道,很多媒体报道了这个消息。,hěn duō méi tǐ bào dào le zhè ge xiāo xī.,Nhiều phương tiện truyền thông đã đưa tin này.
+HSK 3,222,内容,nèi róng,danh từ,nội dung,content; substance; details,主要内容；内容丰富；课文内容,这本书的内容很丰富。,zhè běn shū de nèi róng hěn fēng fù.,Nội dung quyển sách này rất phong phú.
+HSK 3,223,上面,shàng miàn,phương vị,phía trên,on top of; above-mentioned; also pr. [shàng mian],在上面；上面写着；桌子上面,上面写着什么？,shàng miàn xiě zhe shén me?,Phía trên viết gì?
+HSK 3,224,痛,tòng,"tính từ, ngữ tố, tính/danh từ",đau,ache; pain; sorrow,头痛；很痛；痛苦,我的牙很痛。,wǒ de yá hěn tòng.,Răng tôi rất đau.
+HSK 3,225,感情,gǎn qíng,danh từ,tình cảm,emotion; sentiment; affection,有感情；感情很好；表达感情,他们俩的感情很好。,tā men liǎ de gǎn qíng hěn hǎo.,Tình cảm của hai người họ rất tốt.
+HSK 3,226,观众,guān zhòng,danh từ,khán giả,spectators; audience; visitors (to an exhibition etc),观众朋友；电视观众；现场观众,观众们都很喜欢这个节目。,guān zhòng men dōu hěn xǐ huān zhè ge jié mù.,Khán giả đều rất thích chương trình này.
+HSK 3,227,变化,biàn huà,"động/danh từ, động từ","thay đổi, biến hóa",(intransitive) to change; to vary; change; variation,变化很大；发生变化；天气变化,这几年家乡的变化很大。,zhè jǐ nián jiā xiāng de biàn huà hěn dà.,Mấy năm nay quê hương thay đổi rất nhiều.
+HSK 3,228,美丽,měi lì,"tính từ, tính/danh từ","xinh đẹp, mỹ lệ",beautiful,美丽的风景；很美丽；美丽的姑娘,杭州是一个美丽的城市。,háng zhōu shì yí gè měi lì de chéng shì.,Hàng Châu là một thành phố xinh đẹp.
+HSK 3,229,追,zhuī,động từ,đuổi theo,to chase; to pursue; to look into,追上；追求；追星,警察在追小偷。,jǐng chá zài zhuī xiǎo tōu.,Cảnh sát đang đuổi theo tên trộm.
+HSK 3,230,经验,jīng yàn,"danh từ, động từ",kinh nghiệm,experience; to experience,有经验；工作经验；经验丰富,他有十年的工作经验。,tā yǒu shí nián de gōng zuò jīng yàn.,Anh ấy có mười năm kinh nghiệm làm việc.
+HSK 3,231,集中,jí zhōng,"động từ, tính/phó từ, tính từ",tập trung,to concentrate; to centralize; to focus,集中注意力；集中精力；集中起来,上课要集中注意力。,shàng kè yào jí zhōng zhù yì lì.,Trong giờ học phải tập trung chú ý.
+HSK 3,232,破,pò,"động từ, tính từ","rách, vỡ; phá",broken; damaged; worn out,破了；打破；破坏,我的衣服破了。,wǒ de yī fú pò le.,Quần áo của tôi rách rồi.
+HSK 3,233,理由,lǐ yóu,danh từ,lý do,reason; grounds; justification,什么理由；有理由；没有理由,你没有理由不来。,nǐ méi yǒu lǐ yóu bù lái.,Bạn không có lý do gì để không đến.
+HSK 3,234,刀,dāo,"danh từ, lượng từ",con dao,knife; blade; single-edged sword,一把刀；刀子；用刀切,小心，这把刀很快。,"xiǎo xīn, zhè bǎ dāo hěn kuài.","Cẩn thận, con dao này rất sắc."
+HSK 3,235,感受,gǎn shòu,"động từ, động/danh từ",cảm nhận,to sense; perception; to feel (through the senses),感受到；我的感受；真实的感受,我能感受到你的心情。,wǒ néng gǎn shòu dào nǐ de xīn qíng.,Tôi có thể cảm nhận được tâm trạng của bạn.
+HSK 3,236,完美,wán měi,"tính từ, tính/phó từ","hoàn mỹ, hoàn hảo",perfect,很完美；完美的；不完美,世界上没有完美的人。,shì jiè shàng méi yǒu wán měi de rén.,Trên đời không có người hoàn hảo.
+HSK 3,237,直到,zhí dào,động từ,cho đến khi,until,直到现在；直到……才……,直到晚上十点他才回家。,zhí dào wǎn shàng shí diǎn tā cái huí jiā.,Mãi đến mười giờ tối anh ấy mới về nhà.
+HSK 3,238,传,chuán,"động từ, ngữ tố, động/danh từ",truyền,to pass on; to spread; to transmit,传来；传说；传播,远处传来了音乐声。,yuǎn chù chuán lái le yīn yuè shēng.,Từ xa vọng lại tiếng nhạc.
+HSK 3,239,真实,zhēn shí,"tính từ, tính/phó từ, tính/danh từ",chân thực,true; real,真实的故事；很真实；真实情况,这是一个真实的故事。,zhè shì yí gè zhēn shí de gù shì.,Đây là một câu chuyện có thật.
+HSK 3,240,后面,hòu mian,phương vị,phía sau,the back; the rear; the last bit; behind; near the end; at the back; later; afterwards,在后面；后面的人；房子后面,我家后面有一个公园。,wǒ jiā hòu mian yǒu yí gè gōng yuán.,Phía sau nhà tôi có một công viên.
+HSK 3,241,错误,cuò wù,"danh từ, tính từ","sai lầm, lỗi",mistaken; false; wrong; error; mistake,犯错误；错误的；改正错误,每个人都会犯错误。,měi gè rén dū huì fàn cuò wù.,Ai cũng sẽ mắc sai lầm.
+HSK 3,242,记录,jì lù,"danh từ, động từ","ghi chép, kỷ lục",to record; record (written account); note-taker,记录下来；会议记录；打破记录,请把会议内容记录下来。,qǐng bǎ huì yì nèi róng jì lù xià lái.,Hãy ghi lại nội dung cuộc họp.
+HSK 3,243,整,zhěng,"số từ, động từ, tính từ","cả, nguyên; chỉnh",exactly; in good order; whole,整天；整齐；整理,他整天都在玩游戏。,tā zhěng tiān dōu zài wán yóu xì.,Cả ngày cậu ta đều chơi game.
+HSK 3,244,标准,biāo zhǔn,"danh từ, tính từ",tiêu chuẩn; chuẩn,standard; norm; criterion; (adjective) standard; good; correct; conforming to a standard,标准很高；很标准；达到标准,他的普通话很标准。,tā de pǔ tōng huà hěn biāo zhǔn.,Tiếng phổ thông của anh ấy rất chuẩn.
+HSK 3,245,职业,zhí yè,danh từ,nghề nghiệp,occupation; profession; vocation; professional,什么职业；职业选择；职业运动员,你的职业是什么？,nǐ de zhí yè shì shén me?,Nghề nghiệp của bạn là gì?
+HSK 3,246,精彩,jīng cǎi,tính từ,"đặc sắc, hay",wonderful; marvelous; brilliant,很精彩；精彩的表演；精彩的比赛,昨天的比赛非常精彩。,zuó tiān de bǐ sài fēi cháng jīng cǎi.,Trận đấu hôm qua vô cùng hấp dẫn.
+HSK 3,247,朝,cháo,"giới từ, thời gian, từ khu biệt, động từ, lượng từ",hướng về,abbr. for 朝鲜 Korea; imperial or royal court; government,朝前走；朝南；朝着,我们的房间朝南。,wǒ men de fáng jiān cháo nán.,Phòng chúng tôi quay về hướng nam.
+HSK 3,248,值,zhí,"động từ, danh từ, tính từ",đáng giá; trị giá,value; (to be) worth; to happen to,值钱；值得；不值,这件衣服不值这么多钱。,zhè jiàn yī fú bù zhí zhè me duō qián.,Bộ quần áo này không đáng nhiều tiền như vậy.
+HSK 3,249,范围,fàn wéi,danh từ,phạm vi,range; scope; limit,考试范围；在……范围内；范围很大,这次考试的范围是第一到第五课。,zhè cì kǎo shì de fàn wéi shì dì yī dào dì wǔ kè.,Phạm vi bài thi lần này là từ bài một đến bài năm.
+HSK 3,250,事业,shì yè,danh từ,sự nghiệp,undertaking; project; activity,事业成功；教育事业；事业心,他的事业很成功。,tā de shì yè hěn chéng gōng.,Sự nghiệp của anh ấy rất thành công.
+HSK 3,251,痛苦,tòng kǔ,"tính/danh từ, tính từ, tính/phó từ",đau khổ,pain; suffering; painful,很痛苦；痛苦的；减少痛苦,失去亲人是很痛苦的。,shī qù qīn rén shì hěn tòng kǔ de.,Mất đi người thân là điều rất đau khổ.
+HSK 3,252,速度,sù dù,danh từ,tốc độ,speed; rate; velocity,速度很快；加快速度；速度慢,这辆车的速度很快。,zhè liàng chē de sù dù hěn kuài.,Tốc độ của chiếc xe này rất nhanh.
+HSK 3,253,文件,wén jiàn,danh từ,"văn kiện, tài liệu, tệp",document; file,一份文件；重要文件；文件夹,请把这份文件发给我。,qǐng bǎ zhè fèn wén jiàn fā gěi wǒ.,Hãy gửi tài liệu này cho tôi.
+HSK 3,254,空,kōng,"tính từ, động từ, ngữ tố, phó từ","trống, rỗng",empty; air; sky,空房间；空气；天空,这个房间是空的。,zhè ge fáng jiān shì kōng de.,Căn phòng này trống.
+HSK 3,255,显然,xiǎn rán,"tính từ, tính/phó từ",rõ ràng là,clearly; evidently; obviously,很显然；显然是,显然，他不同意。,"xiǎn rán, tā bù tóng yì.",Rõ ràng là anh ấy không đồng ý.
+HSK 3,256,左右,zuǒ yòu,"số từ, phương vị, động từ",khoảng; trái phải,left and right; nearby; approximately,三点左右；二十岁左右；左右两边,他三十岁左右。,tā sān shí suì zuǒ yòu.,Anh ấy khoảng ba mươi tuổi.
+HSK 3,257,外面,wài miàn,phương vị,bên ngoài,outside (also pr. [wài mian] for this sense); surface; exterior,在外面；外面的世界；外面很冷,外面下雨了。,wài miàn xià yǔ le.,Bên ngoài mưa rồi.
+HSK 3,258,效果,xiào guǒ,danh từ,hiệu quả,result; effect; efficacy,有效果；效果很好；学习效果,这个方法效果很好。,zhè ge fāng fǎ xiào guǒ hěn hǎo.,Phương pháp này hiệu quả rất tốt.
+HSK 3,259,状况,zhuàng kuàng,danh từ,tình trạng,condition; state; situation,身体状况；经济状况；目前的状况,他的身体状况很好。,tā de shēn tǐ zhuàng kuàng hěn hǎo.,Tình trạng sức khỏe của ông ấy rất tốt.
+HSK 3,260,架,jià,"lượng từ, động từ, ngữ tố","chiếc (lượng từ máy bay, đàn); giá đỡ",to support; frame; rack,一架飞机；书架；吵架,天上飞过一架飞机。,tiān shàng fēi guò yī jià fēi jī.,Trên trời bay qua một chiếc máy bay.
+HSK 3,261,经济,jīng jì,danh từ,kinh tế,economy; economic,经济发展；经济问题；经济学,中国经济发展很快。,zhōng guó jīng jì fā zhǎn hěn kuài.,Kinh tế Trung Quốc phát triển rất nhanh.
+HSK 3,262,按照,àn zhào,"giới từ, động từ","theo, dựa theo",according to; in accordance with; in the light of,按照规定；按照计划；按照要求,请按照老师的要求做。,qǐng àn zhào lǎo shī de yāo qiú zuò.,Hãy làm theo yêu cầu của thầy.
+HSK 3,263,有效,yǒu xiào,"tính từ, tính/phó từ","có hiệu lực, hiệu quả",effective; in effect; valid,很有效；有效的方法；有效期,这个办法很有效。,zhè ge bàn fǎ hěn yǒu xiào.,Cách này rất hiệu quả.
+HSK 3,264,反对,fǎn duì,"động từ, động/danh từ",phản đối,to oppose; to be against; to object to,反对意见；我反对；坚决反对,我反对这个计划。,wǒ fǎn duì zhè ge jì huà.,Tôi phản đối kế hoạch này.
+HSK 3,265,作品,zuò pǐn,danh từ,tác phẩm,work (of art); opus,文学作品；艺术作品；他的作品,这是他最有名的作品。,zhè shì tā zuì yǒu míng de zuò pǐn.,Đây là tác phẩm nổi tiếng nhất của ông ấy.
+HSK 3,266,室,shì,danh từ,phòng,room; work unit; grave,教室；办公室；会议室,请到会议室开会。,qǐng dào huì yì shì kāi huì.,Mời đến phòng họp để họp.
+HSK 3,267,时代,shí dài,danh từ,thời đại,"Time, US weekly news magazine; age; era",新时代；时代变了；学生时代,时代在变化。,shí dài zài biàn huà.,Thời đại đang thay đổi.
+HSK 3,268,伟大,wěi dà,tính từ,vĩ đại,huge; great; grand; worthy of the greatest admiration; important (contribution etc),伟大的人；很伟大；伟大的国家,母爱是伟大的。,mǔ ài shì wěi dà de.,Tình mẹ thật vĩ đại.
+HSK 3,269,哈哈,hā hā,tượng thanh,ha ha (tiếng cười),(onom.) laughing out loud,哈哈大笑；哈哈哈,他听了哈哈大笑。,tā tīng le hā hā dà xiào.,Anh ấy nghe xong cười ha hả.
+HSK 3,270,准,zhǔn,"tính từ, phó từ, tiền tố, động từ","chuẩn, chính xác; cho phép",to allow; to grant; in accordance with,很准；准时；不准,我的表很准。,wǒ de biǎo hěn zhǔn.,Đồng hồ của tôi rất chính xác.
+HSK 3,271,输,shū,động từ,thua; nhập (dữ liệu),to lose; to be beaten; (bound form) to transport; (literary) to donate; to contribute,输了；输入；认输,我们队输了。,wǒ men duì shū le.,Đội chúng ta thua rồi.
+HSK 3,272,充满,chōng mǎn,động từ,tràn đầy,full of; brimming with; very full,充满希望；充满信心；充满爱,他对未来充满了希望。,tā duì wèi lái chōng mǎn le xī wàng.,Anh ấy tràn đầy hy vọng vào tương lai.
+HSK 3,273,皮,pí,"danh từ, tính từ",da; vỏ,leather; skin; fur,皮包；苹果皮；皮鞋,这个包是皮的。,zhè ge bāo shì pí de.,Cái túi này bằng da.
+HSK 3,274,要是,yào shi,"liên từ, động từ",nếu,(coll.) if,要是……就……；要是下雨,要是你不来，我就走了。,"yào shi nǐ bù lái, wǒ jiù zǒu le.",Nếu bạn không đến thì tôi đi đây.
+HSK 3,275,系,xì,"động từ, danh từ",khoa (trường đại học); hệ,to connect; to relate to; to tie up,中文系；系统；关系,他是中文系的学生。,tā shì zhōng wén xì de xué shēng.,Anh ấy là sinh viên khoa tiếng Trung.
+HSK 3,276,增加,zēng jiā,"động từ, động/danh từ",tăng thêm,to raise; to increase,增加收入；增加了；不断增加,今年学生人数增加了。,jīn nián xué shēng rén shù zēng jiā le.,Năm nay số học sinh đã tăng lên.
+HSK 3,277,直,zhí,"phó từ, tính từ, động từ",thẳng,"Zhi (c. 2000 BC), fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God; straight; to straighten",一直；直接；很直,这条路很直。,zhè tiáo lù hěn zhí.,Con đường này rất thẳng.
+HSK 3,278,成员,chéng yuán,danh từ,thành viên,member,家庭成员；小组成员；新成员,他是我们小组的新成员。,tā shì wǒ men xiǎo zǔ de xīn chéng yuán.,Anh ấy là thành viên mới của nhóm chúng tôi.
+HSK 3,279,保险,bǎo xiǎn,"danh từ, tính từ, động từ",bảo hiểm; an toàn,insurance; to insure; safe,买保险；医疗保险；保险公司,我给汽车买了保险。,wǒ gěi qì chē mǎi le bǎo xiǎn.,Tôi đã mua bảo hiểm cho ô tô.
+HSK 3,280,年代,nián dài,danh từ,"niên đại, thập niên",a decade of a century (e.g. the Sixties); age; era,八十年代；那个年代；年代久远,这是八十年代的歌。,zhè shì bā shí nián dài de gē.,Đây là bài hát của thập niên tám mươi.
+HSK 3,281,领导,lǐng dǎo,"danh từ, động từ, động/danh từ",lãnh đạo,lead; leading; to lead,公司领导；领导人；在……的领导下,我们的领导很重视这件事。,wǒ men de lǐng dǎo hěn zhòng shì zhè jiàn shì.,Lãnh đạo chúng tôi rất coi trọng việc này.
+HSK 3,282,胜利,shèng lì,"động từ, động/danh từ, danh từ riêng",thắng lợi,victory,取得胜利；胜利了；最后的胜利,我们取得了比赛的胜利。,wǒ men qǔ dé le bǐ sài de shèng lì.,Chúng tôi đã giành chiến thắng trong cuộc thi.
+HSK 3,283,受伤,shòu shāng,"động từ, động/danh từ",bị thương,to sustain injuries; wounded (in an accident etc); harmed,受伤了；受了伤；受伤的人,他踢球的时候受伤了。,tā tī qiú de shí hòu shòu shāng le.,Anh ấy bị thương khi đá bóng.
+HSK 3,284,程度,chéng dù,danh từ,mức độ,degree; level; extent,文化程度；在某种程度上；程度很高,在一定程度上，你是对的。,"zài yí dìng chéng dù shàng, nǐ shì duì de.","Ở một mức độ nào đó, bạn đúng."
+HSK 3,285,代,dài,"động từ, lượng từ, danh từ","đời, thế hệ; thay",to substitute; to act on behalf of others; to replace,一代人；代替；年代,年轻一代的想法不一样。,nián qīng yí dài de xiǎng fǎ bù yí yàng.,Suy nghĩ của thế hệ trẻ không giống.
+HSK 3,286,下面,xià mian,phương vị,phía dưới; sau đây,below; under; next,在下面；下面的；下面请……,下面请王老师讲话。,xià mian qǐng wáng lǎo shī jiǎng huà.,Sau đây xin mời thầy Vương phát biểu.
+HSK 3,287,理论,lǐ lùn,danh từ,"lý luận, lý thuyết",theory; to argue; to take notice of,理论知识；理论上；理论和实践,理论上是这样，实际上不一定。,"lǐ lùn shàng shì zhè yàng, shí jì shàng bù yí dìng.","Về lý thuyết là vậy, thực tế chưa chắc."
+HSK 3,288,不仅,bù jǐn,liên từ,không chỉ,"not just; not limited to; (as a correlative conjunction) not only (..., but also ...)",不仅……而且……,他不仅聪明，而且很努力。,"tā bù jǐn cōng míng, ér qiě hěn nǔ lì.",Anh ấy không chỉ thông minh mà còn rất chăm chỉ.
+HSK 3,289,宣布,xuān bù,động từ,tuyên bố,to declare; to announce; to proclaim,宣布消息；正式宣布；宣布结果,老师宣布了考试成绩。,lǎo shī xuān bù le kǎo shì chéng jì.,Thầy đã công bố điểm thi.
+HSK 3,290,期,qī,"lượng từ, ngữ tố","kỳ, thời kỳ",period; cycle; a period of time,学期；假期；星期,这本杂志一个月出一期。,zhè běn zá zhì yí gè yuè chū yì qī.,Tạp chí này mỗi tháng ra một số.
+HSK 3,291,姑娘,gū niang,danh từ,cô gái,girl; young woman; young lady,小姑娘；一个姑娘；漂亮的姑娘,那个姑娘是谁？,nà ge gū niang shì shuí?,Cô gái kia là ai?
+HSK 3,292,创造,chuàng zào,"động từ, động/danh từ","sáng tạo, tạo ra",to create; to bring about; to produce,创造条件；创造机会；创造力,我们要自己创造机会。,wǒ men yào zì jǐ chuàng zào jī huì.,Chúng ta phải tự tạo cơ hội.
+HSK 3,293,调,diào,"động từ, danh từ",điều chuyển; giọng điệu,to transfer; to move (troops or cadres); to investigate,调查；调到；声调,他被调到北京工作了。,tā bèi diào dào běi jīng gōng zuò le.,Anh ấy được điều chuyển đến Bắc Kinh làm việc.
+HSK 3,294,艺术,yì shù,danh từ,nghệ thuật,art,艺术家；艺术品；艺术节,她很喜欢艺术。,tā hěn xǐ huān yì shù.,Cô ấy rất thích nghệ thuật.
+HSK 3,295,麻烦,má fan,"tính/danh từ, tính từ, động từ, danh từ",phiền phức; làm phiền,trouble; inconvenience; inconvenient; troublesome; annoying; to bother sb; to put sb to trouble,很麻烦；麻烦你；添麻烦,麻烦你帮我拿一下。,má fan nǐ bāng wǒ ná yī xià.,Phiền bạn cầm giúp tôi một chút.
+HSK 3,296,事故,shì gù,danh từ,"sự cố, tai nạn",accident,交通事故；发生事故；出事故,路上发生了一起交通事故。,lù shàng fā shēng le yì qǐ jiāo tōng shì gù.,Trên đường đã xảy ra một vụ tai nạn giao thông.
+HSK 3,297,美好,měi hǎo,tính từ,tốt đẹp,beautiful; fine,美好的生活；美好的未来；美好的回忆,祝你有一个美好的未来。,zhù nǐ yǒu yí gè měi hǎo de wèi lái.,Chúc bạn có một tương lai tốt đẹp.
+HSK 3,298,抓住,zhuā zhù,động từ,"nắm lấy, bắt được",to grab hold of; to capture,抓住机会；抓住他；抓住重点,你要抓住这个机会。,nǐ yào zhuā zhù zhè ge jī huì.,Bạn phải nắm lấy cơ hội này.
+HSK 3,299,武器,wǔ qì,danh từ,vũ khí,weapon; arms,核武器；使用武器；新武器,知识是最好的武器。,zhī shí shì zuì hǎo de wǔ qì.,Tri thức là vũ khí tốt nhất.
+HSK 3,300,各种,gè zhǒng,đại từ,các loại,every kind of; all kinds of; various,各种各样；各种问题；各种颜色,商店里有各种水果。,shāng diàn lǐ yǒu gè zhǒng shuǐ guǒ.,Trong cửa hàng có đủ loại hoa quả.
+HSK 3,301,思想,sī xiǎng,danh từ,tư tưởng,thought; thinking; idea,思想家；中国思想；思想开放,他的思想很开放。,tā de sī xiǎng hěn kāi fàng.,Tư tưởng của anh ấy rất cởi mở.
+HSK 3,302,破坏,pò huài,"động từ, động/danh từ",phá hoại,destruction; damage; to wreck,破坏环境；被破坏；破坏关系,我们不能破坏环境。,wǒ men bù néng pò huài huán jìng.,Chúng ta không được phá hoại môi trường.
+HSK 3,303,消失,xiāo shī,"động từ, động/danh từ",biến mất,to disappear; to fade away,消失了；慢慢消失；突然消失,他突然消失在人群中。,tā tū rán xiāo shī zài rén qún zhōng.,Anh ấy bỗng biến mất trong đám đông.
+HSK 3,304,害怕,hài pà,"động từ, động/danh từ",sợ hãi,to be afraid; to be scared,很害怕；害怕考试；别害怕,别害怕，有我在。,"bié hài pà, yǒu wǒ zài.","Đừng sợ, có tôi ở đây."
+HSK 3,305,龙,lóng,"danh từ, tên riêng",rồng,dragon; imperial,龙年；中国龙；龙舟,中国人是龙的传人。,zhōng guó rén shì lóng de chuán rén.,Người Trung Quốc là con cháu của rồng.
+HSK 3,306,满足,mǎn zú,"động từ, tính/danh từ, tính từ, động/danh từ","thỏa mãn, đáp ứng",to satisfy; to meet (the needs of); satisfied,满足要求；满足需要；很满足,我们会尽量满足你的要求。,wǒ men huì jǐn liàng mǎn zú nǐ de yāo qiú.,Chúng tôi sẽ cố gắng đáp ứng yêu cầu của bạn.
+HSK 3,307,配,pèi,động từ,phối hợp; xứng; đánh (chìa khóa),to join; to fit; to mate,配合；配钥匙；很配,这件衣服配这条裙子很好看。,zhè jiàn yī fú pèi zhè tiáo qún zi hěn hǎo kàn.,Bộ áo này phối với váy này rất đẹp.
+HSK 3,308,等待,děng dài,"động từ, động/danh từ",chờ đợi,to wait; to wait for,等待机会；耐心等待；等待结果,我们正在等待考试结果。,wǒ men zhèng zài děng dài kǎo shì jié guǒ.,Chúng tôi đang chờ kết quả thi.
+HSK 3,309,演出,yǎn chū,"động từ, động/danh từ","biểu diễn, buổi diễn",to act (in a play); to perform; to put on (a performance),看演出；演出开始；精彩的演出,今天晚上的演出很成功。,jīn tiān wǎn shàng de yǎn chū hěn chéng gōng.,Buổi biểu diễn tối nay rất thành công.
+HSK 3,310,乐,lè,"tính từ, ngữ tố, động từ, tính/phó từ, tính/danh từ",vui; cười,happy; cheerful; to laugh,快乐；可乐；乐观,他乐得哈哈大笑。,tā lè dé hā hā dà xiào.,Anh ấy vui đến cười ha hả.
+HSK 3,311,事实上,shì shí shàng,quán ngữ/thành ngữ,trên thực tế,in fact; in reality; actually,事实上，……,事实上，他早就知道了。,"shì shí shàng, tā zǎo jiù zhī dào le.","Trên thực tế, anh ấy đã biết từ lâu."
+HSK 3,312,超级,chāo jí,"từ khu biệt, phó từ",siêu cấp,super-; ultra-; hyper-,超级市场；超级好；超级明星,这个电影超级好看。,zhè ge diàn yǐng chāo jí hǎo kàn.,Bộ phim này siêu hay.
+HSK 3,313,猪,zhū,danh từ,con lợn,hog; pig; swine,猪肉；一头猪；小猪,他家养了很多猪。,tā jiā yǎng le hěn duō zhū.,Nhà anh ấy nuôi rất nhiều lợn.
+HSK 3,314,设备,shè bèi,danh từ,thiết bị,equipment; facilities; installations,新设备；医疗设备；设备齐全,这家医院的设备很先进。,zhè jiā yī yuàn de shè bèi hěn xiān jìn.,Thiết bị của bệnh viện này rất hiện đại.
+HSK 3,315,保,bǎo,"động từ, từ khu biệt","giữ, bảo đảm",Bulgaria; Bulgarian; abbr. for 保加利亚,保护；保证；保险,请保好你的东西。,qǐng bǎo hǎo nǐ de dōng xī.,Hãy giữ gìn đồ đạc của bạn.
+HSK 3,316,团,tuán,"danh từ, lượng từ",đoàn; nhóm,round; lump; ball,旅游团；代表团；团结,我跟旅游团去北京。,wǒ gēn lǚ yóu tuán qù běi jīng.,Tôi đi Bắc Kinh theo đoàn du lịch.
+HSK 3,317,世纪,shì jì,danh từ,thế kỷ,century,二十一世纪；上个世纪；新世纪,现在是二十一世纪。,xiàn zài shì èr shí yī shì jì.,Bây giờ là thế kỷ hai mươi mốt.
+HSK 3,318,制造,zhì zào,"động từ, động/danh từ","chế tạo, sản xuất",to manufacture; to make,制造汽车；中国制造；制造问题,这是中国制造的手机。,zhè shì zhōng guó zhì zào de shǒu jī.,Đây là điện thoại sản xuất tại Trung Quốc.
+HSK 3,319,紧,jǐn,"tính từ, phó từ",chặt; căng; gấp,tight; strict; close at hand,很紧；紧张；抓紧,时间很紧，我们快点儿。,"shí jiān hěn jǐn, wǒ men kuài diǎn ér.","Thời gian gấp lắm, chúng ta nhanh lên."
+HSK 3,320,对手,duì shǒu,danh từ,đối thủ,opponent; rival; competitor,比赛对手；竞争对手；强大的对手,这次的对手很强。,zhè cì de duì shǒu hěn qiáng.,Đối thủ lần này rất mạnh.
+HSK 3,321,证,zhèng,"danh từ, ngữ tố",giấy chứng nhận,to admonish; certificate; proof,学生证；身份证；工作证,请出示你的学生证。,qǐng chū shì nǐ de xué shēng zhèng.,Xin xuất trình thẻ sinh viên của bạn.
+HSK 3,322,不得不,bù dé bù,phó từ,buộc phải,have no choice or option but to; cannot but; have to,不得不去；不得不说,下大雨了，我们不得不回家。,"xià dà yǔ le, wǒ men bù dé bù huí jiā.","Mưa to rồi, chúng tôi buộc phải về nhà."
+HSK 3,323,当地,dāng dì,nơi chốn,"địa phương, sở tại",local,当地人；当地时间；当地的,当地人都很热情。,dāng dì rén dōu hěn rè qíng.,Người dân địa phương đều rất nhiệt tình.
+HSK 3,324,大概,dà gài,"phó từ, danh từ","khoảng, có lẽ",roughly; probably; rough,大概三点；大概是；大概的意思,他大概不会来了。,tā dà gài bú huì lái le.,Có lẽ anh ấy sẽ không đến nữa.
+HSK 3,325,演,yǎn,động từ,diễn,to develop; to evolve; to practice,演电影；表演；演员,她在电影里演一个老师。,tā zài diàn yǐng lǐ yǎn yí gè lǎo shī.,Cô ấy đóng vai một cô giáo trong phim.
+HSK 3,326,顿,dùn,"lượng từ, ngữ tố","bữa, trận (lượng từ)",to stop; to pause; to arrange,一顿饭；吃一顿；骂了一顿,我们一起吃顿饭吧。,wǒ men yì qǐ chī dùn fàn ba.,Chúng ta cùng ăn một bữa nhé.
+HSK 3,327,共同,gòng tóng,"phó từ, từ khu biệt","cùng, chung",common; joint; jointly,共同努力；共同点；共同的爱好,我们有共同的爱好。,wǒ men yǒu gòng tóng de ài hào.,Chúng tôi có sở thích chung.
+HSK 3,328,杂志,zá zhì,danh từ,tạp chí,magazine,看杂志；一本杂志；时尚杂志,我喜欢看这本杂志。,wǒ xǐ huān kàn zhè běn zá zhì.,Tôi thích đọc tạp chí này.
+HSK 3,329,停止,tíng zhǐ,động từ,dừng lại,to stop; to halt; to cease,停止工作；停止比赛；停止下来,雨停止了。,yǔ tíng zhǐ le.,Mưa đã ngừng.
+HSK 3,330,文化,wén huà,danh từ,văn hóa,culture; civilization; cultural,中国文化；文化交流；有文化,我对中国文化很感兴趣。,wǒ duì zhōng guó wén huà hěn gǎn xìng qù.,Tôi rất hứng thú với văn hóa Trung Quốc.
+HSK 3,331,具体,jù tǐ,"tính từ, tính/phó từ",cụ thể,concrete; definite; specific,具体情况；具体时间；具体说,请你具体说一下。,qǐng nǐ jù tǐ shuō yī xià.,Bạn hãy nói cụ thể một chút.
+HSK 3,332,合,hé,động từ,hợp; đóng lại,to close; to join; to fit,合作；合适；合上书,请合上书。,qǐng hé shàng shū.,Hãy gấp sách lại.
+HSK 3,333,演员,yǎn yuán,danh từ,diễn viên,actor or actress; performer,电影演员；当演员；有名的演员,她是一个有名的演员。,tā shì yí gè yǒu míng de yǎn yuán.,Cô ấy là một diễn viên nổi tiếng.
+HSK 3,334,周围,zhōu wéi,phương vị,xung quanh,environs; surroundings; periphery,周围的人；学校周围；在周围,学校周围有很多饭馆。,xué xiào zhōu wéi yǒu hěn duō fàn guǎn.,Xung quanh trường có nhiều quán ăn.
+HSK 3,335,奇怪,qí guài,"động từ, tính từ",kỳ lạ,strange; odd; to marvel,很奇怪；奇怪的人；觉得奇怪,真奇怪，他怎么还没来？,"zhēn qí guài, tā zěn me hái méi lái?","Lạ thật, sao anh ấy vẫn chưa đến?"
+HSK 3,336,复杂,fù zá,tính từ,phức tạp,complicated; complex,很复杂；复杂的问题；不复杂,这个问题很复杂。,zhè ge wèn tí hěn fù zá.,Vấn đề này rất phức tạp.
+HSK 3,337,表达,biǎo dá,"động từ, động/danh từ","diễn đạt, bày tỏ",to express; to convey,表达意思；表达感情；表达能力,他不太会表达自己的想法。,tā bù tài huì biǎo dá zì jǐ de xiǎng fǎ.,Anh ấy không giỏi diễn đạt suy nghĩ của mình lắm.
+HSK 3,338,胜,shèng,"động từ, ngữ tố",thắng,victory; success; to beat,胜利；获胜；取胜,我们以三比一胜了对手。,wǒ men yǐ sān bǐ yī shèng le duì shǒu.,Chúng tôi thắng đối thủ với tỷ số ba – một.
+HSK 3,339,慢慢,màn màn,phó từ,từ từ,slowly,慢慢来；慢慢说；慢慢地,别着急，慢慢说。,"bié zháo jí, màn màn shuō.","Đừng vội, từ từ nói."
+HSK 3,340,压,yā,động từ,"ép, đè",to press; to push down; to keep under (control),压力；压住；压低,别把书压坏了。,bié bǎ shū yā huài le.,Đừng đè hỏng sách.
+HSK 3,341,确保,què bǎo,động từ,đảm bảo chắc chắn,to ensure; to guarantee,确保安全；确保质量；确保完成,我们要确保大家的安全。,wǒ men yào què bǎo dà jiā de ān quán.,Chúng ta phải đảm bảo an toàn cho mọi người.
+HSK 3,342,建,jiàn,động từ,xây dựng,to establish; to found; to set up,建房子；建立；建设,这里要建一所新学校。,zhè lǐ yào jiàn yī suǒ xīn xué xiào.,Ở đây sẽ xây một trường học mới.
+HSK 3,343,队员,duì yuán,danh từ,đội viên,team member,球队队员；新队员；老队员,他是我们队的队员。,tā shì wǒ men duì de duì yuán.,Anh ấy là thành viên đội chúng tôi.
+HSK 3,344,足够,zú gòu,"động từ, động/danh từ",đủ,enough; sufficient,足够的时间；足够了；足够多,我们有足够的时间。,wǒ men yǒu zú gòu de shí jiān.,Chúng ta có đủ thời gian.
+HSK 3,345,布,bù,"danh từ, ngữ tố, từ khu biệt, tên riêng",vải,to announce; to spread; cloth,一块布；布鞋；棉布,这块布很漂亮。,zhè kuài bù hěn piào liàng.,Mảnh vải này rất đẹp.
+HSK 3,346,咖啡,kā fēi,danh từ,cà phê,coffee (loanword),喝咖啡；一杯咖啡；咖啡店,我每天早上喝一杯咖啡。,wǒ měi tiān zǎo shàng hē yī bēi kā fēi.,Sáng nào tôi cũng uống một cốc cà phê.
+HSK 3,347,采取,cǎi qǔ,động từ,"áp dụng, thi hành","to adopt or carry out (measures, policies, course of action); to take",采取措施；采取行动；采取办法,我们必须马上采取行动。,wǒ men bì xū mǎ shàng cǎi qǔ xíng dòng.,Chúng ta phải hành động ngay.
+HSK 3,348,意外,yì wài,"tính từ, tính/danh từ, tính/phó từ",bất ngờ; tai nạn,unexpected; accident; mishap,很意外；意外的消息；发生意外,这个消息让我很意外。,zhè ge xiāo xī ràng wǒ hěn yì wài.,Tin này khiến tôi rất bất ngờ.
+HSK 3,349,风险,fēng xiǎn,danh từ,rủi ro,risk; hazard,有风险；风险很大；承担风险,做生意有风险。,zuò shēng yì yǒu fēng xiǎn.,Làm ăn có rủi ro.
+HSK 3,350,时刻,shí kè,"danh từ, phó từ",thời khắc; luôn luôn,time; juncture; moment,时刻准备；重要时刻；时刻表,这是一个重要的时刻。,zhè shì yí gè zhòng yào de shí kè.,Đây là một thời khắc quan trọng.
+HSK 3,351,断,duàn,"động từ, động/danh từ","đứt, gãy; cắt đứt",to break; to snap; to cut off,断了；打断；断电,我的手机电话线断了。,wǒ de shǒu jī diàn huà xiàn duàn le.,Dây sạc điện thoại tôi đứt rồi.
+HSK 3,352,观察,guān chá,"động từ, động/danh từ",quan sát,to observe; to watch; to survey,观察一下；仔细观察；观察力,你仔细观察一下这张图。,nǐ zǐ xì guān chá yī xià zhè zhāng tú.,Bạn quan sát kỹ bức hình này.
+HSK 3,353,千万,qiān wàn,"số từ, thời gian","nhất thiết, ngàn vạn lần",ten million; countless; many,千万别；千万要；千万小心,你千万别忘了。,nǐ qiān wàn bié wàng le.,Bạn tuyệt đối đừng quên nhé.
+HSK 3,354,钟,zhōng,"danh từ, tên riêng",đồng hồ; chuông,handleless cup; goblet; to concentrate,钟表；分钟；三点钟,现在是八点钟。,xiàn zài shì bā diǎn zhōng.,Bây giờ là tám giờ.
+HSK 3,355,接近,jiē jìn,"động từ, động/danh từ","tiếp cận, gần",to approach; to get close to,接近目标；很接近；接近完成,我们已经接近终点了。,wǒ men yǐ jīng jiē jìn zhōng diǎn le.,Chúng ta đã gần đến đích rồi.
+HSK 3,356,重大,zhòng dà,tính từ,trọng đại,great; important; major,重大事件；重大问题；意义重大,这是一个重大的决定。,zhè shì yí gè zhòng dà de jué dìng.,Đây là một quyết định trọng đại.
+HSK 3,357,表明,biǎo míng,động từ,"chứng tỏ, cho thấy",to make clear; to make known; to state clearly,表明态度；研究表明；这表明,研究表明，运动对健康有好处。,"yán jiū biǎo míng, yùn dòng duì jiàn kāng yǒu hǎo chù.",Nghiên cứu cho thấy vận động có lợi cho sức khỏe.
+HSK 3,358,持续,chí xù,"động từ, động/danh từ","liên tục, kéo dài",to continue; to persist; to last,持续下雨；持续发展；持续时间,大雨持续了三天。,dà yǔ chí xù le sān tiān.,Mưa lớn kéo dài suốt ba ngày.
+HSK 3,359,具有,jù yǒu,động từ,có (văn viết),to have; to possess,具有意义；具有特点；具有能力,这件事具有重要意义。,zhè jiàn shì jù yǒu zhòng yào yì yì.,Việc này có ý nghĩa quan trọng.
+HSK 3,360,和平,hé píng,"danh từ, tính/phó từ, tính từ",hòa bình,"Heping District of Shenyang city 沈阳市, Liaoning; Heping or Hoping Township in Taichung County 台中县, Taiwan; peace",世界和平；和平发展；爱好和平,我们都希望世界和平。,wǒ men dōu xī wàng shì jiè hé píng.,Chúng ta đều mong thế giới hòa bình.
+HSK 3,361,板,bǎn,"ngữ tố, danh từ, động từ, lượng từ, tính từ","tấm, ván",board; plank; plate,黑板；木板；老板,老师在黑板上写字。,lǎo shī zài hēi bǎn shàng xiě zì.,Thầy viết chữ lên bảng.
+HSK 3,362,发表,fā biǎo,động từ,"phát biểu, đăng tải",to issue; to publish,发表文章；发表意见；发表讲话,他在杂志上发表了一篇文章。,tā zài zá zhì shàng fā biǎo le yì piān wén zhāng.,Anh ấy đã đăng một bài viết trên tạp chí.
+HSK 3,363,修,xiū,động từ,sửa chữa; xây,to decorate; to embellish; to repair,修车；修理；修路,我的电脑坏了，要去修一下。,"wǒ de diàn nǎo huài le, yào qù xiū yī xià.","Máy tính của tôi hỏng rồi, phải đi sửa."
+HSK 3,364,相关,xiāng guān,"động/danh từ, động từ",liên quan,related; relevant; pertinent,相关问题；相关部门；与……相关,这个问题和我们的生活密切相关。,zhè ge wèn tí hé wǒ men de shēng huó mì qiè xiāng guān.,Vấn đề này liên quan mật thiết đến cuộc sống của chúng ta.
+HSK 3,365,价格,jià gé,danh từ,giá cả,price,价格很高；价格便宜；降低价格,这家店的价格很合理。,zhè jiā diàn de jià gé hěn hé lǐ.,Giá cả của tiệm này rất hợp lý.
+HSK 3,366,旧,jiù,"tính từ, ngữ tố",cũ,old; opposite: new 新; former,旧衣服；很旧；旧的,这是一本旧书。,zhè shì yī běn jiù shū.,Đây là một quyển sách cũ.
+HSK 3,367,前面,qián miàn,phương vị,phía trước,ahead; in front; preceding,在前面；前面的人；往前面走,前面就是我们学校。,qián miàn jiù shì wǒ men xué xiào.,Phía trước chính là trường chúng tôi.
+HSK 3,368,简直,jiǎn zhí,phó từ,"quả thật là, đơn giản là",simply; really,简直不敢相信；简直太好了,这简直太好了！,zhè jiǎn zhí tài hǎo le!,Điều này quả là quá tuyệt!
+HSK 3,369,退,tuì,động từ,lùi; trả lại,to retreat; to withdraw; to reject; to return (sth); to decline,退票；退后；退钱,这件衣服可以退吗？,zhè jiàn yī fú ké yǐ tuì ma?,Bộ quần áo này có thể trả lại không?
+HSK 3,370,强大,qiáng dà,tính từ,hùng mạnh,large; formidable; powerful,很强大；强大的国家；强大的力量,这个国家越来越强大。,zhè ge guó jiā yuè lái yuè qiáng dà.,Đất nước này ngày càng hùng mạnh.
+HSK 3,371,证据,zhèng jù,danh từ,chứng cứ,evidence; proof; testimony,有证据；找证据；没有证据,你有证据吗？,nǐ yǒu zhèng jù ma?,Bạn có chứng cứ không?
+HSK 3,372,交流,jiāo liú,"động/danh từ, động từ","giao lưu, trao đổi",to exchange; exchange; communication,文化交流；互相交流；交流经验,我们经常交流学习经验。,wǒ men jīng cháng jiāo liú xué xí jīng yàn.,Chúng tôi thường trao đổi kinh nghiệm học tập.
+HSK 3,373,幸运,xìng yùn,"tính từ, tính/danh từ, tính/phó từ",may mắn,fortunate; lucky; fortune,很幸运；幸运的人；幸运儿,我很幸运认识了你。,wǒ hěn xìng yùn rèn shí le nǐ.,Tôi rất may mắn khi quen được bạn.
+HSK 3,374,制作,zhì zuò,"động từ, động/danh từ","chế tác, làm ra",to make; to manufacture,制作电影；制作蛋糕；手工制作,这个视频是他制作的。,zhè ge shì pín shì tā zhì zuò de.,Video này do anh ấy làm.
+HSK 3,375,教练,jiào liàn,danh từ,huấn luyện viên,instructor; sports coach; trainer,足球教练；当教练；教练员,教练让我们每天跑步。,jiào liàn ràng wǒ men měi tiān pǎo bù.,Huấn luyện viên bắt chúng tôi chạy bộ mỗi ngày.
+HSK 3,376,付,fù,"động từ, lượng từ",trả (tiền),to pay; to hand over to; classifier for pairs or sets of things,付钱；付款；支付,我来付钱。,wǒ lái fù qián.,Để tôi trả tiền.
+HSK 3,377,公开,gōng kāi,"động từ, tính/phó từ, tính từ, động/danh từ",công khai,open; overt; public; to make public; to release,公开信；公开的；公开说,这件事已经公开了。,zhè jiàn shì yǐ jīng gōng kāi le.,Việc này đã được công khai.
+HSK 3,378,资金,zī jīn,danh từ,"vốn, quỹ",funds; capital,资金问题；缺少资金；投入资金,我们的公司缺少资金。,wǒ men de gōng sī quē shǎo zī jīn.,Công ty chúng tôi thiếu vốn.
+HSK 3,379,员工,yuán gōng,danh từ,nhân viên,staff; personnel; employee,公司员工；新员工；员工们,这家公司有五百名员工。,zhè jiā gōng sī yǒu wǔ bǎi míng yuán gōng.,Công ty này có năm trăm nhân viên.
+HSK 3,380,全球,quán qiú,danh từ,toàn cầu,entire; total; global,全球化；全球经济；全球各地,这家公司在全球都有分公司。,zhè jiā gōng sī zài quán qiú dōu yǒu fēn gōng sī.,Công ty này có chi nhánh khắp toàn cầu.
+HSK 3,381,升,shēng,"động từ, lượng từ","lên, thăng; lít",to ascend; to rise to the rank of; to promote,升高；上升；一升水,太阳升起来了。,tài yáng shēng qǐ lái le.,Mặt trời đã lên rồi.
+HSK 3,382,经营,jīng yíng,"động từ, động/danh từ","kinh doanh, quản lý kinh doanh",to engage in (business etc); to run; to operate,经营饭店；经营管理；经营得很好,他经营着一家小饭店。,tā jīng yíng zhe yì jiā xiǎo fàn diàn.,Anh ấy đang kinh doanh một quán ăn nhỏ.
+HSK 3,383,困,kùn,"động từ, tính/danh từ, tính từ, động/danh từ",buồn ngủ; khốn khó,to trap; to surround; hard-pressed,很困；困难；困了,我困了，想睡觉。,"wǒ kùn le, xiǎng shuì jiào.","Tôi buồn ngủ rồi, muốn đi ngủ."
+HSK 3,384,初,chū,"phương vị, phó từ, ngữ tố","đầu, sơ",at first; (at the) beginning; first,初中；月初；初级,我月初去北京。,wǒ yuè chū qù běi jīng.,Đầu tháng tôi đi Bắc Kinh.
+HSK 3,385,员,yuán,"ngữ tố, lượng từ, danh từ",viên (người làm),person; employee; member,服务员；运动员；售货员,她是这家饭店的服务员。,tā shì zhè jiā fàn diàn de fú wù yuán.,Cô ấy là nhân viên phục vụ của nhà hàng này.
+HSK 3,386,立刻,lì kè,phó từ,lập tức,forthwith; immediate; prompt,立刻出发；立刻回来；立刻就,听到消息，他立刻跑了过来。,"tīng dào xiāo xī, tā lì kè pǎo le guò lái.","Nghe tin, anh ấy lập tức chạy tới."
+HSK 3,387,实验,shí yàn,"động/danh từ, danh từ, động từ",thí nghiệm,experiment; test; experimental,做实验；实验室；科学实验,学生们在做实验。,xué shēng men zài zuò shí yàn.,Học sinh đang làm thí nghiệm.
+HSK 3,388,取消,qǔ xiāo,động từ,hủy bỏ,to cancel; cancellation,取消比赛；取消计划；被取消,因为下雨，比赛取消了。,"yīn wèi xià yǔ, bǐ sài qǔ xiāo le.",Vì mưa nên trận đấu bị hủy.
+HSK 3,389,通常,tōng cháng,"phó từ, từ khu biệt",thông thường,regular; usual; normal,通常情况下；通常是,我通常七点吃早饭。,wǒ tōng cháng qī diǎn chī zǎo fàn.,Tôi thường ăn sáng lúc bảy giờ.
+HSK 3,390,对象,duì xiàng,danh từ,đối tượng; người yêu,target; object; partner; boyfriend; girlfriend,研究对象；找对象；服务对象,他还没有对象。,tā hái méi yǒu duì xiàng.,Anh ấy vẫn chưa có người yêu.
+HSK 3,391,浪费,làng fèi,"động từ, động/danh từ",lãng phí,to waste; to squander,浪费时间；浪费钱；别浪费,别浪费时间了。,bié làng fèi shí jiān le.,Đừng lãng phí thời gian nữa.
+HSK 3,392,合理,hé lǐ,"tính từ, tính/phó từ",hợp lý,rational; reasonable; sensible; fair,很合理；合理安排；不合理,价格很合理。,jià gé hěn hé lǐ.,Giá cả rất hợp lý.
+HSK 3,393,任,rèn,"động từ, lượng từ",đảm nhiệm; mặc cho,to assign; to appoint; to take up a post,任务；担任；任何,他担任班长。,tā dān rèn bān zhǎng.,Cậu ấy giữ chức lớp trưởng.
+HSK 3,394,香,xiāng,"danh từ, tính từ, động từ",thơm,fragrant; sweet smelling; aromatic,很香；香水；香味,这个菜真香！,zhè ge cài zhēn xiāng!,Món này thơm quá!
+HSK 3,395,成熟,chéng shú,"tính từ, tính/danh từ",chín chắn; chín (quả),mature; ripe; to mature; to ripen; Taiwan pr. [chéng shóu],很成熟；不成熟；成熟的苹果,他比以前成熟多了。,tā bǐ yǐ qián chéng shú duō le.,Anh ấy chín chắn hơn trước nhiều.
+HSK 3,396,文章,wén zhāng,danh từ,"bài văn, bài viết",article; essay; literary works,写文章；一篇文章；这篇文章,这篇文章写得很好。,zhè piān wén zhāng xiě dé hěn hǎo.,Bài viết này viết rất hay.
+HSK 3,397,信任,xìn rèn,"động từ, động/danh từ",tin cậy,to trust; to have confidence in,信任你；互相信任；失去信任,我信任你。,wǒ xìn rèn nǐ.,Tôi tin tưởng bạn.
+HSK 3,398,反正,fǎn zhèng,phó từ,dù sao thì,anyway; in any case; to come over from the enemy's side,反正……,反正没事，我陪你去吧。,"fǎn zhèng méi shì, wǒ péi nǐ qù ba.","Dù sao cũng không có việc gì, tôi đi cùng bạn nhé."
+HSK 3,399,内心,nèi xīn,danh từ,"nội tâm, trong lòng",heart; innermost being; (math.) incenter,内心世界；内心深处；内心的想法,我内心很感谢他。,wǒ nèi xīn hěn gǎn xiè tā.,Trong lòng tôi rất biết ơn anh ấy.
+HSK 3,400,发出,fā chū,động từ,phát ra,"to issue (an order, decree etc); to send out; to dispatch; to produce (a sound); to let out (a laugh)",发出声音；发出通知；发出光,手机发出了声音。,shǒu jī fā chū le shēng yīn.,Điện thoại phát ra âm thanh.
+HSK 3,401,赶紧,gǎn jǐn,phó từ,"nhanh chóng, vội",hurriedly; without delay,赶紧走；赶紧去；赶紧回家,要下雨了，赶紧回家吧。,"yào xià yǔ le, gǎn jǐn huí jiā ba.","Sắp mưa rồi, mau về nhà thôi."
+HSK 3,402,进一步,jìn yī bù,"phó từ, từ khu biệt",tiến thêm một bước,"to go a step further; (develop, understand, improve etc) more; further",进一步了解；进一步发展；进一步提高,我们需要进一步讨论。,wǒ men xū yào jìn yī bù tǎo lùn.,Chúng ta cần thảo luận thêm.
+HSK 3,403,费,fèi,"danh từ, động từ, tên riêng",phí,to cost; to spend; fee,学费；电话费；浪费,这个月的电费很多。,zhè ge yuè de diàn fèi hěn duō.,Tiền điện tháng này rất nhiều.
+HSK 3,404,防,fáng,động từ,"phòng, phòng ngừa",to protect; to defend; to guard against,防火；防止；预防,冬天要防感冒。,dōng tiān yào fáng gǎn mào.,Mùa đông phải phòng cảm cúm.
+HSK 3,405,舞台,wǔ tái,danh từ,sân khấu,(lit. and fig.) stage; arena,站在舞台上；舞台表演；人生舞台,她第一次站在舞台上。,tā dì yī cì zhàn zài wǔ tái shàng.,Lần đầu tiên cô ấy đứng trên sân khấu.
+HSK 3,406,化,huà,"động từ, hậu tố, động/danh từ","hóa, biến thành",to make into; to change into; -ization,变化；文化；现代化,冰化成了水。,bīng huà chéng le shuǐ.,Băng tan thành nước.
+HSK 3,407,不必,bù bì,phó từ,không cần,need not; does not have to; not necessarily,不必担心；不必去；不必了,你不必担心，我能行。,"nǐ bù bì dān xīn, wǒ néng xíng.","Bạn không cần lo, tôi làm được."
+HSK 3,408,现金,xiàn jīn,danh từ,tiền mặt,cash,付现金；用现金；带现金,这里只收现金。,zhè lǐ zhǐ shōu xiàn jīn.,Ở đây chỉ nhận tiền mặt.
+HSK 3,409,调整,tiáo zhěng,"động từ, động/danh từ",điều chỉnh,to adjust; adjustment; revision,调整时间；调整计划；调整心态,我们需要调整一下计划。,wǒ men xū yào tiáo zhěng yī xià jì huà.,Chúng ta cần điều chỉnh kế hoạch một chút.
+HSK 3,410,糖,táng,danh từ,đường; kẹo,sugar; sweets; candy,吃糖；白糖；一块糖,孩子们都喜欢吃糖。,hái zi men dōu xǐ huān chī táng.,Trẻ con đều thích ăn kẹo.
+HSK 3,411,阳光,yáng guāng,"danh từ, danh từ riêng",ánh nắng,sunshine; (of personality) upbeat; energetic; transparent (open to public scrutiny),阳光很好；阳光明媚；在阳光下,今天阳光很好。,jīn tiān yáng guāng hěn hǎo.,Hôm nay nắng rất đẹp.
+HSK 3,412,领,lǐng,động từ,"lĩnh, nhận; dẫn",neck; collar; to lead,领工资；带领；领导,他领着我们去参观。,tā lǐng zhe wǒ men qù cān guān.,Anh ấy dẫn chúng tôi đi tham quan.
+HSK 3,413,紧急,jǐn jí,"tính từ, tính/phó từ",khẩn cấp,urgent; emergency,紧急情况；很紧急；紧急会议,这是紧急情况。,zhè shì jǐn jí qíng kuàng.,Đây là tình huống khẩn cấp.
+HSK 3,414,宣传,xuān chuán,"động/danh từ, động từ","tuyên truyền, quảng bá",to disseminate; to give publicity to; propaganda,宣传活动；做宣传；宣传一下,我们要多宣传环保知识。,wǒ men yào duō xuān chuán huán bǎo zhī shí.,Chúng ta phải tuyên truyền nhiều hơn kiến thức bảo vệ môi trường.
+HSK 3,415,优势,yōu shì,danh từ,ưu thế,superiority; dominance; advantage,有优势；明显的优势；发挥优势,会说汉语是你的优势。,huì shuō hàn yǔ shì nǐ de yōu shì.,Biết nói tiếng Trung là ưu thế của bạn.
+HSK 3,416,互相,hù xiāng,"phó từ, từ khu biệt",lẫn nhau,each other; mutually; mutual,互相帮助；互相学习；互相理解,同学之间要互相帮助。,tóng xué zhī jiān yào hù xiāng bāng zhù.,Bạn học nên giúp đỡ lẫn nhau.
+HSK 3,417,科技,kē jì,danh từ,khoa học kỹ thuật,science and technology,高科技；科技发展；科技公司,科技改变了我们的生活。,kē jì gǎi biàn le wǒ men de shēng huó.,Khoa học kỹ thuật đã thay đổi cuộc sống của chúng ta.
+HSK 3,418,导演,dǎo yǎn,,đạo diễn,to direct; director (film etc),电影导演；当导演；导演说,他是一位有名的导演。,tā shì yī wèi yǒu míng de dǎo yǎn.,Ông ấy là một đạo diễn nổi tiếng.
+HSK 3,419,印象,yìn xiàng,danh từ,ấn tượng,impression (sth that stays in one's mind); a memory,第一印象；印象很深；留下印象,他给我留下了很深的印象。,tā gěi wǒ liú xià le hěn shēn de yìn xiàng.,Anh ấy để lại cho tôi ấn tượng sâu sắc.
+HSK 3,420,烟,yān,danh từ,khói; thuốc lá,cigarette or pipe tobacco; smoke; mist,抽烟；一支烟；烟很大,这里不能抽烟。,zhè lǐ bù néng chōu yān.,Ở đây không được hút thuốc.
+HSK 3,421,生意,shēng yi,danh từ,"việc làm ăn, kinh doanh",business,做生意；生意很好；谈生意,他在做生意。,tā zài zuò shēng yi.,Anh ấy đang làm ăn buôn bán.
+HSK 3,422,赶,gǎn,động từ,đuổi kịp; vội,to overtake; to catch up with; to hurry; to rush; to try to catch (the bus etc),赶车；赶时间；赶快,我得赶八点的火车。,wǒ dé gǎn bā diǎn de huǒ chē.,Tôi phải kịp chuyến tàu lúc tám giờ.
+HSK 3,423,存,cún,động từ,"gửi, tiết kiệm; lưu",to exist; to deposit; to store,存钱；存在；保存,我每个月存一点儿钱。,wǒ měi gè yuè cún yì diǎn ér qián.,Mỗi tháng tôi tiết kiệm một ít tiền.
+HSK 3,424,评价,píng jià,"động từ, động/danh từ",đánh giá,to evaluate; to assess,评价很高；评价一下；得到好评价,老师对他的评价很高。,lǎo shī duì tā de píng jià hěn gāo.,Thầy đánh giá cậu ấy rất cao.
+HSK 3,425,桥,qiáo,danh từ,cây cầu,bridge,一座桥；过桥；大桥,河上有一座桥。,hé shàng yǒu yī zuò qiáo.,Trên sông có một cây cầu.
+HSK 3,426,迷,mí,"động từ, ngữ tố",mê; lạc,to bewilder; crazy about; fan,迷路；球迷；着迷,我在城里迷路了。,wǒ zài chéng lǐ mí lù le.,Tôi bị lạc đường trong thành phố.
+HSK 3,427,形象,xíng xiàng,"danh từ, tính từ","hình tượng, hình ảnh",image; form; figure,公司形象；形象很好；生动形象,我们要注意自己的形象。,wǒ men yào zhù yì zì jǐ de xíng xiàng.,Chúng ta phải chú ý hình ảnh của mình.
+HSK 3,428,上去,shàng qù,động từ,lên (rời người nói),to go up,走上去；爬上去；看上去,我们爬上去看看吧。,wǒ men pá shàng qù kàn kan ba.,Chúng ta leo lên xem thử nhé.
+HSK 3,429,仅仅,jǐn jǐn,phó từ,"chỉ, vẻn vẹn",barely; only; merely,仅仅是；仅仅一天；不仅仅,这仅仅是开始。,zhè jǐn jǐn shì kāi shǐ.,Đây mới chỉ là bắt đầu.
+HSK 3,430,商业,shāng yè,danh từ,thương mại,business; trade; commerce,商业中心；商业街；商业活动,这里是城市的商业中心。,zhè lǐ shì chéng shì de shāng yè zhōng xīn.,Đây là trung tâm thương mại của thành phố.
+HSK 3,431,到达,dào dá,động từ,đến nơi,to reach; to arrive,到达北京；到达目的地；准时到达,飞机下午三点到达北京。,fēi jī xià wǔ sān diǎn dào dá běi jīng.,Máy bay đến Bắc Kinh lúc ba giờ chiều.
+HSK 3,432,主任,zhǔ rèn,danh từ,"chủ nhiệm, trưởng",director; head,班主任；办公室主任；主任医生,她是我们的班主任。,tā shì wǒ men de bān zhǔ rèn.,Cô ấy là giáo viên chủ nhiệm của chúng tôi.
+HSK 3,433,基础,jī chǔ,danh từ,"cơ sở, nền tảng",base; foundation; basis; basic; fundamental,打基础；基础知识；有基础,学好汉语要打好基础。,xué hǎo hàn yǔ yào dǎ hǎo jī chǔ.,Học giỏi tiếng Trung phải xây nền tảng tốt.
+HSK 3,434,功能,gōng néng,danh từ,chức năng,function; capability,手机功能；多功能；主要功能,这个手机有很多功能。,zhè ge shǒu jī yǒu hěn duō gōng néng.,Điện thoại này có nhiều chức năng.
+HSK 3,435,生产,shēng chǎn,"động/danh từ, động từ",sản xuất,to produce; to manufacture; to give birth to a child,生产汽车；生产线；安全生产,这家工厂生产电脑。,zhè jiā gōng chǎng shēng chǎn diàn nǎo.,Nhà máy này sản xuất máy tính.
+HSK 3,436,适应,shì yìng,"động từ, động/danh từ",thích ứng,to adapt; to fit; to suit,适应环境；适应生活；很快适应,我已经适应了这里的天气。,wǒ yǐ jīng shì yìng le zhè lǐ de tiān qì.,Tôi đã thích nghi với thời tiết ở đây.
+HSK 3,437,进展,jìn zhǎn,"động/danh từ, động từ",tiến triển,to make headway; to make progress,有进展；进展顺利；最新进展,工作进展得很顺利。,gōng zuò jìn zhǎn dé hěn shùn lì.,Công việc tiến triển rất thuận lợi.
+HSK 3,438,试验,shì yàn,"động/danh từ, động từ",thử nghiệm,experiment; test; to experiment,做试验；试验成功；试验田,这个新药正在试验。,zhè ge xīn yào zhèng zài shì yàn.,Loại thuốc mới này đang được thử nghiệm.
+HSK 3,439,成长,chéng zhǎng,"động từ, động/danh từ",trưởng thành,to mature; to grow; growth,健康成长；成长过程；快速成长,孩子们在快乐中成长。,hái zi men zài kuài lè zhōng chéng zhǎng.,Bọn trẻ trưởng thành trong niềm vui.
+HSK 3,440,游,yóu,"động từ, ngữ tố, động/danh từ",bơi; du ngoạn,to swim; to walk; to tour,游泳；旅游；游客,鱼在水里游。,yú zài shuǐ lǐ yóu.,Cá bơi trong nước.
+HSK 3,441,指导,zhǐ dǎo,"động từ, động/danh từ","chỉ đạo, hướng dẫn",to guide; to give directions; to direct,指导老师；指导学生；在……的指导下,在老师的指导下，我完成了论文。,"zài lǎo shī de zhǐ dǎo xià, wǒ wán chéng le lùn wén.","Dưới sự hướng dẫn của thầy, tôi đã hoàn thành luận văn."
+HSK 3,442,食品,shí pǐn,danh từ,thực phẩm,foodstuff; food; provisions,健康食品；食品安全；绿色食品,我们要注意食品安全。,wǒ men yào zhù yì shí pǐn ān quán.,Chúng ta phải chú ý an toàn thực phẩm.
+HSK 3,443,大约,dà yuē,phó từ,khoảng chừng,approximately; probably,大约十分钟；大约有；大约三点,从这儿到机场大约要一个小时。,cóng zhè ér dào jī chǎng dà yuē yào yí gè xiǎo shí.,Từ đây đến sân bay mất khoảng một tiếng.
+HSK 3,444,联合,lián hé,"động từ, động/danh từ","liên hợp, liên kết",to combine; to join; unite,联合起来；联合国；联合举办,两家公司联合举办了这次活动。,liǎng jiā gōng sī lián hé jǔ bàn le zhè cì huó dòng.,Hai công ty cùng phối hợp tổ chức hoạt động này.
+HSK 3,445,铁,tiě,"danh từ, động từ",sắt,iron (metal); arms; weapons,铁路；地铁；钢铁,这个门是铁做的。,zhè ge mén shì tiě zuò de.,Cánh cửa này làm bằng sắt.
+HSK 3,446,录,lù,"động từ, ngữ tố, động/danh từ","ghi (âm, hình)",to carve wood; diary; record,录音；录像；记录,我把老师的话录下来了。,wǒ bǎ lǎo shī de huà lù xià lái le.,Tôi đã ghi âm lại lời thầy.
+HSK 3,447,提前,tí qián,"động từ, động/danh từ","trước (thời hạn), sớm hơn",to shift to an earlier date; to do sth ahead of time; in advance,提前到；提前完成；提前通知,请提前十分钟到。,qǐng tí qián shí fēn zhōng dào.,Hãy đến trước mười phút.
+HSK 3,448,组合,zǔ hé,"động từ, danh từ, động/danh từ","tổ hợp, kết hợp",to assemble; to combine; to compose,组合在一起；音乐组合；词语组合,这两个词可以组合在一起。,zhè liǎng gè cí ké yǐ zǔ hé zài yì qǐ.,Hai từ này có thể kết hợp với nhau.
+HSK 3,449,积极,jī jí,"tính từ, tính/phó từ",tích cực,active; energetic; vigorous,积极参加；很积极；积极的态度,他积极参加学校活动。,tā jī jí cān jiā xué xiào huó dòng.,Cậu ấy tích cực tham gia hoạt động của trường.
+HSK 3,450,强烈,qiáng liè,"tính từ, tính/phó từ",mãnh liệt,strong; intense,强烈反对；强烈的阳光；强烈要求,大家强烈要求改变计划。,dà jiā qiáng liè yāo qiú gǎi biàn jì huà.,Mọi người kịch liệt yêu cầu thay đổi kế hoạch.
+HSK 3,451,争取,zhēng qǔ,động từ,"tranh thủ, phấn đấu giành",to fight for; to strive for; to win over,争取时间；争取机会；争取第一,我们要争取早日完成任务。,wǒ men yào zhēng qǔ zǎo rì wán chéng rèn wù.,Chúng ta phải phấn đấu sớm hoàn thành nhiệm vụ.
+HSK 3,452,汤,tāng,"danh từ, tên riêng","canh, súp",soup; hot or boiling water; decoction of medicinal herbs,喝汤；鸡汤；一碗汤,妈妈做的鸡汤很好喝。,mā ma zuò de jī tāng hěn hǎo hē.,Canh gà mẹ nấu rất ngon.
+HSK 3,453,恐怕,kǒng pà,phó từ,e rằng,fear; to dread; I'm afraid that...,恐怕不行；恐怕要下雨,恐怕他今天不能来了。,kǒng pà tā jīn tiān bù néng lái le.,E là hôm nay anh ấy không đến được.
+HSK 3,454,搬,bān,động từ,"dọn, chuyển",to move (i.e. relocate oneself); to move (sth relatively heavy or bulky); to shift,搬家；搬东西；搬走,我们下个月搬家。,wǒ men xià gè yuè bān jiā.,Tháng sau chúng tôi chuyển nhà.
+HSK 3,455,自从,zì cóng,giới từ,từ khi,since (a time); ever since,自从……以后；自从来到这里,自从来到中国，我的汉语进步很快。,"zì cóng lái dào zhōng guó, wǒ de hàn yǔ jìn bù hěn kuài.","Từ khi đến Trung Quốc, tiếng Trung của tôi tiến bộ rất nhanh."
+HSK 3,456,命运,mìng yùn,danh từ,"vận mệnh, số phận",fate; destiny,改变命运；命运的安排；自己的命运,每个人都能改变自己的命运。,měi gè rén dōu néng gǎi biàn zì jǐ de mìng yùn.,Mỗi người đều có thể thay đổi vận mệnh của mình.
+HSK 3,457,女子,nǚ zǐ,danh từ,"nữ, phụ nữ",woman; female,女子比赛；女子学校；一名女子,她获得了女子一百米第一名。,tā huò dé le nǚ zǐ yì bǎi mǐ dì yì míng.,Cô ấy giành hạng nhất 100 mét nữ.
+HSK 3,458,类似,lèi sì,"tính từ, động từ",tương tự,similar; analogous,类似的问题；与……类似；非常类似,我也遇到过类似的问题。,wǒ yě yù dào guò lèi sì de wèn tí.,Tôi cũng từng gặp vấn đề tương tự.
+HSK 3,459,尽量,jǐn liàng,phó từ,"cố hết sức, tối đa",as much as possible; to the greatest extent,尽量早点儿；尽量少；尽量帮助,我会尽量早点儿回来。,wǒ huì jǐn liàng zǎo diǎn ér huí lái.,Tôi sẽ cố gắng về sớm.
+HSK 3,460,及时,jí shí,"tính/phó từ, tính từ",kịp thời,timely; at the right time; promptly; without delay,及时完成；很及时；及时发现,幸好医生来得及时。,xìng hǎo yī shēng lái de jí shí.,May mà bác sĩ đến kịp thời.
+HSK 3,461,专门,zhuān mén,"phó từ, từ khu biệt","chuyên, riêng (cho việc gì)",specialist; specialized; customized,专门为；专门的；专门学习,这是专门为你准备的。,zhè shì zhuān mén wèi nǐ zhǔn bèi de.,Cái này được chuẩn bị riêng cho bạn.
+HSK 3,462,资格,zī gé,danh từ,tư cách,qualifications; seniority,有资格；资格考试；没有资格,你没有资格这样说。,nǐ méi yǒu zī gé zhè yàng shuō.,Bạn không có tư cách nói như vậy.
+HSK 3,463,工具,gōng jù,danh từ,công cụ,tool; instrument; utensil,交通工具；学习工具；用工具,语言是交流的工具。,yǔ yán shì jiāo liú de gōng jù.,Ngôn ngữ là công cụ giao tiếp.
+HSK 3,464,快速,kuài sù,"phó từ, từ khu biệt",nhanh chóng,fast; high-speed; rapid,快速发展；快速增长；快速反应,经济在快速发展。,jīng jì zài kuài sù fā zhǎn.,Kinh tế đang phát triển nhanh chóng.
+HSK 3,465,连续,lián xù,"tính từ, tính/phó từ",liên tục,continuous; in a row; serial,连续三天；连续工作；连续下雨,已经连续下了三天雨了。,yǐ jīng lián xù xià le sān tiān yǔ le.,Đã mưa liên tục ba ngày rồi.
+HSK 3,466,决赛,jué sài,"động/danh từ, động từ",trận chung kết,finals (of a competition),进入决赛；决赛选手；总决赛,我们队进入了决赛。,wǒ men duì jìn rù le jué sài.,Đội chúng tôi đã vào chung kết.
+HSK 3,467,厂,chǎng,danh từ,nhà máy,factory; yard; depot,工厂；厂长；汽车厂,他在汽车厂工作。,tā zài qì chē chǎng gōng zuò.,Anh ấy làm việc ở nhà máy ô tô.
+HSK 3,468,形成,xíng chéng,"động từ, động/danh từ",hình thành,to form; to take shape,形成习惯；形成了；逐渐形成,他形成了早睡早起的习惯。,tā xíng chéng le zǎo shuì zǎo qǐ de xí guàn.,Anh ấy đã hình thành thói quen ngủ sớm dậy sớm.
+HSK 3,469,背后,bèi hòu,phương vị,"phía sau, sau lưng",behind; at the back; in the rear,在背后；背后说人；房子背后,不要在背后说别人。,bú yào zài bèi hòu shuō bié rén.,Đừng nói xấu người khác sau lưng.
+HSK 3,470,配合,pèi hé,"động từ, động/danh từ",phối hợp,matching; fitting in with; compatible with,互相配合；配合工作；配合得很好,我们配合得很好。,wǒ men pèi hé dé hěn hǎo.,Chúng tôi phối hợp rất ăn ý.
+HSK 3,471,显得,xiǎn de,động từ,"tỏ ra, trông có vẻ",to seem; to look; to appear,显得很年轻；显得很高兴,她穿这件衣服显得很年轻。,tā chuān zhè jiàn yī fú xiǎn de hěn nián qīng.,Cô ấy mặc bộ này trông rất trẻ.
+HSK 3,472,亲自,qīn zì,phó từ,đích thân,personally; in person; oneself,亲自去；亲自做；亲自来,经理亲自来接我们。,jīng lǐ qīn zì lái jiē wǒ men.,Giám đốc đích thân đến đón chúng tôi.
+HSK 3,473,公共,gōng gòng,từ khu biệt,công cộng,public; common; communal,公共场所；公共汽车；公共设施,在公共场所不能抽烟。,zài gōng gòng cháng suǒ bù néng chōu yān.,Không được hút thuốc ở nơi công cộng.
+HSK 3,474,费用,fèi yòng,danh từ,chi phí,cost; expenditure; expense,旅游费用；生活费用；一切费用,这次旅行的费用是多少？,zhè cì lǚ xíng de fèi yòng shì duō shǎo?,Chi phí chuyến đi này là bao nhiêu?
+HSK 3,475,自动,zì dòng,"phó từ, từ khu biệt",tự động,automatic; voluntarily,自动门；自动的；自动关机,这扇门是自动的。,zhè shàn mén shì zì dòng de.,Cánh cửa này là cửa tự động.
+HSK 3,476,明确,míng què,"tính từ, động từ, tính/phó từ","rõ ràng, minh xác",clear-cut; definite; explicit; to clarify; to specify; to make definite,明确目标；很明确；明确表示,我们的目标很明确。,wǒ men de mù biāo hěn míng què.,Mục tiêu của chúng ta rất rõ ràng.
+HSK 3,477,结合,jié hé,"động từ, động/danh từ",kết hợp,to combine; to link; to integrate,结合起来；理论结合实际；相结合,学习要和实践结合起来。,xué xí yào hé shí jiàn jié hé qǐ lái.,Học tập phải kết hợp với thực hành.
+HSK 3,478,当中,dāng zhōng,phương vị,"trong số, ở giữa",among; in the middle; in the center,在……当中；我们当中；当中的,我们当中谁去？,wǒ men dāng zhōng shuí qù?,Trong chúng ta ai đi?
+HSK 3,479,男子,nán zǐ,danh từ,nam giới,a man; a male,男子比赛；一名男子；男子足球,一名男子走进了银行。,yī míng nán zǐ zǒu jìn le yín háng.,Một người đàn ông bước vào ngân hàng.
+HSK 3,480,生存,shēng cún,"động từ, động/danh từ",sinh tồn,to exist; to survive,生存下去；生存能力；生存环境,动物需要水才能生存。,dòng wù xū yào shuǐ cái néng shēng cún.,Động vật cần nước mới có thể sinh tồn.
+HSK 3,481,胖,pàng,tính từ,béo,fat; plump,很胖；变胖；胖了,我最近胖了。,wǒ zuì jìn pàng le.,Dạo này tôi béo lên rồi.
+HSK 3,482,土,tǔ,"danh từ, từ khu biệt, tính từ",đất,Tu (ethnic group); earth; dust,土地；泥土；土豆,这里的土很好。,zhè lǐ de tǔ hěn hǎo.,Đất ở đây rất tốt.
+HSK 3,483,念,niàn,"động từ, ngữ tố",đọc; nhớ,to read; to study (a subject); to attend (a school),念书；念课文；想念,请念一下这个句子。,qǐng niàn yī xià zhè ge jù zi.,Hãy đọc câu này lên.
+HSK 3,484,进步,jìn bù,"động/danh từ, động từ, tính từ",tiến bộ,progress; improvement; to improve; to progress,很大进步；进步很快；取得进步,你的汉语进步很大。,nǐ de hàn yǔ jìn bù hěn dà.,Tiếng Trung của bạn tiến bộ rất nhiều.
+HSK 3,485,对待,duì dài,"động từ, động/danh từ","đối xử, đối đãi",to treat; treatment,对待工作；认真对待；对待别人,我们要认真对待每一件事。,wǒ men yào rèn zhēn duì dài měi yī jiàn shì.,Chúng ta phải nghiêm túc đối đãi với từng việc.
+HSK 3,486,村,cūn,danh từ,làng,village,村子；农村；村长,他住在一个小村子里。,tā zhù zài yí gè xiǎo cūn zi lǐ.,Anh ấy sống trong một ngôi làng nhỏ.
+HSK 3,487,现象,xiàn xiàng,danh từ,hiện tượng,phenomenon; appearance,社会现象；自然现象；这种现象,这种现象很普遍。,zhè zhǒng xiàn xiàng hěn pǔ biàn.,Hiện tượng này rất phổ biến.
+HSK 3,488,实力,shí lì,danh từ,thực lực,strength,很有实力；实力强；经济实力,这支球队很有实力。,zhè zhī qiú duì hěn yǒu shí lì.,Đội bóng này rất có thực lực.
+HSK 3,489,缺,quē,động từ,thiếu,deficiency; lack; scarce,缺钱；缺人；缺少,我们公司缺人。,wǒ men gōng sī quē rén.,Công ty chúng tôi đang thiếu người.
+HSK 3,490,主动,zhǔ dòng,"tính/phó từ, tính từ, tính/danh từ",chủ động,to take the initiative; to do sth of one's own accord; spontaneous,主动帮助；很主动；主动提出,他主动帮我搬东西。,tā zhǔ dòng bāng wǒ bān dōng xī.,Anh ấy chủ động giúp tôi chuyển đồ.
+HSK 3,491,甜,tián,tính từ,ngọt,sweet,很甜；甜的；甜点,这个西瓜很甜。,zhè ge xī guā hěn tián.,Quả dưa hấu này rất ngọt.
+HSK 3,492,服装,fú zhuāng,danh từ,trang phục,dress; clothing; costume,服装店；民族服装；服装设计,这家服装店的衣服很好看。,zhè jiā fú zhuāng diàn de yī fú hěn hǎo kàn.,Quần áo ở cửa hàng thời trang này rất đẹp.
+HSK 3,493,形式,xíng shì,danh từ,hình thức,outer appearance; form; shape,各种形式；形式多样；以……的形式,考试以口试的形式进行。,kǎo shì yǐ kǒu shì de xíng shì jìn xíng.,Kỳ thi được tiến hành dưới hình thức vấn đáp.
+HSK 3,494,判断,pàn duàn,"động từ, động/danh từ, danh từ",phán đoán,to judge; to determine; judgment,判断对错；做出判断；判断力,你的判断是对的。,nǐ de pàn duàn shì duì de.,Phán đoán của bạn là đúng.
+HSK 3,495,前往,qián wǎng,động từ,đi đến (văn viết),to leave for; to proceed towards; to go to,前往北京；前往参观,代表团明天前往上海。,dài biǎo tuán míng tiān qián wǎng shàng hǎi.,Đoàn đại biểu ngày mai đi Thượng Hải.
+HSK 3,496,相互,xiāng hù,"phó từ, từ khu biệt","lẫn nhau, tương hỗ",each other; mutual,相互帮助；相互影响；相互了解,两国相互学习。,liǎng guó xiāng hù xué xí.,Hai nước học hỏi lẫn nhau.
+HSK 3,497,成立,chéng lì,"động từ, động/danh từ",thành lập,to establish; to set up; to be tenable,成立公司；成立大会；正式成立,这家公司成立于2010年。,zhè jiā gōng sī chéng lì yú2010 nián.,Công ty này được thành lập năm 2010.
+HSK 3,498,现代,xiàn dài,thời gian,hiện đại,"Hyundai, South Korean company; modern times; modern age",现代化；现代社会；现代人,现代人的生活节奏很快。,xiàn dài rén de shēng huó jié zòu hěn kuài.,Nhịp sống của người hiện đại rất nhanh.
+HSK 3,499,工资,gōng zī,danh từ,tiền lương,wages; pay,发工资；工资很高；月工资,这个月的工资发了。,zhè ge yuè de gōng zī fā le.,Lương tháng này đã được trả.
+HSK 3,500,深刻,shēn kè,"tính từ, tính/phó từ",sâu sắc,profound; deep; deep-going,印象深刻；深刻的道理；很深刻,这本书给我留下了深刻的印象。,zhè běn shū gěi wǒ liú xià le shēn kè de yìn xiàng.,Quyển sách này để lại cho tôi ấn tượng sâu sắc.
+HSK 3,501,庆祝,qìng zhù,"động từ, động/danh từ","chúc mừng, ăn mừng",to celebrate,庆祝生日；庆祝胜利；庆祝活动,我们一起庆祝他的生日。,wǒ men yì qǐ qìng zhù tā de shēng rì.,Chúng tôi cùng nhau mừng sinh nhật anh ấy.
+HSK 3,502,伤心,shāng xīn,tính từ,đau lòng,to grieve; to be broken-hearted; to feel deeply hurt,很伤心；伤心的事；别伤心,听到这个消息，她很伤心。,"tīng dào zhè ge xiāo xī, tā hěn shāng xīn.",Nghe tin này cô ấy rất đau lòng.
+HSK 3,503,眼前,yǎn qián,"nơi chốn, thời gian",trước mắt,before one's eyes; now; at present,眼前的；在眼前；眼前利益,不要只看眼前的利益。,bú yào zhǐ kàn yǎn qián de lì yì.,Đừng chỉ nhìn vào lợi ích trước mắt.
+HSK 3,504,足球,zú qiú,danh từ,bóng đá,soccer ball; a football; soccer,踢足球；足球比赛；足球队,我很喜欢踢足球。,wǒ hěn xǐ huān tī zú qiú.,Tôi rất thích đá bóng.
+HSK 3,505,全面,quán miàn,"tính/phó từ, tính từ",toàn diện,all-around; comprehensive; total,全面发展；全面了解；很全面,我们要全面了解情况。,wǒ men yào quán miàn liáo jiě qíng kuàng.,Chúng ta phải tìm hiểu tình hình một cách toàn diện.
+HSK 3,506,体验,tǐ yàn,"động từ, động/danh từ",trải nghiệm,to experience for oneself,体验生活；新体验；亲身体验,我想体验一下中国的生活。,wǒ xiǎng tǐ yàn yī xià zhōng guó de shēng huó.,Tôi muốn trải nghiệm cuộc sống ở Trung Quốc.
+HSK 3,507,话题,huà tí,danh từ,chủ đề (câu chuyện),subject (of a talk or conversation); topic,换个话题；热门话题；聊天话题,我们换个话题吧。,wǒ men huàn gè huà tí ba.,Chúng ta đổi chủ đề nhé.
+HSK 3,508,坚强,jiān qiáng,"tính từ, tính/danh từ",kiên cường,staunch; strong,很坚强；坚强的人；要坚强,你要坚强一点儿。,nǐ yào jiān qiáng yì diǎn ér.,Bạn phải kiên cường lên.
+HSK 3,509,古,gǔ,"tính từ, thời gian","cổ, xưa",ancient; old; paleo-,古代；古老；古人,这是一座古城。,zhè shì yī zuò gǔ chéng.,Đây là một tòa thành cổ.
+HSK 3,510,苹果,píng guǒ,danh từ,quả táo,apple,吃苹果；一个苹果；苹果树,我每天吃一个苹果。,wǒ měi tiān chī yí gè píng guǒ.,Ngày nào tôi cũng ăn một quả táo.
+HSK 3,511,银,yín,"từ khu biệt, ngữ tố, danh từ",bạc,silver; silver-colored; relating to money or currency,银行；银色；银牌,她戴着一条银项链。,tā dài zhe yì tiáo yín xiàng liàn.,Cô ấy đeo một sợi dây chuyền bạc.
+HSK 3,512,区别,qū bié,"danh từ, động từ",sự khác biệt; phân biệt,difference; to distinguish; to discriminate,有区别；区别很大；没有区别,这两个词有什么区别？,zhè liǎng gè cí yǒu shén me qū bié?,Hai từ này khác nhau thế nào?
+HSK 3,513,合法,hé fǎ,"tính từ, tính/phó từ",hợp pháp,lawful; legitimate; legal,合法的；不合法；合法权益,这样做是合法的。,zhè yàng zuò shì hé fǎ de.,Làm như vậy là hợp pháp.
+HSK 3,514,羊,yáng,danh từ,"con dê, con cừu",sheep; goat,羊肉；一只羊；山羊,草地上有很多羊。,cǎo dì shàng yǒu hěn duō yáng.,Trên bãi cỏ có rất nhiều cừu.
+HSK 3,515,将来,jiāng lái,thời gian,tương lai,in the future; future; the future,将来的；在将来；将来我想,将来我想当一名老师。,jiāng lái wǒ xiǎng dāng yī míng lǎo shī.,Tương lai tôi muốn làm giáo viên.
+HSK 3,516,造,zào,động từ,"làm ra, chế tạo",to make; to build; to manufacture,造句；造房子；制造,请用这个词造一个句子。,qǐng yòng zhè ge cí zào yí gè jù zi.,Hãy dùng từ này đặt một câu.
+HSK 3,517,个性,gè xìng,danh từ,cá tính,individuality; personality,有个性；个性很强；个性化,她是一个很有个性的人。,tā shì yí gè hěn yǒu gè xìng de rén.,Cô ấy là người rất có cá tính.
+HSK 3,518,批准,pī zhǔn,"động từ, động/danh từ",phê chuẩn,to approve; to ratify,批准了；得到批准；经过批准,经理批准了我的请假。,jīng lǐ pī zhǔn le wǒ de qǐng jià.,Giám đốc đã duyệt đơn xin nghỉ của tôi.
+HSK 3,519,前进,qián jìn,"động từ, động/danh từ",tiến lên,to go forward; to forge ahead; to advance,向前进；前进的方向；继续前进,我们要继续前进。,wǒ men yào jì xù qián jìn.,Chúng ta phải tiếp tục tiến lên.
+HSK 3,520,啤酒,pí jiǔ,danh từ,bia,beer (loanword),喝啤酒；一瓶啤酒；啤酒节,夏天喝冰啤酒很舒服。,xià tiān hē bīng pí jiǔ hěn shū fú.,Mùa hè uống bia lạnh rất sảng khoái.
+HSK 3,521,机器,jī qì,danh từ,máy móc,machine,一台机器；机器人；开机器,这台机器坏了。,zhè tái jī qì huài le.,Cái máy này hỏng rồi.
+HSK 3,522,公布,gōng bù,động từ,công bố,to announce; to make public; to publish,公布结果；公布名单；正式公布,考试成绩明天公布。,kǎo shì chéng jì míng tiān gōng bù.,Điểm thi sẽ công bố vào ngày mai.
+HSK 3,523,工厂,gōng chǎng,danh từ,nhà máy,factory,在工厂工作；大工厂；汽车工厂,我爸爸在工厂工作。,wǒ bà ba zài gōng chǎng gōng zuò.,Bố tôi làm việc ở nhà máy.
+HSK 3,524,指出,zhǐ chū,động từ,chỉ ra,to indicate; to point out,指出问题；指出错误；他指出,老师指出了我作文里的错误。,lǎo shī zhǐ chū le wǒ zuò wén lǐ de cuò wù.,Thầy chỉ ra những lỗi trong bài văn của tôi.
+HSK 3,525,举办,jǔ bàn,"động từ, động/danh từ",tổ chức,to conduct; to hold,举办活动；举办比赛；举办晚会,学校举办了一次汉语比赛。,xué xiào jǔ bàn le yī cì hàn yǔ bǐ sài.,Trường đã tổ chức một cuộc thi tiếng Trung.
+HSK 3,526,人才,rén cái,danh từ,nhân tài,talent; talented person; looks,培养人才；优秀人才；人才市场,公司需要更多的人才。,gōng sī xū yào gèng duō de rén cái.,Công ty cần thêm nhiều nhân tài.
+HSK 3,527,看上去,kàn shang qu,động từ,trông có vẻ,it would appear; it seems (that),看上去很累；看上去很年轻,你看上去很累。,nǐ kàn shang qu hěn lèi.,Trông bạn có vẻ rất mệt.
+HSK 3,528,环,huán,"danh từ, động từ, lượng từ",vòng; vòng quanh,ring; hoop; loop,环境；环保；一环,三环路上车很多。,sān huán lù shàng chē hěn duō.,Trên đường vành đai ba có rất nhiều xe.
+HSK 3,529,双方,shuāng fāng,danh từ,hai bên,bilateral; both sides; both parties involved,双方同意；比赛双方；双方的,双方都同意了这个计划。,shuāng fāng dōu tóng yì le zhè ge jì huà.,Hai bên đều đồng ý kế hoạch này.
+HSK 3,530,离婚,lí hūn,"động từ, động/danh từ",ly hôn,to divorce,离婚了；跟他离婚；离婚率,他们去年离婚了。,tā men qù nián lí hūn le.,Năm ngoái họ đã ly hôn.
+HSK 3,531,退出,tuì chū,"động từ, động/danh từ",rút khỏi,to withdraw; to abort; to quit,退出比赛；退出组织；退出登录,他因为受伤退出了比赛。,tā yīn wèi shòu shāng tuì chū le bǐ sài.,Anh ấy rút khỏi cuộc thi vì bị thương.
+HSK 3,532,支付,zhī fù,"động từ, động/danh từ","chi trả, thanh toán",to pay (money),手机支付；支付宝；支付费用,现在很多人用手机支付。,xiàn zài hěn duō rén yòng shǒu jī zhī fù.,Bây giờ nhiều người dùng điện thoại để thanh toán.
+HSK 3,533,赶快,gǎn kuài,phó từ,mau chóng,quickly; at once,赶快走；赶快去；赶快回来,赶快走吧，要迟到了。,"gǎn kuài zǒu ba, yào chí dào le.","Mau đi thôi, sắp muộn rồi."
+HSK 3,534,整理,zhěng lǐ,"động từ, động/danh từ","sắp xếp, chỉnh lý",to arrange; to tidy up; to sort out,整理房间；整理东西；整理笔记,我每天晚上整理笔记。,wǒ měi tiān wǎn shàng zhěng lǐ bǐ jì.,Tối nào tôi cũng sắp xếp lại ghi chép.
+HSK 3,535,吵,chǎo,động từ,ồn ào; cãi nhau,to quarrel; to make a noise; noisy,很吵；吵架；别吵了,外边太吵了。,wài biān tài chǎo le.,Bên ngoài ồn quá.
+HSK 3,536,丰富,fēng fù,"tính từ, động từ",phong phú,to enrich; rich; plentiful,内容丰富；丰富多彩；经验丰富,他的生活很丰富。,tā de shēng huó hěn fēng fù.,Cuộc sống của anh ấy rất phong phú.
+HSK 3,537,动力,dòng lì,danh từ,động lực,motive power; force; (fig.) motivation,有动力；学习动力；没有动力,你是我前进的动力。,nǐ shì wǒ qián jìn de dòng lì.,Bạn là động lực để tôi tiến lên.
+HSK 3,538,温暖,wēn nuǎn,"tính/danh từ, tính từ, động từ",ấm áp,warm,很温暖；温暖的家；温暖的阳光,家是最温暖的地方。,jiā shì zuì wēn nuǎn de dì fāng.,Nhà là nơi ấm áp nhất.
+HSK 3,539,齐,qí,"tính từ, phó từ, động từ, tên riêng, thời gian, từ khu biệt","đều, đủ, chỉnh tề",(name of states and dynasties at several different periods); neat; even,整齐；到齐了；一齐,人都到齐了吗？,rén dōu dào qí le ma?,Mọi người đã đến đủ chưa?
+HSK 3,540,表面,biǎo miàn,danh từ,"bề mặt, bề ngoài",surface; face; outside,表面上；地球表面；表面现象,表面上他很高兴，其实很难过。,"biǎo miàn shàng tā hěn gāo xìng, qí shí hěn nán guò.","Bề ngoài anh ấy rất vui, thật ra rất buồn."
+HSK 3,541,领先,lǐng xiān,"động từ, động/danh từ",dẫn đầu,to lead; to be in front,领先地位；遥遥领先；领先对手,我们队现在领先两分。,wǒ men duì xiàn zài lǐng xiān liǎng fēn.,Đội chúng ta hiện đang dẫn trước hai điểm.
+HSK 3,542,作者,zuò zhě,danh từ,tác giả,author; writer,这本书的作者；作者是谁,这篇文章的作者是一位老师。,zhè piān wén zhāng de zuò zhě shì yī wèi lǎo shī.,Tác giả bài viết này là một giáo viên.
+HSK 3,543,上升,shàng shēng,"động từ, động/danh từ",tăng lên,to rise; to go up; to ascend,温度上升；不断上升；上升了,今年的气温上升了。,jīn nián de qì wēn shàng shēng le.,Nhiệt độ năm nay đã tăng lên.
+HSK 3,544,声明,shēng míng,"danh từ, động từ","tuyên bố, thông cáo",to state; to declare; statement,发表声明；公司声明；郑重声明,公司发表了一份声明。,gōng sī fā biǎo le yī fèn shēng míng.,Công ty đã ra một thông cáo.
+HSK 3,545,围,wéi,động từ,vây quanh,to encircle; to surround; all around,围着；周围；包围,大家围着桌子坐下。,dà jiā wéi zhe zhuō zi zuò xià.,Mọi người ngồi quây quanh bàn.
+HSK 3,546,路线,lù xiàn,danh từ,"lộ trình, tuyến đường",itinerary; route; political line (e.g. right revisionist road),旅游路线；公交路线；选择路线,我们选一条最近的路线。,wǒ men xuǎn yì tiáo zuì jìn de lù xiàn.,Chúng ta chọn một tuyến đường gần nhất.
+HSK 3,547,完整,wán zhěng,"tính từ, tính/phó từ, tính/danh từ","hoàn chỉnh, nguyên vẹn",complete; intact,很完整；完整的；不完整,请把句子写完整。,qǐng bǎ jù zi xiě wán zhěng.,Hãy viết câu cho hoàn chỉnh.
+HSK 3,548,谈判,tán pàn,"động/danh từ, động từ",đàm phán,to negotiate; negotiation; talks,进行谈判；谈判桌；商业谈判,两家公司正在谈判。,liǎng jiā gōng sī zhèng zài tán pàn.,Hai công ty đang đàm phán.
+HSK 3,549,飞行,fēi xíng,"động/danh từ, động từ",bay (hàng không),(of planes etc) to fly; flying; flight,飞行员；飞行时间；飞行速度,从北京到河内飞行三个小时。,cóng běi jīng dào hé nèi fēi xíng sān gè xiǎo shí.,Bay từ Bắc Kinh đến Hà Nội mất ba tiếng.
+HSK 3,550,较,jiào,"phó từ, giới từ",tương đối; so với,to compare; to dispute; compared to,比较；较好；较大,今天比昨天较冷。,jīn tiān bǐ zuó tiān jiào lěng.,Hôm nay lạnh hơn hôm qua.
+HSK 3,551,纪念,jì niàn,"động từ, động/danh từ",kỷ niệm,to commemorate; to honor the memory of; memento; keepsake; souvenir,纪念品；纪念日；留作纪念,这张照片送给你做纪念。,zhè zhāng zhào piān sòng gěi nǐ zuò jì niàn.,Tấm ảnh này tặng bạn làm kỷ niệm.
+HSK 3,552,福,fú,danh từ,phúc,abbr. for Fujian province 省; good fortune; happiness,幸福；福气；祝福,春节的时候人们在门上贴“福”字。,"chūn jié de shí hòu rén men zài mén shàng tiē""fú""zì.",Dịp Tết người ta dán chữ “Phúc” lên cửa.
+HSK 3,553,补,bǔ,động từ,"vá, bù, bổ sung",to repair; to patch; to mend,补课；补充；补衣服,我要把落下的课补上。,wǒ yào bǎ là xià de kè bǔ shàng.,Tôi phải học bù những bài đã bỏ lỡ.
+HSK 3,554,赶到,gǎn dào,động từ,chạy đến kịp,to hurry (to some place),赶到现场；及时赶到,医生很快就赶到了。,yī shēng hěn kuài jiù gǎn dào le.,Bác sĩ đã nhanh chóng chạy đến.
+HSK 3,555,公民,gōng mín,danh từ,công dân,citizen,中国公民；每个公民；公民的权利,每个公民都有受教育的权利。,měi gè gōng mín dōu yǒu shòu jiào yù de quán lì.,Mỗi công dân đều có quyền được giáo dục.
+HSK 3,556,当初,dāng chū,thời gian,"lúc đầu, hồi đó",at that time; originally,当初的；早知今日，何必当初,当初我不应该这样做。,dāng chū wǒ bù yīng gāi zhè yàng zuò.,Hồi đó tôi không nên làm như vậy.
+HSK 3,557,分别,fēn bié,"phó từ, động từ","chia tay; lần lượt, riêng rẽ",to part; to leave each other; to distinguish; to tell apart; difference; distinction,分别了；分别是；分别去,他们分别来自中国和越南。,tā men fēn bié lái zì zhōng guó hé yuè nán.,Họ lần lượt đến từ Trung Quốc và Việt Nam.
+HSK 3,558,愿望,yuàn wàng,danh từ,"nguyện vọng, mong muốn",desire; wish,我的愿望；实现愿望；生日愿望,我的愿望是去中国旅游。,wǒ de yuàn wàng shì qù zhōng guó lǚ yóu.,Mong muốn của tôi là đi du lịch Trung Quốc.
+HSK 3,559,长期,cháng qī,"từ khu biệt, phó từ",lâu dài,long term; long time; long range (of a forecast),长期以来；长期合作；长期的,我们希望和你们长期合作。,wǒ men xī wàng hé nǐ men cháng qī hé zuò.,Chúng tôi mong được hợp tác lâu dài với các bạn.
+HSK 3,560,数量,shù liàng,danh từ,số lượng,amount; quantity; quantitative,数量很多；增加数量；数量和质量,学生的数量越来越多。,xué shēng de shù liàng yuè lái yuè duō.,Số lượng học sinh ngày càng nhiều.
+HSK 3,561,保留,bǎo liú,"động từ, động/danh từ","giữ lại, bảo lưu",to keep; to retain; to have reservations (about sth),保留下来；保留意见；保留传统,这个城市保留了很多老房子。,zhè ge chéng shì bǎo liú le hěn duō lǎo fáng zi.,Thành phố này vẫn giữ lại nhiều ngôi nhà cổ.
+HSK 3,562,相比,xiāng bǐ,động từ,so với,to compare,与……相比；相比之下,和去年相比，今年的收入提高了。,"hé qù nián xiāng bǐ, jīn nián de shōu rù tí gāo le.","So với năm ngoái, thu nhập năm nay đã tăng."
+HSK 3,563,深入,shēn rù,"động từ, tính/phó từ, tính từ","đi sâu, sâu sắc",to penetrate deeply; thorough,深入了解；深入研究；深入人心,我们需要深入了解这个问题。,wǒ men xū yào shēn rù liáo jiě zhè ge wèn tí.,Chúng ta cần tìm hiểu sâu vấn đề này.
+HSK 3,564,石油,shí yóu,danh từ,dầu mỏ,oil; petroleum,石油价格；石油公司；开采石油,石油的价格上涨了。,shí yóu de jià gé shàng zhǎng le.,Giá dầu mỏ đã tăng.
+HSK 3,565,情感,qíng gǎn,danh từ,"tình cảm, cảm xúc",feeling; emotion; to move (emotionally),表达情感；情感生活；丰富的情感,音乐可以表达人的情感。,yīn yuè ké yǐ biǎo dá rén de qíng gǎn.,Âm nhạc có thể biểu đạt cảm xúc con người.
+HSK 3,566,称为,chēng wéi,động từ,được gọi là,"to be called; to be known as; to call it ""...""",被称为；称为……,长城被称为世界奇迹。,cháng chéng bèi chēng wéi shì jiè qí jì.,Vạn Lý Trường Thành được gọi là kỳ quan thế giới.
+HSK 3,567,人群,rén qún,danh từ,đám đông,crowd,人群中；一群人；拥挤的人群,他消失在人群中。,tā xiāo shī zài rén qún zhōng.,Anh ấy biến mất trong đám đông.
+HSK 3,568,计算,jì suàn,"động từ, động/danh từ",tính toán,to count; to calculate; to compute,计算一下；计算机；计算方法,请计算一下一共多少钱。,qǐng jì suàn yī xià yī gòng duō shǎo qián.,Hãy tính xem tổng cộng bao nhiêu tiền.
+HSK 3,569,开发,kāi fā,"động từ, động/danh từ","khai thác, phát triển",to exploit (a resource); to open up (for development); to develop,开发新产品；开发区；软件开发,公司正在开发新产品。,gōng sī zhèng zài kāi fā xīn chǎn pǐn.,Công ty đang phát triển sản phẩm mới.
+HSK 3,570,始终,shǐ zhōng,"phó từ, danh từ","trước sau, luôn luôn",from beginning to end; all along,始终如一；始终不变；始终相信,我始终相信你。,wǒ shǐ zhōng xiāng xìn nǐ.,Tôi trước sau vẫn tin bạn.
+HSK 3,571,争,zhēng,"động từ, ngữ tố, động/danh từ","tranh, giành",to strive for; to vie for; to argue or debate,争第一；争论；争取,兄弟俩在争一个玩具。,xiōng dì liǎ zài zhēng yí gè wán jù.,Hai anh em đang tranh nhau một món đồ chơi.
+HSK 3,572,订,dìng,động từ,đặt (trước),to agree; to conclude; to draw up,订票；订房间；预订,我已经订好了机票。,wǒ yǐ jīng dìng hǎo le jī piào.,Tôi đã đặt vé máy bay rồi.
+HSK 3,573,卫生,wèi shēng,"tính/danh từ, tính từ",vệ sinh,health; hygiene; sanitation,讲卫生；卫生间；卫生习惯,饭前要洗手，注意卫生。,"fàn qián yào xí shǒu, zhù yì wèi shēng.","Trước khi ăn phải rửa tay, chú ý vệ sinh."
+HSK 3,574,富,fù,"ngữ tố, tính từ",giàu,rich; abundant; wealthy,富人；富有；丰富,他家很富。,tā jiā hěn fù.,Nhà anh ấy rất giàu.
+HSK 3,575,加强,jiā qiáng,"động từ, động/danh từ",tăng cường,to reinforce; to strengthen; to enhance,加强管理；加强练习；加强合作,我们要加强口语练习。,wǒ men yào jiā qiáng kóu yǔ liàn xí.,Chúng ta phải tăng cường luyện khẩu ngữ.
+HSK 3,576,保安,bǎo ān,"từ khu biệt, danh từ, động từ",bảo vệ (người),to ensure public security; to ensure safety (for workers engaged in production); public security,当保安；小区保安；保安人员,门口有两个保安。,mén kǒu yǒu liǎng gè bǎo ān.,Ở cửa có hai bảo vệ.
+HSK 3,577,歌手,gē shǒu,danh từ,ca sĩ,singer,一位歌手；流行歌手；当歌手,她是一位有名的歌手。,tā shì yī wèi yǒu míng de gē shǒu.,Cô ấy là một ca sĩ nổi tiếng.
+HSK 3,578,实验室,shí yàn shì,danh từ,phòng thí nghiệm,laboratory,在实验室；化学实验室；实验室里,他每天都在实验室工作。,tā měi tiān dōu zài shí yàn shì gōng zuò.,Ngày nào anh ấy cũng làm việc trong phòng thí nghiệm.
+HSK 3,579,开放,kāi fàng,"động từ, động/danh từ, tính từ","mở cửa, cởi mở",to bloom; to open; to be open (to the public),对外开放；开放时间；思想开放,博物馆每天九点开放。,bó wù guǎn měi tiān jiǔ diǎn kāi fàng.,Bảo tàng mở cửa lúc chín giờ mỗi ngày.
+HSK 3,580,各地,gè dì,đại từ,các nơi,in all parts of (a country); various regions,全国各地；世界各地；各地的,他去过世界各地。,tā qù guò shì jiè gè dì.,Anh ấy đã đi khắp các nơi trên thế giới.
+HSK 3,581,性格,xìng gé,danh từ,tính cách,nature; disposition; temperament,性格开朗；性格很好；性格不同,她的性格很开朗。,tā de xìng gé hěn kāi lǎng.,Tính cách cô ấy rất cởi mở.
+HSK 3,582,团结,tuán jié,"động từ, tính/danh từ, tính từ",đoàn kết,to unite; unity; solidarity,团结一致；很团结；团结起来,我们班的同学很团结。,wǒ men bān de tóng xué hěn tuán jié.,Bạn học lớp chúng tôi rất đoàn kết.
+HSK 3,583,展开,zhǎn kāi,"động từ, động/danh từ","triển khai, mở ra",to unfold; to spread out; to open up; to launch; to carry out,展开工作；展开讨论；展开调查,大家展开了热烈的讨论。,dà jiā zhǎn kāi le rè liè de tǎo lùn.,Mọi người đã triển khai cuộc thảo luận sôi nổi.
+HSK 3,584,把握,bǎ wò,"động từ, động/danh từ, danh từ","nắm chắc, nắm bắt",to grasp (also fig.); to seize; to hold,有把握；把握机会；没有把握,这次考试我很有把握。,zhè cì kǎo shì wǒ hěn yǒu bǎ wò.,Kỳ thi lần này tôi rất nắm chắc.
+HSK 3,585,成就,chéng jiù,"danh từ, động từ",thành tựu,accomplishment; success; achievement,取得成就；很大的成就；成就感,他在科学上取得了很大成就。,tā zài kē xué shàng qǔ dé le hěn dà chéng jiù.,Ông ấy đã đạt được thành tựu lớn trong khoa học.
+HSK 3,586,课程,kè chéng,danh từ,"chương trình học, khóa học",course; academic program,汉语课程；课程表；网上课程,这学期的课程很多。,zhè xué qī de kè chéng hěn duō.,Học kỳ này có rất nhiều môn học.
+HSK 3,587,看起来,kàn qǐ lai,động từ,trông có vẻ,seemingly; apparently; looks as if,看起来很好；看起来不错,这个菜看起来很好吃。,zhè ge cài kàn qǐ lai hěn hǎo chī.,Món này trông có vẻ rất ngon.
+HSK 3,588,发动,fā dòng,động từ,"phát động, khởi động",to start; to launch; to unleash,发动汽车；发动机；发动群众,他发动了汽车。,tā fā dòng le qì chē.,Anh ấy đã khởi động xe.
+HSK 3,589,果然,guǒ rán,"phó từ, liên từ",quả nhiên,really; sure enough; as expected,果然是；果然不错,他说会下雨，果然下雨了。,"tā shuō huì xià yǔ, guǒ rán xià yǔ le.","Anh ấy nói sẽ mưa, quả nhiên mưa thật."
+HSK 3,590,放到,fàng dào,động từ,đặt vào,Put in,放到桌子上；放到包里,请把书放到书架上。,qǐng bǎ shū fàng dào shū jià shàng.,Hãy đặt sách lên giá sách.
+HSK 3,591,静,jìng,"tính từ, tính/phó từ, động từ, tính/danh từ",yên lặng,still; calm; quiet,安静；静静地；冷静,夜里很静。,yè lǐ hěn jìng.,Ban đêm rất yên tĩnh.
+HSK 3,592,需求,xū qiú,danh từ,nhu cầu,requirement; to require; (economics) demand,市场需求；满足需求；需求很大,市场对这种产品的需求很大。,shì chǎng duì zhè zhǒng chǎn pǐn de xū qiú hěn dà.,Nhu cầu thị trường với sản phẩm này rất lớn.
+HSK 3,593,只好,zhǐ hǎo,phó từ,đành phải,to have no other option but to ...; to have to; to be forced to,只好走路；只好等；只好放弃,没有车了，我们只好走路回去。,"méi yǒu chē le, wǒ men zhǐ hǎo zǒu lù huí qù.","Hết xe rồi, chúng ta đành đi bộ về."
+HSK 3,594,国内,guó nèi,nơi chốn,trong nước,domestic; internal (to a country); civil,国内外；国内旅游；国内新闻,他在国内很有名。,tā zài guó nèi hěn yǒu míng.,Anh ấy rất nổi tiếng trong nước.
+HSK 3,595,谈话,tán huà,"động/danh từ, động từ, danh từ",nói chuyện,to talk (with sb); to have a conversation; talk,跟他谈话；谈话内容；一次谈话,老师找我谈话了。,lǎo shī zhǎo wǒ tán huà le.,Thầy đã gọi tôi lên nói chuyện.
+HSK 3,596,传说,chuán shuō,"danh từ, động từ",truyền thuyết; nghe đồn,legend; folk tale; to repeat from mouth to mouth; they say that...,古老的传说；传说中；民间传说,这是一个美丽的传说。,zhè shì yí gè měi lì de chuán shuō.,Đây là một truyền thuyết đẹp.
+HSK 3,597,转变,zhuǎn biàn,"động từ, động/danh từ",chuyển biến,to change; to transform; shift,转变观念；发生转变；转变态度,他的态度发生了很大转变。,tā de tài dù fā shēng le hěn dà zhuǎn biàn.,Thái độ của anh ấy có chuyển biến lớn.
+HSK 3,598,能不能,néng bùnéng,,có thể … không,Can you,能不能帮我；能不能来,你能不能帮我一个忙？,nǐ néng bù néng bāng wǒ yí gè máng?,Bạn có thể giúp tôi một việc không?
+HSK 3,599,至今,zhì jīn,phó từ,cho đến nay,so far; to this day; until now,至今还；至今为止；至今没有,这件事至今还没有解决。,zhè jiàn shì zhì jīn hái méi yǒu jiě jué.,Việc này đến nay vẫn chưa được giải quyết.
+HSK 3,600,后果,hòu guǒ,danh từ,hậu quả,consequences; aftermath,严重后果；后果很严重；承担后果,这样做的后果很严重。,zhè yàng zuò de hòu guǒ hěn yán zhòng.,Làm như vậy hậu quả sẽ rất nghiêm trọng.
+HSK 3,601,打破,dǎ pò,động từ,phá vỡ,to break; to smash,打破记录；打破杯子；打破沉默,他打破了世界记录。,tā dǎ pò le shì jiè jì lù.,Anh ấy đã phá kỷ lục thế giới.
+HSK 3,602,上来,shàng lái,động từ,lên (hướng về người nói),to come up; to approach; (verb complement indicating success),走上来；拿上来；答不上来,你快上来吧。,nǐ kuài shàng lái ba.,Bạn lên đây mau đi.
+HSK 3,603,石头,shí tou,danh từ,hòn đá,stone,一块石头；石头路；大石头,路上有一块大石头。,lù shàng yǒu yī kuài dà shí tou.,Trên đường có một hòn đá to.
+HSK 3,604,主持,zhǔ chí,"động từ, động/danh từ","chủ trì, dẫn chương trình",to take charge of; to manage or direct; to preside over,主持人；主持会议；主持节目,她是这个节目的主持人。,tā shì zhè ge jié mù de zhǔ chí rén.,Cô ấy là người dẫn chương trình này.
+HSK 3,605,访问,fǎng wèn,"động từ, động/danh từ",thăm viếng; truy cập,to visit; to call on; to interview,访问中国；访问网站；正式访问,总统正在访问越南。,zǒng tǒng zhèng zài fǎng wèn yuè nán.,Tổng thống đang thăm Việt Nam.
+HSK 3,606,先进,xiān jìn,"tính từ, danh từ",tiên tiến,advanced (technology); to advance,先进技术；很先进；先进的设备,这家医院的设备很先进。,zhè jiā yī yuàn de shè bèi hěn xiān jìn.,Thiết bị của bệnh viện này rất tiên tiến.
+HSK 3,607,才能,cái néng,"danh từ, động từ, tên riêng",tài năng,talent; ability; capacity,有才能；发挥才能；音乐才能,他有很多方面的才能。,tā yǒu hěn duō fāng miàn de cái néng.,Anh ấy có tài năng ở nhiều mặt.
+HSK 3,608,文明,wén míng,"danh từ, tính từ, tính/phó từ",văn minh,civilized; civilization; culture,文明社会；讲文明；古代文明,我们要做文明的人。,wǒ men yào zuò wén míng de rén.,Chúng ta phải làm người văn minh.
+HSK 3,609,西部,xī bù,phương vị,miền tây,western part,西部地区；中国西部；西部大开发,中国西部有很多高山。,zhōng guó xī bù yǒu hěn duō gāo shān.,Miền tây Trung Quốc có nhiều núi cao.
+HSK 3,610,玩具,wán jù,danh từ,đồ chơi,plaything; toy,玩具车；买玩具；玩具店,孩子们都喜欢玩具。,hái zi men dōu xǐ huān wán jù.,Trẻ con đều thích đồ chơi.
+HSK 3,611,防止,fáng zhǐ,động từ,"phòng ngừa, ngăn chặn",to prevent; to guard against; to take precautions,防止发生；防止感冒；防止事故,我们要防止这种事情再发生。,wǒ men yào fáng zhǐ zhè zhǒng shì qíng zài fā shēng.,Chúng ta phải ngăn chặn chuyện này xảy ra lần nữa.
+HSK 3,612,年纪,nián jì,danh từ,tuổi tác,age,年纪大了；多大年纪；年纪轻轻,爷爷年纪大了。,yé ye nián jì dà le.,Ông nội đã có tuổi rồi.
+HSK 3,613,采用,cǎi yòng,động từ,"sử dụng, áp dụng",to adopt; to employ; to use,采用新技术；采用方法；被采用,这家工厂采用了新技术。,zhè jiā gōng chǎng cǎi yòng le xīn jì shù.,Nhà máy này đã áp dụng công nghệ mới.
+HSK 3,614,手指,shǒu zhǐ,danh từ,ngón tay,finger,手指头；五个手指；伸出手指,他的手指受伤了。,tā de shǒu zhǐ shòu shāng le.,Ngón tay anh ấy bị thương rồi.
+HSK 3,615,天空,tiān kōng,danh từ,bầu trời,sky,蓝色的天空；天空中；晴朗的天空,天空中有很多星星。,tiān kōng zhōng yǒu hěn duō xīng xing.,Trên bầu trời có rất nhiều sao.
+HSK 3,616,制度,zhì dù,danh từ,chế độ,"system (e.g. political, adminstrative etc); institution",教育制度；规章制度；建立制度,每个公司都有自己的制度。,měi gè gōng sī dōu yǒu zì jǐ de zhì dù.,Mỗi công ty đều có chế độ riêng.
+HSK 3,617,工业,gōng yè,danh từ,công nghiệp,industry,工业发展；工业城市；重工业,这是一个工业城市。,zhè shì yí gè gōng yè chéng shì.,Đây là một thành phố công nghiệp.
+HSK 3,618,广播,guǎng bō,"động/danh từ, danh từ, động từ",phát thanh,broadcast; broadcasting; to broadcast,听广播；广播电台；广播节目,爷爷每天早上听广播。,yé ye měi tiān zǎo shàng tīng guǎng bō.,Ông nội sáng nào cũng nghe đài.
+HSK 3,619,从事,cóng shì,động từ,"làm (nghề), theo đuổi",to go for; to engage in; to undertake,从事教育工作；从事研究,他从事教育工作二十年了。,tā cóng shì jiào yù gōng zuò èr shí nián le.,Ông ấy làm công tác giáo dục đã hai mươi năm.
+HSK 3,620,改造,gǎi zào,"động từ, động/danh từ",cải tạo,to transform; to reform; to remodel,改造房子；改造环境；进行改造,这条老街正在改造。,zhè tiáo lǎo jiē zhèng zài gǎi zào.,Con phố cổ này đang được cải tạo.
+HSK 3,621,制定,zhì dìng,"động từ, động/danh từ","đặt ra, xây dựng (kế hoạch, luật)",to draw up; to formulate,制定计划；制定规则；制定法律,我们要制定一个学习计划。,wǒ men yào zhì dìng yí gè xué xí jì huà.,Chúng ta phải xây dựng một kế hoạch học tập.
+HSK 3,622,直播,zhí bō,"động từ, động/danh từ",phát trực tiếp,"(TV, radio) to broadcast live; live broadcast; (Internet) to livestream",现场直播；看直播；直播比赛,电视上正在直播足球比赛。,diàn shì shàng zhèng zài zhí bō zú qiú bǐ sài.,Trên tivi đang phát trực tiếp trận bóng đá.
+HSK 3,623,应当,yīng dāng,động từ,"nên, phải",should; ought to,应当做；应当注意,我们应当遵守交通规则。,wǒ men yīng dāng zūn shǒu jiāo tōng guī zé.,Chúng ta nên tuân thủ luật giao thông.
+HSK 3,624,交往,jiāo wǎng,"động/danh từ, động từ","giao du, qua lại",to associate (with); to have contact (with); to hang out (with),跟人交往；交往能力；互相交往,他很善于和人交往。,tā hěn shàn yú hé rén jiāo wǎng.,Anh ấy rất giỏi giao tiếp với người khác.
+HSK 3,625,各自,gè zì,đại từ,"mỗi người, riêng mình",each; respective; apiece,各自的；各自回家；各自负责,大家各自回家吧。,dà jiā gè zì huí jiā ba.,Mọi người ai về nhà nấy nhé.
+HSK 3,626,不论,bù lùn,liên từ,bất luận,"whatever; no matter what (who, how etc); regardless of",不论……都……；不论如何,不论多忙，他都坚持运动。,"bù lùn duō máng, tā dōu jiān chí yùn dòng.","Bất luận bận đến đâu, anh ấy vẫn kiên trì tập thể dục."
+HSK 3,627,退休,tuì xiū,"động từ, động/danh từ",nghỉ hưu,to retire (from the workforce); to go into retirement,退休了；退休生活；退休以后,我爸爸去年退休了。,wǒ bà ba qù nián tuì xiū le.,Bố tôi đã nghỉ hưu năm ngoái.
+HSK 3,628,成果,chéng guǒ,danh từ,thành quả,result; achievement; gain,研究成果；取得成果；劳动成果,这是我们大家的劳动成果。,zhè shì wǒ men dà jiā de láo dòng chéng guǒ.,Đây là thành quả lao động của tất cả chúng ta.
+HSK 3,629,概念,gài niàn,danh từ,khái niệm,concept; idea,基本概念；新概念；没有概念,我对这个概念不太清楚。,wǒ duì zhè ge gài niàn bù tài qīng chǔ.,Tôi không rõ lắm về khái niệm này.
+HSK 3,630,创作,chuàng zuò,"động từ, động/danh từ, danh từ",sáng tác,to create; to produce; to write,创作歌曲；文学创作；创作作品,这首歌是他创作的。,zhè shǒu gē shì tā chuàng zuò de.,Bài hát này do anh ấy sáng tác.
+HSK 3,631,据说,jù shuō,động từ,nghe nói,it is said that; reportedly,据说……,据说这家饭店的菜很好吃。,jù shuō zhè jiā fàn diàn de cài hěn hǎo chī.,Nghe nói đồ ăn nhà hàng này rất ngon.
+HSK 3,632,自身,zì shēn,đại từ,bản thân,itself; oneself; one's own,自身问题；自身能力；提高自身,我们要提高自身的能力。,wǒ men yào tí gāo zì shēn de néng lì.,Chúng ta phải nâng cao năng lực của bản thân.
+HSK 3,633,整天,zhěng tiān,phó từ,cả ngày,all day long; whole day,整天工作；整天在家；整天玩,他整天都在看书。,tā zhěng tiān dōu zài kàn shū.,Cả ngày anh ấy đều đọc sách.
+HSK 3,634,去世,qù shì,"động từ, động/danh từ",qua đời,to pass away; to die,去世了；不幸去世；去世以后,他的爷爷去年去世了。,tā de yé ye qù nián qù shì le.,Ông nội anh ấy qua đời năm ngoái.
+HSK 3,635,批评,pī píng,"động từ, động/danh từ",phê bình,to criticize; criticism,批评他；受到批评；自我批评,他迟到了，被老师批评了。,"tā chí dào le, bèi lǎo shī pī píng le.",Cậu ấy đến muộn nên bị thầy phê bình.
+HSK 3,636,增长,zēng zhǎng,"động từ, động/danh từ",tăng trưởng,to grow; to increase,经济增长；快速增长；增长了,今年经济增长很快。,jīn nián jīng jì zēng zhǎng hěn kuài.,Năm nay kinh tế tăng trưởng nhanh.
+HSK 3,637,部长,bù zhǎng,danh từ,bộ trưởng,head of a (government etc) department; section chief; section head,外交部长；部长会议；当部长,部长参加了会议。,bù zhǎng cān jiā le huì yì.,Bộ trưởng đã tham dự hội nghị.
+HSK 3,638,否认,fǒu rèn,"động từ, động/danh từ",phủ nhận,to declare to be untrue; to deny,否认事实；不能否认；他否认了,他否认自己说过这句话。,tā fǒu rèn zì jǐ shuō guò zhè jù huà.,Anh ấy phủ nhận mình từng nói câu này.
+HSK 3,639,主意,zhǔ yi,danh từ,"ý kiến, chủ ý",plan; idea; decision,好主意；出主意；改变主意,这是个好主意！,zhè shì gè hǎo zhǔ yi!,Đây là một ý hay!
+HSK 3,640,体会,tǐ huì,"động từ, động/danh từ","thể nghiệm, lĩnh hội",to know from experience; to learn through experience; to realize,体会到；学习体会；深有体会,我体会到了学习的快乐。,wǒ tǐ huì dào le xué xí de kuài lè.,Tôi đã cảm nhận được niềm vui học tập.
+HSK 3,641,感冒,gǎn mào,"động từ, động/danh từ",cảm cúm,to catch cold; (common) cold; (coll.) to be interested in (often used in the negative),感冒了；得感冒；感冒药,我感冒了，有点儿发烧。,"wǒ gǎn mào le, yóu diǎn ér fā shāo.","Tôi bị cảm rồi, hơi sốt."
+HSK 3,642,高速,gāo sù,"từ khu biệt, phó từ",cao tốc,high speed; expressway (abbr. for 路),高速公路；高速发展；高速列车,中国经济高速发展。,zhōng guó jīng jì gāo sù fā zhǎn.,Kinh tế Trung Quốc phát triển với tốc độ cao.
+HSK 3,643,观看,guān kàn,động từ,"xem, thưởng thức",to watch; to view,观看比赛；观看演出,很多人来观看比赛。,hěn duō rén lái guān kàn bǐ sài.,Rất nhiều người đến xem trận đấu.
+HSK 3,644,推进,tuī jìn,"động từ, động/danh từ",thúc đẩy,to impel; to carry forward; to push on,推进工作；推进改革；向前推进,我们要加快推进这个项目。,wǒ men yào jiā kuài tuī jìn zhè ge xiàng mù.,Chúng ta phải đẩy nhanh tiến độ dự án này.
+HSK 3,645,安装,ān zhuāng,"động từ, động/danh từ","lắp đặt, cài đặt",to install; to erect; to fix,安装空调；安装软件；安装好了,我在电脑上安装了一个新软件。,wǒ zài diàn nǎo shàng ān zhuāng le yí gè xīn ruǎn jiàn.,Tôi đã cài một phần mềm mới trên máy tính.
+HSK 3,646,欢乐,huān lè,"tính từ, tính/danh từ","vui vẻ, hoan lạc",gaiety; gladness; glee,欢乐的时光；充满欢乐；欢乐的气氛,节日里到处充满欢乐。,jié rì lǐ dào chù chōng mǎn huān lè.,Ngày lễ khắp nơi tràn ngập niềm vui.
+HSK 3,647,功夫,gōng fu,danh từ,công phu; võ thuật,skill; art; kung fu,中国功夫；花功夫；下功夫,他会中国功夫。,tā huì zhōng guó gōng fu.,Anh ấy biết võ Trung Quốc.
+HSK 3,648,团体,tuán tǐ,danh từ,"đoàn thể, tập thể",group; organization; team,团体比赛；社会团体；团体票,我们买团体票可以便宜一些。,wǒ men mǎi tuán tǐ piào ké yǐ pián yi yì xiē.,Chúng ta mua vé tập thể có thể rẻ hơn.
+HSK 3,649,房屋,fáng wū,danh từ,nhà cửa,house; building,房屋出租；房屋建筑,这里的房屋都很新。,zhè lǐ de fáng wū dōu hěn xīn.,Nhà cửa ở đây đều rất mới.
+HSK 3,650,得分,dé fēn,"động từ, danh từ",ghi điểm,to score,得了几分；得分很高,他在比赛中得了二十分。,tā zài bǐ sài zhōng dé le èr shí fēn.,Anh ấy ghi được hai mươi điểm trong trận đấu.
+HSK 3,651,纪录,jì lù,"danh từ, động từ",kỷ lục,"variant of 记录 (but in Taiwan, not for the verb sense ""to record"")",世界纪录；打破纪录；创造纪录,她创造了新的世界纪录。,tā chuàng zào le xīn de shì jiè jì lù.,Cô ấy đã lập kỷ lục thế giới mới.
+HSK 3,652,游泳,yóu yǒng,"động từ, động/danh từ",bơi lội,swimming; to swim,去游泳；游泳池；会游泳,夏天我常去游泳。,xià tiān wǒ cháng qù yóu yǒng.,Mùa hè tôi thường đi bơi.
+HSK 3,653,基本上,jī běn shang,phó từ,về cơ bản,basically; on the whole,基本上完成；基本上同意,工作基本上完成了。,gōng zuò jī běn shang wán chéng le.,Công việc về cơ bản đã hoàn thành.
+HSK 3,654,农民,nóng mín,danh từ,nông dân,peasant; farmer,农民伯伯；农民工；当农民,他的父母都是农民。,tā de fù mǔ dōu shì nóng mín.,Bố mẹ anh ấy đều là nông dân.
+HSK 3,655,民族,mín zú,danh từ,dân tộc,nationality; ethnic group,少数民族；民族文化；中华民族,中国有五十六个民族。,zhōng guó yǒu wǔ shí liù gè mín zú.,Trung Quốc có năm mươi sáu dân tộc.
+HSK 3,656,商品,shāng pǐn,danh từ,hàng hóa,commodity; goods; merchandise,商品价格；买商品；新商品,这家超市的商品很多。,zhè jiā chāo shì de shāng pǐn hěn duō.,Hàng hóa ở siêu thị này rất nhiều.
+HSK 3,657,属,shǔ,động từ,thuộc; tuổi (con giáp),category; genus (taxonomy); family members,属于；属狗；家属,你属什么？,nǐ shǔ shén me?,Bạn tuổi con gì?
+HSK 3,658,裤子,kù zi,danh từ,quần,pants; trousers,一条裤子；穿裤子；长裤子,这条裤子太长了。,zhè tiáo kù zi tài zhǎng le.,Cái quần này dài quá.
+HSK 3,659,运输,yùn shū,"động/danh từ, động từ",vận tải,to transport; to carry; transportation,交通运输；运输公司；运输货物,这家公司负责运输货物。,zhè jiā gōng sī fù zé yùn shū huò wù.,Công ty này phụ trách vận chuyển hàng hóa.
+HSK 3,660,传播,chuán bō,"động từ, động/danh từ","truyền bá, lan truyền",to disseminate; to propagate; to spread,传播知识；传播文化；广泛传播,这个消息很快就传播开了。,zhè ge xiāo xī hěn kuài jiù chuán bō kāi le.,Tin này nhanh chóng lan truyền ra.
+HSK 3,661,好奇,hào qí,"tính từ, động từ, tính/danh từ",tò mò,inquisitive; curious; inquisitiveness,很好奇；好奇心；对……好奇,孩子对什么都很好奇。,hái zi duì shén me dōu hěn hào qí.,Trẻ con tò mò về mọi thứ.
+HSK 3,662,集体,jí tǐ,danh từ,tập thể,collective (decision); joint (effort); a group,集体活动；集体生活；为集体,我们班是一个团结的集体。,wǒ men bān shì yí gè tuán jié de jí tǐ.,Lớp chúng tôi là một tập thể đoàn kết.
+HSK 3,663,预计,yù jì,"động từ, động/danh từ",dự tính,to forecast; to predict; to estimate,预计时间；预计完成；预计明天到,飞机预计下午三点到达。,fēi jī yù jì xià wǔ sān diǎn dào dá.,Máy bay dự kiến đến nơi lúc ba giờ chiều.
+HSK 3,664,落后,luò hòu,"tính từ, tính/danh từ","lạc hậu, tụt lại",to fall behind; to lag (in technology etc); backward,很落后；落后于；不能落后,我们不能落后于别人。,wǒ men bù néng luò hòu yú bié rén.,Chúng ta không được tụt lại sau người khác.
+HSK 3,665,沙发,shā fā,danh từ,ghế sofa,sofa (loanword); (Internet slang) the first reply or replier to a forum post,坐在沙发上；一套沙发；新沙发,他坐在沙发上看电视。,tā zuò zài shā fā shàng kàn diàn shì.,Anh ấy ngồi trên ghế sofa xem tivi.
+HSK 3,666,强调,qiáng diào,động từ,nhấn mạnh,to emphasize (a statement); to stress,强调一下；特别强调；强调重要性,老师强调了这个问题的重要性。,lǎo shī qiáng diào le zhè ge wèn tí de zhòng yào xìng.,Thầy nhấn mạnh tầm quan trọng của vấn đề này.
+HSK 3,667,加快,jiā kuài,động từ,đẩy nhanh,to accelerate; to speed up,加快速度；加快发展；加快脚步,我们要加快速度。,wǒ men yào jiā kuài sù dù.,Chúng ta phải tăng tốc độ.
+HSK 3,668,考验,kǎo yàn,"động/danh từ, động từ",thử thách,to test; to put to the test; trial,经得起考验；面对考验；一次考验,这是对我们的一次考验。,zhè shì duì wǒ men de yī cì kǎo yàn.,Đây là một thử thách đối với chúng ta.
+HSK 3,669,分配,fēn pèi,"động từ, động/danh từ","phân phối, phân công",to distribute; to assign; to allocate,分配工作；分配任务；分配房子,老师给每个人分配了任务。,lǎo shī gěi měi gè rén fēn pèi le rèn wù.,Thầy đã phân công nhiệm vụ cho từng người.
+HSK 3,670,乐队,yuè duì,danh từ,ban nhạc,band; pop group,一支乐队；摇滚乐队；乐队演出,他在一个乐队里弹吉他。,tā zài yí gè yuè duì lǐ dàn jí tā.,Anh ấy chơi guitar trong một ban nhạc.
+HSK 3,671,演唱会,yǎn chàng huì,danh từ,buổi hòa nhạc (ca sĩ),vocal recital or concert,开演唱会；听演唱会；演唱会门票,我买了两张演唱会的票。,wǒ mǎi le liǎng zhāng yǎn chàng huì de piào.,Tôi mua hai vé xem ca nhạc.
+HSK 3,672,修改,xiū gǎi,"động từ, động/danh từ",sửa đổi,to amend; to alter; to modify,修改文章；修改计划；修改一下,这篇文章还需要修改。,zhè piān wén zhāng hái xū yào xiū gǎi.,Bài viết này còn cần sửa thêm.
+HSK 3,673,演唱,yǎn chàng,"động từ, động/danh từ",trình diễn ca hát,sung performance; to sing for an audience,演唱歌曲；现场演唱,她演唱了一首中国歌。,tā yǎn chàng le yī shǒu zhōng guó gē.,Cô ấy đã trình bày một bài hát Trung Quốc.
+HSK 3,674,保存,bǎo cún,"động từ, động/danh từ","bảo tồn, lưu giữ",to conserve; to preserve; to keep,保存文件；保存好；保存下来,别忘了保存文件。,bié wàng le bǎo cún wén jiàn.,Đừng quên lưu tệp.
+HSK 3,675,跳舞,tiào wǔ,"động từ, động/danh từ",nhảy múa,to dance,去跳舞；喜欢跳舞；跳舞跳得好,她很喜欢跳舞。,tā hěn xǐ huān tiào wǔ.,Cô ấy rất thích nhảy múa.
+HSK 3,676,电视台,diàn shì tái,danh từ,đài truyền hình,television station,中央电视台；电视台记者,他在电视台工作。,tā zài diàn shì tái gōng zuò.,Anh ấy làm việc ở đài truyền hình.
+HSK 3,677,发明,fā míng,"động từ, danh từ, động/danh từ",phát minh,to invent; an invention,发明家；新发明；发明了,纸是中国人发明的。,zhǐ shì zhōng guó rén fā míng de.,Giấy do người Trung Quốc phát minh ra.
+HSK 3,678,播放,bō fàng,"động từ, động/danh từ","phát (phim, nhạc)",to broadcast; to transmit (by radio or TV),播放音乐；播放电影；正在播放,电视上正在播放新闻。,diàn shì shàng zhèng zài bō fàng xīn wén.,Trên tivi đang phát thời sự.
+HSK 3,679,邮件,yóu jiàn,danh từ,"thư, email",mail; post; email,发邮件；电子邮件；收到邮件,我给你发了一封邮件。,wǒ gěi nǐ fā le yī fēng yóu jiàn.,Tôi đã gửi cho bạn một email.
+HSK 3,680,突出,tū chū,"tính từ, động từ, tính/phó từ",nổi bật,prominent; outstanding; to give prominence to,很突出；突出的成绩；突出重点,他的成绩很突出。,tā de chéng jì hěn tū chū.,Thành tích của cậu ấy rất nổi bật.
+HSK 3,681,其次,qí cì,"liên từ, đại từ","thứ đến, kế đó",next; secondly,首先……其次……,首先要努力，其次要有好方法。,"shǒu xiān yào nǔ lì, qí cì yào yǒu hǎo fāng fǎ.","Trước hết phải cố gắng, kế đó phải có phương pháp tốt."
+HSK 3,682,乐观,lè guān,"tính từ, tính/danh từ",lạc quan,optimistic; hopeful,很乐观；乐观的态度；保持乐观,他是一个乐观的人。,tā shì yí gè lè guān de rén.,Anh ấy là một người lạc quan.
+HSK 3,683,会员,huì yuán,danh từ,hội viên,member,会员卡；成为会员；会员价,我是这家健身房的会员。,wǒ shì zhè jiā jiàn shēn fáng de huì yuán.,Tôi là hội viên của phòng gym này.
+HSK 3,684,热烈,rè liè,"tính từ, tính/phó từ","nhiệt liệt, sôi nổi",enthusiastic; ardent; warm,热烈欢迎；热烈讨论；热烈的掌声,热烈欢迎新同学！,rè liè huān yíng xīn tóng xué!,Nhiệt liệt chào mừng các bạn mới!
+HSK 3,685,相似,xiāng sì,tính từ,"giống nhau, tương tự",similar; alike,很相似；相似的；相似之处,这两个字很相似。,zhè liǎng gè zì hěn xiāng sì.,Hai chữ này rất giống nhau.
+HSK 3,686,联合国,Lián hé guó,tên tổ chức,Liên Hợp Quốc,United Nations,联合国大会；联合国组织,联合国总部在纽约。,Lián hé guó zǒng bù zài niǔ yuē.,Trụ sở Liên Hợp Quốc ở New York.
+HSK 3,687,往往,wǎng wǎng,phó từ,thường thường,usually; in many cases; more often than not,往往是；往往会,周末公园里往往人很多。,zhōu mò gōng yuán lǐ wǎng wǎng rén hěn duō.,Cuối tuần công viên thường rất đông người.
+HSK 3,688,带领,dài lǐng,"động từ, động/danh từ",dẫn dắt,to guide; to lead,带领大家；在……的带领下,在老师的带领下，我们参观了博物馆。,"zài lǎo shī de dài lǐng xià, wǒ men cān guān le bó wù guǎn.","Dưới sự dẫn dắt của thầy, chúng tôi tham quan bảo tàng."
+HSK 3,689,可靠,kě kào,tính từ,đáng tin cậy,reliable,很可靠；可靠的消息；可靠的人,他是一个很可靠的人。,tā shì yí gè hěn kě kào de rén.,Anh ấy là người rất đáng tin cậy.
+HSK 3,690,决心,jué xīn,"danh từ, phó từ",quyết tâm,determination; resolution; determined,下决心；有决心；决心很大,我下决心要学好汉语。,wǒ xià jué xīn yào xué hǎo hàn yǔ.,Tôi quyết tâm phải học giỏi tiếng Trung.
+HSK 3,691,球迷,qiú mí,danh từ,người hâm mộ bóng đá,fan (ball sports),足球迷；球迷们；铁杆球迷,他是一个足球迷。,tā shì yí gè zú qiú mí.,Anh ấy là một fan bóng đá.
+HSK 3,692,补充,bǔ chōng,"động từ, động/danh từ",bổ sung,to replenish; to supplement; to complement,补充一下；补充说明；补充营养,我再补充一点。,wǒ zài bǔ chōng yì diǎn.,Tôi bổ sung thêm một điểm.
+HSK 3,693,克服,kè fú,động từ,khắc phục,(try to) overcome (hardships etc); to conquer; to put up with,克服困难；克服缺点；克服了,我们一定能克服困难。,wǒ men yí dìng néng kè fú kùn nán.,Chúng ta nhất định khắc phục được khó khăn.
+HSK 3,694,文字,wén zì,danh từ,"chữ viết, văn tự",character; script; writing,中国文字；文字工作；文字说明,汉字是世界上最古老的文字之一。,hàn zì shì shì jiè shàng zuì gǔ lǎo de wén zì zhī yī.,Chữ Hán là một trong những chữ viết cổ nhất thế giới.
+HSK 3,695,有利,yǒu lì,tính từ,có lợi,advantageous; favorable,有利于；有利条件；对……有利,多运动有利于身体健康。,duō yùn dòng yǒu lì yú shēn tǐ jiàn kāng.,Vận động nhiều có lợi cho sức khỏe.
+HSK 3,696,热爱,rè ài,"động từ, động/danh từ",yêu tha thiết,to love ardently; to adore,热爱生活；热爱祖国；热爱工作,他非常热爱自己的工作。,tā fēi cháng rè ài zì jǐ de gōng zuò.,Anh ấy vô cùng yêu công việc của mình.
+HSK 3,697,体现,tǐ xiàn,"động từ, động/danh từ",thể hiện,to embody; to reflect; to incarnate,体现出；充分体现；体现了,这件事体现了他的责任心。,zhè jiàn shì tǐ xiàn le tā de zé rèn xīn.,Việc này thể hiện tinh thần trách nhiệm của anh ấy.
+HSK 3,698,家具,jiā jù,danh từ,đồ nội thất,furniture,买家具；新家具；家具店,我们买了一套新家具。,wǒ men mǎi le yī tào xīn jiā jù.,Chúng tôi đã mua một bộ nội thất mới.
+HSK 3,699,生长,shēng zhǎng,"động từ, động/danh từ",sinh trưởng,to grow; to grow up; to be brought up,植物生长；生长在；生长期,这种花生长在南方。,zhè zhòng huā shēng zhǎng zài nán fāng.,Loài hoa này mọc ở phương nam.
+HSK 3,700,特色,tè sè,danh từ,"đặc sắc, đặc trưng",characteristic; distinguishing feature or quality,地方特色；有特色；特色菜,这是我们饭店的特色菜。,zhè shì wǒ men fàn diàn de tè sè cài.,Đây là món đặc trưng của nhà hàng chúng tôi.
+HSK 3,701,电视剧,diàn shì jù,danh từ,phim truyền hình,TV series; TV drama,看电视剧；中国电视剧；一部电视剧,我妈妈很喜欢看电视剧。,wǒ mā ma hěn xǐ huān kàn diàn shì jù.,Mẹ tôi rất thích xem phim truyền hình.
+HSK 3,702,整体,zhěng tǐ,danh từ,tổng thể,whole entity; entire body; synthesis,整体来看；整体水平；作为整体,整体来看，这次活动很成功。,"zhěng tǐ lái kàn, zhè cì huó dòng hěn chéng gōng.","Nhìn tổng thể, hoạt động lần này rất thành công."
+HSK 3,703,身份证,shēn fèn zhèng,danh từ,chứng minh nhân dân,identity card; ID,带身份证；身份证号码,买火车票需要身份证。,mǎi huǒ chē piào xū yào shēn fèn zhèng.,Mua vé tàu cần chứng minh nhân dân.
+HSK 3,704,收费,shōu fèi,"động/danh từ, động từ",thu phí,to charge a fee,收费标准；免费和收费；收费站,这个公园不收费。,zhè ge gōng yuán bù shōu fèi.,Công viên này không thu phí.
+HSK 3,705,迎接,yíng jiē,động từ,"đón tiếp, nghênh đón",to welcome; to greet,迎接客人；迎接新年；迎接挑战,我们去机场迎接客人。,wǒ men qù jī chǎng yíng jiē kè rén.,Chúng tôi ra sân bay đón khách.
+HSK 3,706,改进,gǎi jìn,"động từ, động/danh từ",cải tiến,to improve; to make better; improvement,改进方法；有待改进；改进工作,我们的服务还需要改进。,wǒ men de fú wù hái xū yào gǎi jìn.,Dịch vụ của chúng tôi vẫn cần cải tiến.
+HSK 3,707,建设,jiàn shè,"động/danh từ, động từ",xây dựng,to build; to construct; to establish; to develop; to institute,城市建设；建设国家；经济建设,这个城市在建设地铁。,zhè ge chéng shì zài jiàn shè dì tiě.,Thành phố này đang xây tàu điện ngầm.
+HSK 3,708,文学,wén xué,danh từ,văn học,literature,中国文学；文学作品；文学家,他是中文系文学专业的学生。,tā shì zhōng wén xì wén xué zhuān yè de xué shēng.,Anh ấy là sinh viên chuyên ngành văn học khoa tiếng Trung.
+HSK 3,709,难度,nán dù,danh từ,độ khó,degree of difficulty,难度很大；有难度；降低难度,这次考试的难度很大。,zhè cì kǎo shì de nán dù hěn dà.,Độ khó của kỳ thi lần này rất lớn.
+HSK 3,710,头脑,tóu nǎo,danh từ,đầu óc,brains; mind; skull,有头脑；头脑清楚；商业头脑,他很有商业头脑。,tā hěn yǒu shāng yè tóu nǎo.,Anh ấy rất có đầu óc kinh doanh.
+HSK 3,711,屋子,wū zi,danh từ,căn phòng,house; room,一间屋子；屋子里；打扫屋子,屋子里很暖和。,wū zi lǐ hěn nuǎn huo.,Trong phòng rất ấm áp.
+HSK 3,712,铁路,tiě lù,danh từ,đường sắt,railroad; railway,铁路交通；修铁路；高速铁路,这条铁路通到北京。,zhè tiáo tiě lù tōng dào běi jīng.,Tuyến đường sắt này đi đến Bắc Kinh.
+HSK 3,713,通信,tōng xìn,"động/danh từ, động từ",thông tin liên lạc,to correspond (by letter etc); to communicate; communication,通信技术；通信公司；移动通信,通信技术发展很快。,tōng xìn jì shù fā zhǎn hěn kuài.,Công nghệ viễn thông phát triển rất nhanh.
+HSK 3,714,缺少,quē shǎo,động từ,thiếu,lack; shortage of; shortfall,缺少经验；缺少时间；不可缺少,他缺少工作经验。,tā quē shǎo gōng zuò jīng yàn.,Anh ấy thiếu kinh nghiệm làm việc.
+HSK 3,715,环保,huán bǎo,danh từ,bảo vệ môi trường,environmental protection; environmentally friendly; abbr. for 环境保护,环保意识；环保袋；注意环保,我们要有环保意识。,wǒ men yào yǒu huán bǎo yì shí.,Chúng ta phải có ý thức bảo vệ môi trường.
+HSK 3,716,家乡,jiā xiāng,danh từ,quê hương,hometown; native place,我的家乡；回家乡；家乡菜,我的家乡在越南北方。,wǒ de jiā xiāng zài yuè nán běi fāng.,Quê tôi ở miền Bắc Việt Nam.
+HSK 3,717,发送,fā sòng,"động từ, động/danh từ",gửi đi,to transmit; to dispatch; to issue (an official document or credential),发送邮件；发送信息,请把文件发送到我的邮箱。,qǐng bǎ wén jiàn fā sòng dào wǒ de yóu xiāng.,Hãy gửi tài liệu vào hộp thư của tôi.
+HSK 3,718,播出,bō chū,"động từ, động/danh từ",phát sóng,to broadcast; to air (a TV program etc),播出时间；电视播出；正在播出,这个节目每天晚上八点播出。,zhè ge jié mù měi tiān wǎn shàng bā diǎn bō chū.,Chương trình này phát sóng lúc tám giờ tối mỗi ngày.
+HSK 3,719,读者,dú zhě,danh từ,độc giả,reader,读者朋友；读者来信；广大读者,这本书很受读者欢迎。,zhè běn shū hěn shòu dú zhě huān yíng.,Quyển sách này rất được độc giả yêu thích.
+HSK 3,720,消费,xiāo fèi,"động/danh từ, động từ",tiêu dùng,to consume; to spend,消费者；消费水平；高消费,大城市的消费水平很高。,dà chéng shì de xiāo fèi shuǐ píng hěn gāo.,Mức tiêu dùng ở các thành phố lớn rất cao.
+HSK 3,721,实行,shí xíng,động từ,"thực hiện, thi hành",to implement; to carry out; to put into practice,实行新政策；实行计划,公司开始实行新的规定。,gōng sī kāi shǐ shí xíng xīn de guī dìng.,Công ty bắt đầu thực hiện quy định mới.
+HSK 3,722,吵架,chǎo jià,động từ,cãi nhau,to quarrel; to have a row; quarrel,跟他吵架；吵了一架；别吵架,他们俩又吵架了。,tā men liǎ yòu chǎo jià le.,Hai người họ lại cãi nhau rồi.
+HSK 3,723,巧,qiǎo,"tính từ, tính/phó từ",khéo; trùng hợp,opportunely; coincidentally; as it happens,真巧；很巧；手很巧,真巧，在这儿碰见你！,"zhēn qiǎo, zài zhè ér pèng jiàn nǐ!","Thật trùng hợp, gặp bạn ở đây!"
+HSK 3,724,不安,bù ān,"tính từ, tính/danh từ",bất an,unpeaceful; unstable; uneasy,感到不安；心里不安,听到这个消息，我心里很不安。,"tīng dào zhè ge xiāo xī, wǒ xīn lǐ hěn bù ān.","Nghe tin này, trong lòng tôi rất bất an."
+HSK 3,725,首都,shǒu dū,danh từ,thủ đô,capital (city),首都北京；一个国家的首都,河内是越南的首都。,hé nèi shì yuè nán de shǒu dū.,Hà Nội là thủ đô của Việt Nam.
+HSK 3,726,整整,zhěng zhěng,phó từ,"tròn, trọn vẹn",whole; full,整整一天；整整三年,我整整等了你两个小时。,wǒ zhěng zhěng děng le nǐ liǎng gè xiǎo shí.,Tôi đã đợi bạn tròn hai tiếng.
+HSK 3,727,发言,fā yán,"động từ, động/danh từ",phát biểu,to make a speech; statement; utterance,发言人；在会上发言；积极发言,上课时他积极发言。,shàng kè shí tā jī jí fā yán.,Trong giờ học cậu ấy tích cực phát biểu.
+HSK 3,728,观念,guān niàn,danh từ,quan niệm,notion; thought; concept,传统观念；观念不同；改变观念,年轻人的观念和老年人不一样。,nián qīng rén de guān niàn hé lǎo nián rén bù yí yàng.,Quan niệm của người trẻ khác với người già.
+HSK 3,729,告别,gào bié,"động từ, động/danh từ",từ biệt,to leave; to part from; to bid farewell to; to say goodbye to,告别朋友；告别仪式；向……告别,他向大家告别后离开了。,tā xiàng dà jiā gào bié hòu lí kāi le.,Anh ấy chào tạm biệt mọi người rồi rời đi.
+HSK 3,730,反复,fǎn fù,"phó từ, động từ, động/danh từ",lặp đi lặp lại,repeatedly; over and over; to upend,反复练习；反复思考；反复说明,这个词要反复练习。,zhè ge cí yào fǎn fù liàn xí.,Từ này phải luyện đi luyện lại.
+HSK 3,731,场所,chǎng suǒ,danh từ,"nơi chốn, địa điểm",location; place,公共场所；娱乐场所；活动场所,公共场所禁止吸烟。,gōng gòng chǎng suǒ jìn zhǐ xī yān.,Nơi công cộng cấm hút thuốc.
+HSK 3,732,亲人,qīn rén,danh từ,người thân,one's close relatives,我的亲人；失去亲人；想念亲人,春节时人们都回家看亲人。,chūn jié shí rén men dōu huí jiā kàn qīn rén.,Dịp Tết mọi người đều về nhà thăm người thân.
+HSK 3,733,早已,zǎo yǐ,phó từ,đã từ lâu,for a long time; long since; (dialect) in the past,早已知道；早已离开,他早已离开了这个城市。,tā zǎo yǐ lí kāi le zhè ge chéng shì.,Anh ấy đã rời khỏi thành phố này từ lâu.
+HSK 3,734,初步,chū bù,"phó từ, từ khu biệt",bước đầu,initial; preliminary; tentative,初步了解；初步计划；初步成果,我对这个问题有了初步的了解。,wǒ duì zhè ge wèn tí yǒu le chū bù de liáo jiě.,Tôi đã có hiểu biết bước đầu về vấn đề này.
+HSK 3,735,比例,bǐ lì,danh từ,tỷ lệ,proportion; scale,男女比例；比例很高；按比例,我们班男女比例是一比一。,wǒ men bān nán nǚ bǐ lì shì yī bǐ yī.,Tỷ lệ nam nữ lớp chúng tôi là một – một.
+HSK 3,736,输入,shū rù,"động từ, động/danh từ",nhập vào,to import; to input,输入密码；输入汉字；输入法,请输入你的密码。,qǐng shū rù nǐ de mì mǎ.,Vui lòng nhập mật khẩu của bạn.
+HSK 3,737,创新,chuàng xīn,"động từ, động/danh từ","đổi mới, sáng tạo",to bring forth new ideas; to blaze new trails; innovation,技术创新；创新能力；不断创新,企业需要不断创新。,qǐ yè xū yào bú duàn chuàng xīn.,Doanh nghiệp cần không ngừng đổi mới.
+HSK 3,738,总结,zǒng jié,"động từ, động/danh từ",tổng kết,to sum up; to conclude; summary,总结经验；工作总结；做总结,我们来总结一下今天学的内容。,wǒ men lái zǒng jié yī xià jīn tiān xué de nèi róng.,Chúng ta tổng kết lại nội dung học hôm nay.
+HSK 3,739,空调,kōng tiáo,danh từ,điều hòa,air conditioning; air conditioner (including units that have a heating mode),开空调；关空调；空调房,太热了，开空调吧。,"tài rè le, kāi kōng tiáo ba.","Nóng quá, bật điều hòa đi."
+HSK 3,740,南部,nán bù,phương vị,miền nam,southern part,南部地区；中国南部,越南南部天气很热。,yuè nán nán bù tiān qì hěn rè.,Miền Nam Việt Nam thời tiết rất nóng.
+HSK 3,741,没用,méi yòng,"động từ, tính từ",vô dụng,useless,没用的东西；说了也没用,你现在后悔也没用了。,nǐ xiàn zài hòu huǐ yě méi yòng le.,Bây giờ bạn hối hận cũng vô ích.
+HSK 3,742,另一方面,lìng yī fāng miàn,liên từ,mặt khác,on the other hand; another aspect,一方面……另一方面……,一方面要学习，另一方面也要休息。,"yì fāng miàn yào xué xí, lìng yī fāng miàn yě yào xiū xī.","Một mặt phải học, mặt khác cũng phải nghỉ ngơi."
+HSK 3,743,营养,yíng yǎng,danh từ,dinh dưỡng,nutrition; nourishment,有营养；营养丰富；补充营养,牛奶很有营养。,niú nǎi hěn yǒu yíng yǎng.,Sữa rất bổ dưỡng.
+HSK 3,744,排名,pái míng,"động từ, động/danh từ",xếp hạng,"to rank (1st, 2nd etc); ranking",排名第一；世界排名；排名靠前,他在比赛中排名第三。,tā zài bǐ sài zhōng pái míng dì sān.,Anh ấy xếp thứ ba trong cuộc thi.
+HSK 3,745,互联网,Hù lián wǎng,danh từ,Internet,Internet,互联网公司；上互联网；互联网时代,互联网改变了我们的生活。,Hù lián wǎng gǎi biàn le wǒ men de shēng huó.,Internet đã thay đổi cuộc sống của chúng ta.
+HSK 3,746,行李,xíng li,danh từ,hành lý,luggage,拿行李；行李箱；带行李,我的行李太多了。,wǒ de xíng li tài duō le.,Hành lý của tôi nhiều quá.
+HSK 3,747,毛病,máo bìng,danh từ,tật xấu; hỏng hóc,fault; defect; shortcomings,有毛病；坏毛病；改毛病,我的电脑出了点儿毛病。,wǒ de diàn nǎo chū le diǎn ér máo bìng.,Máy tính của tôi có chút trục trặc.
+HSK 3,748,场合,chǎng hé,danh từ,"trường hợp, dịp",situation; occasion; context,正式场合；在这种场合；公共场合,在正式场合要穿正装。,zài zhèng shì chǎng hé yào chuān zhèng zhuāng.,Ở dịp trang trọng phải mặc trang phục lịch sự.
+HSK 3,749,衬衫,chèn shān,danh từ,áo sơ mi,shirt; blouse,一件衬衫；白衬衫；穿衬衫,他穿着一件白衬衫。,tā chuān zhe yī jiàn bái chèn shān.,Anh ấy mặc một chiếc áo sơ mi trắng.
+HSK 3,750,光明,guāng míng,"danh từ, tính từ",ánh sáng; tươi sáng,light; radiance; (fig.) bright (prospects etc),光明的未来；前途光明,我相信未来是光明的。,wǒ xiāng xìn wèi lái shì guāng míng de.,Tôi tin tương lai sẽ tươi sáng.
+HSK 3,751,合格,hé gé,"động từ, động/danh từ",đạt tiêu chuẩn,to meet the standard required; qualified; eligible (voter etc),合格的；不合格；考试合格,这个产品质量不合格。,zhè ge chǎn pǐn zhì liàng bù hé gé.,Chất lượng sản phẩm này không đạt chuẩn.
+HSK 3,752,东部,dōng bù,phương vị,miền đông,the east; eastern part,东部地区；中国东部；东部沿海,上海在中国东部。,shàng hǎi zài zhōng guó dōng bù.,Thượng Hải ở miền đông Trung Quốc.
+HSK 3,753,认可,rèn kě,"động từ, động/danh từ",công nhận,to approve; approval; acknowledgment,得到认可；认可他；被认可,他的工作得到了大家的认可。,tā de gōng zuò dé dào le dà jiā de rèn kě.,Công việc của anh ấy được mọi người công nhận.
+HSK 3,754,提问,tí wèn,"động/danh từ, động từ",đặt câu hỏi,to question; to quiz; to grill,提问题；老师提问；回答提问,下课前老师提问了我。,xià kè qián lǎo shī tí wèn le wǒ.,Trước khi hết giờ thầy đã gọi tôi trả lời câu hỏi.
+HSK 3,755,家属,jiā shǔ,danh từ,"người nhà, thân nhân",family member; (family) dependent,病人家属；家属区,请病人家属在外面等。,qǐng bìng rén jiā shǔ zài wài miàn děng.,Người nhà bệnh nhân vui lòng chờ bên ngoài.
+HSK 3,756,坚决,jiān jué,"tính/phó từ, tính từ",kiên quyết,firm; resolute; determined,坚决反对；坚决支持；态度坚决,我坚决反对这个做法。,wǒ jiān jué fǎn duì zhè ge zuò fǎ.,Tôi kiên quyết phản đối cách làm này.
+HSK 3,757,传来,chuán lái,động từ,truyền đến,(of a sound) to come through; to be heard; (of news) to arrive,传来消息；传来声音,远处传来了歌声。,yuǎn chù chuán lái le gē shēng.,Từ xa vọng lại tiếng hát.
+HSK 3,758,从前,cóng qián,thời gian,"trước kia, ngày xưa",previously; formerly; once upon a time,从前有一个；跟从前一样,从前，有一个小村子。,"cóng qián, yǒu yí gè xiǎo cūn zi.",Ngày xưa có một ngôi làng nhỏ.
+HSK 3,759,日常,rì cháng,từ khu biệt,"hằng ngày, thường nhật",day-to-day; daily; everyday,日常生活；日常工作；日常用语,学一些日常用语很有用。,xué yì xiē rì cháng yòng yǔ hěn yǒu yòng.,Học một số câu nói hằng ngày rất hữu ích.
+HSK 3,760,缺点,quē diǎn,danh từ,khuyết điểm,weak point; fault; shortcoming,有缺点；改正缺点；优点和缺点,每个人都有缺点。,měi gè rén dōu yǒu quē diǎn.,Ai cũng có khuyết điểm.
+HSK 3,761,设立,shè lì,động từ,"thiết lập, thành lập",to set up; to establish,设立奖学金；设立机构,学校设立了新的奖学金。,xué xiào shè lì le xīn de jiǎng xué jīn.,Trường đã lập một học bổng mới.
+HSK 3,762,预防,yù fáng,"động từ, động/danh từ","dự phòng, phòng ngừa",to prevent; to take precautions against; to protect,预防感冒；预防疾病；预防为主,多运动可以预防感冒。,duō yùn dòng ké yǐ yù fáng gǎn mào.,Vận động nhiều có thể phòng ngừa cảm cúm.
+HSK 3,763,必然,bì rán,"phó từ, từ khu biệt, danh từ",tất yếu,inevitable; certain; necessity,必然结果；必然的；必然会,努力学习，必然会有好结果。,"nǔ lì xué xí, bì rán huì yǒu hǎo jié guǒ.",Chăm chỉ học tập ắt sẽ có kết quả tốt.
+HSK 3,764,写作,xiě zuò,"động từ, động/danh từ","viết lách, sáng tác",to write; to compose; writing,写作能力；写作课；喜欢写作,他的写作能力很强。,tā de xiě zuò néng lì hěn qiáng.,Khả năng viết của anh ấy rất tốt.
+HSK 3,765,危害,wēi hài,"động từ, động/danh từ","tác hại, nguy hại",to jeopardize; to harm; to endanger,危害健康；危害很大；造成危害,抽烟危害身体健康。,chōu yān wēi hài shēn tǐ jiàn kāng.,Hút thuốc gây hại cho sức khỏe.
+HSK 3,766,手续,shǒu xù,danh từ,thủ tục,procedure; formalities,办手续；入学手续；手续很麻烦,我去办一下入学手续。,wǒ qù bàn yī xià rù xué shǒu xù.,Tôi đi làm thủ tục nhập học.
+HSK 3,767,外交,wài jiāo,danh từ,ngoại giao,diplomacy; diplomatic; foreign affairs,外交部；外交关系；外交官,两国建立了外交关系。,liǎng guó jiàn lì le wài jiāo guān xì.,Hai nước đã thiết lập quan hệ ngoại giao.
+HSK 3,768,本事,běn shi,danh từ,"bản lĩnh, khả năng",ability; skill,有本事；没本事；真有本事,他真有本事。,tā zhēn yǒu běn shi.,Anh ấy thật có bản lĩnh.
+HSK 3,769,高速公路,gāo sù gōng lù,danh từ,đường cao tốc,expressway; highway; freeway,上高速公路；高速公路上,高速公路上不能停车。,gāo sù gōng lù shàng bù néng tíng chē.,Trên đường cao tốc không được dừng xe.
+HSK 3,770,种子,zhǒng zi,danh từ,hạt giống,seed,一粒种子；种下种子；希望的种子,春天，农民在地里种下种子。,"chūn tiān, nóng mín zài dì lǐ zhòng xià zhǒng zi.","Mùa xuân, nông dân gieo hạt xuống ruộng."
+HSK 3,771,录音,lù yīn,"động/danh từ, động từ, danh từ",ghi âm,to record (sound); sound recording,听录音；录音机；录一段音,请听录音，回答问题。,"qǐng tīng lù yīn, huí dá wèn tí.",Hãy nghe ghi âm và trả lời câu hỏi.
+HSK 3,772,接待,jiē dài,"động từ, động/danh từ",tiếp đón,to receive (a visitor); to admit (allow sb to enter),接待客人；接待室；热情接待,他们热情地接待了我们。,tā men rè qíng dì jiē dài le wǒ men.,Họ đã tiếp đón chúng tôi rất nhiệt tình.
+HSK 3,773,推动,tuī dòng,"động từ, động/danh từ",thúc đẩy,to push (e.g. for acceptance of a plan); to promote; to give impetus to,推动发展；推动经济；起推动作用,科技推动了社会发展。,kē jì tuī dòng le shè huì fā zhǎn.,Khoa học kỹ thuật đã thúc đẩy xã hội phát triển.
+HSK 3,774,北部,běi bù,phương vị,miền bắc,northern part,北部地区；越南北部,河内在越南北部。,hé nèi zài yuè nán běi bù.,Hà Nội ở miền Bắc Việt Nam.
+HSK 3,775,适用,shì yòng,"động từ, tính từ, động/danh từ","thích hợp sử dụng, áp dụng được",to be applicable,适用于；适用范围；很适用,这个方法适用于初学者。,zhè ge fāng fǎ shì yòng yú chū xué zhě.,Phương pháp này phù hợp cho người mới học.
+HSK 3,776,客观,kè guān,"tính từ, danh từ, tính/phó từ",khách quan,objective; impartial,客观的；很客观；客观情况,我们要客观地看问题。,wǒ men yào kè guān dì kàn wèn tí.,Chúng ta phải nhìn nhận vấn đề một cách khách quan.
+HSK 3,777,裙子,qún zi,danh từ,váy,skirt,一条裙子；穿裙子；长裙子,她穿着一条红裙子。,tā chuān zhe yì tiáo hóng qún zi.,Cô ấy mặc một chiếc váy đỏ.
+HSK 3,778,香蕉,xiāng jiāo,danh từ,quả chuối,banana,吃香蕉；一根香蕉；香蕉皮,我早上吃了一根香蕉。,wǒ zǎo shàng chī le yī gēn xiāng jiāo.,Sáng tôi ăn một quả chuối.
+HSK 3,779,牌子,pái zi,danh từ,nhãn hiệu; biển,sign; trademark; brand,名牌子；什么牌子；门口的牌子,你的手机是什么牌子的？,nǐ de shǒu jī shì shén me pái zi de?,Điện thoại của bạn là hãng gì?
+HSK 3,780,应用,yìng yòng,"động/danh từ, động từ",ứng dụng,to put to use; to apply; practical,应用软件；广泛应用；应用技术,这种技术已经广泛应用了。,zhè zhǒng jì shù yǐ jīng guǎng fàn yìng yòng le.,Công nghệ này đã được ứng dụng rộng rãi.
+HSK 3,781,服务员,fú wù yuán,danh từ,nhân viên phục vụ,waiter; waitress; attendant,饭店服务员；叫服务员,服务员，买单！,"fú wù yuán, mǎi dān!","Phục vụ ơi, tính tiền!"
+HSK 3,782,电台,diàn tái,danh từ,đài phát thanh,transmitter-receiver; broadcasting station; radio station,广播电台；听电台；电台节目,我喜欢听这个电台的节目。,wǒ xǐ huān tīng zhè ge diàn tái de jié mù.,Tôi thích nghe chương trình của đài này.
+HSK 3,783,金牌,jīn pái,danh từ,huy chương vàng,gold medal,获得金牌；一块金牌；金牌得主,他在比赛中获得了金牌。,tā zài bǐ sài zhōng huò dé le jīn pái.,Anh ấy giành huy chương vàng trong cuộc thi.
+HSK 3,784,工程师,gōng chéng shī,danh từ,kỹ sư,engineer,当工程师；电脑工程师；一名工程师,我哥哥是一名工程师。,wǒ gē ge shì yī míng gōng chéng shī.,Anh trai tôi là kỹ sư.
+HSK 3,785,优点,yōu diǎn,danh từ,ưu điểm,merit; benefit; strong point,有优点；很多优点；优点和缺点,他的优点是很认真。,tā de yōu diǎn shì hěn rèn zhēn.,Ưu điểm của anh ấy là rất nghiêm túc.
+HSK 3,786,完善,wán shàn,"động từ, tính từ",hoàn thiện,"(of systems, facilities etc) comprehensive; well-developed; excellent",完善制度；不断完善；很完善,这个计划还需要进一步完善。,zhè ge jì huà hái xū yào jìn yí bù wán shàn.,Kế hoạch này còn cần hoàn thiện thêm.
+HSK 3,787,旅馆,lǚ guǎn,danh từ,"nhà nghỉ, khách sạn nhỏ",hotel,住旅馆；小旅馆；找旅馆,我们在一家小旅馆住了两天。,wǒ men zài yì jiā xiǎo lǚ guǎn zhù le liǎng tiān.,Chúng tôi ở một nhà nghỉ nhỏ hai ngày.
+HSK 3,788,志愿者,zhì yuàn zhě,danh từ,tình nguyện viên,volunteer,当志愿者；志愿者活动,他是这次比赛的志愿者。,tā shì zhè cì bǐ sài de zhì yuàn zhě.,Anh ấy là tình nguyện viên của cuộc thi này.
+HSK 3,789,发达,fā dá,tính từ,phát triển,well-developed; flourishing; to develop; to promote; to expand; (literary) to achieve fame and fortune; to prosper,发达国家；经济发达；很发达,这个地区经济很发达。,zhè ge dì qū jīng jì hěn fā dá.,Kinh tế khu vực này rất phát triển.
+HSK 3,790,人工,rén gōng,"từ khu biệt, phó từ, danh từ",nhân tạo; nhân công,artificial; manpower; manual work,人工智能；人工湖；人工费,人工智能发展得很快。,rén gōng zhì néng fā zhǎn dé hěn kuài.,Trí tuệ nhân tạo phát triển rất nhanh.
+HSK 3,791,普遍,pǔ biàn,"tính từ, tính/phó từ",phổ biến,universal; general; widespread,很普遍；普遍现象；普遍认为,这种现象很普遍。,zhè zhǒng xiàn xiàng hěn pǔ biàn.,Hiện tượng này rất phổ biến.
+HSK 3,792,爱心,ài xīn,danh từ,lòng yêu thương,compassion; kindness; care for others,有爱心；献爱心；爱心活动,她是一个很有爱心的人。,tā shì yí gè hěn yǒu ài xīn de rén.,Cô ấy là người rất giàu lòng yêu thương.
+HSK 3,793,形状,xíng zhuàng,danh từ,hình dạng,form; shape,什么形状；形状像；奇怪的形状,这块石头的形状很奇怪。,zhè kuài shí tou de xíng zhuàng hěn qí guài.,Hình dạng hòn đá này rất kỳ lạ.
+HSK 3,794,短期,duǎn qī,"từ khu biệt, phó từ",ngắn hạn,short term; short-term,短期班；短期内；短期工作,我参加了一个短期汉语班。,wǒ cān jiā le yí gè duǎn qī hàn yǔ bān.,Tôi tham gia một lớp tiếng Trung ngắn hạn.
+HSK 3,795,全场,quán chǎng,danh từ,"toàn sân, cả khán phòng",everyone present; the whole audience; across-the-board,全场观众；全场比赛；全场八折,全场观众都站了起来。,quán chǎng guān zhòng dōu zhàn le qǐ lái.,Toàn bộ khán giả đều đứng dậy.
+HSK 3,796,价钱,jià qian,danh từ,giá tiền,price,价钱很贵；问价钱；价钱合适,这件衣服价钱不贵。,zhè jiàn yī fú jià qian bù guì.,Bộ quần áo này giá không đắt.
+HSK 3,797,证件,zhèng jiàn,danh từ,giấy tờ,certificate; papers; credentials; document; ID,带证件；身份证件；有效证件,请出示你的证件。,qǐng chū shì nǐ de zhèng jiàn.,Xin xuất trình giấy tờ của bạn.
+HSK 3,798,共有,gòng yǒu,động từ,tổng cộng có,to have altogether; in all,共有三个；一共有,我们班共有三十名学生。,wǒ men bān gòng yǒu sān shí míng xué shēng.,Lớp chúng tôi có tổng cộng ba mươi học sinh.
+HSK 3,799,干吗,gàn má,động từ,làm gì; sao lại (khẩu ngữ),see 干嘛,你干吗；干吗去；干吗不,你干吗不早说？,nǐ gàn má bù zǎo shuō?,Sao bạn không nói sớm?
+HSK 3,800,底下,dǐ xia,phương vị,phía dưới,the location below sth; afterwards,桌子底下；在底下；树底下,猫在桌子底下睡觉。,māo zài zhuō zi dǐ xia shuì jiào.,Con mèo ngủ dưới gầm bàn.
+HSK 3,801,开展,kāi zhǎn,"động từ, động/danh từ",triển khai,to launch; to develop; to unfold,开展活动；开展工作；广泛开展,学校开展了很多课外活动。,xué xiào kāi zhǎn le hěn duō kè wài huó dòng.,Trường đã triển khai nhiều hoạt động ngoại khóa.
+HSK 3,802,美食,měi shí,danh từ,món ngon,culinary delicacy; fine food; gourmet food,中国美食；美食节；品尝美食,我想尝尝各地的美食。,wǒ xiǎng cháng chang gè dì de měi shí.,Tôi muốn thưởng thức món ngon các nơi.
+HSK 3,803,推广,tuī guǎng,"động từ, động/danh từ","mở rộng, phổ biến",to extend; to spread; to popularize,推广普通话；推广新技术,政府在推广普通话。,zhèng fǔ zài tuī guǎng pǔ tōng huà.,Chính phủ đang phổ biến tiếng phổ thông.
+HSK 3,804,古代,gǔ dài,thời gian,thời cổ đại,ancient times,古代人；中国古代；古代文化,这是一座古代的建筑。,zhè shì yī zuò gǔ dài de jiàn zhù.,Đây là một công trình kiến trúc cổ.
+HSK 3,805,中华民族,Zhōng huá mín zú,,dân tộc Trung Hoa,the Chinese nation; the Chinese people (collective reference to all the ethnic groups in China),中华民族的文化；中华民族传统,春节是中华民族的传统节日。,chūn jié shì Zhōng huá mín zú de chuán tǒng jié rì.,Tết là ngày lễ truyền thống của dân tộc Trung Hoa.
+HSK 3,806,散步,sàn bù,"động từ, động/danh từ",đi dạo,to take a walk; to go for a walk,去散步；在公园散步；饭后散步,吃完饭我们去散步吧。,chī wán fàn wǒ men qù sàn bù ba.,Ăn xong chúng ta đi dạo nhé.
+HSK 3,807,农业,nóng yè,danh từ,nông nghiệp,agriculture; farming,农业发展；现代农业；农业大学,这个地区以农业为主。,zhè ge dì qū yǐ nóng yè wéi zhǔ.,Khu vực này lấy nông nghiệp làm chính.
+HSK 3,808,大夫,dài fu,danh từ,bác sĩ (khẩu ngữ),doctor; physician,看大夫；王大夫；请大夫,大夫说我得多喝水。,dài fu shuō wǒ dé duō hē shuǐ.,Bác sĩ nói tôi phải uống nhiều nước.
+HSK 3,809,面积,miàn jī,danh từ,diện tích,"area (of a floor, piece of land etc); surface area; tract of land",面积很大；房子面积；多大面积,这个房子的面积是一百平方米。,zhè ge fáng zi de miàn jī shì yì bǎi píng fāng mǐ.,Diện tích căn nhà này là một trăm mét vuông.
+HSK 3,810,前后,qián hòu,phương vị,trước sau; khoảng,around; from beginning to end; all around,前后左右；春节前后；前后不一,春节前后火车票很难买。,chūn jié qián hòu huǒ chē piào hěn nán mǎi.,Khoảng trước sau Tết rất khó mua vé tàu.
+HSK 3,811,加工,jiā gōng,"động từ, động/danh từ","gia công, chế biến",to process; processing; working (of machinery),食品加工；加工厂；加工产品,这家工厂加工水果。,zhè jiā gōng chǎng jiā gōng shuǐ guǒ.,Nhà máy này chế biến hoa quả.
+HSK 3,812,学费,xué fèi,danh từ,học phí,tuition fee; tuition,交学费；学费很贵；一年的学费,这所大学的学费很贵。,zhè suǒ dà xué de xué fèi hěn guì.,Học phí trường đại học này rất đắt.
+HSK 3,813,中部,zhōng bù,phương vị,miền trung,middle part; central section,中部地区；中国中部,越南中部有很多海滩。,yuè nán zhōng bù yǒu hěn duō hǎi tān.,Miền Trung Việt Nam có nhiều bãi biển.
+HSK 3,814,歌声,gē shēng,danh từ,tiếng hát,singing voice; fig. original voice of a poet,美丽的歌声；歌声响起；听到歌声,她的歌声很好听。,tā de gē shēng hěn hǎo tīng.,Giọng hát của cô ấy rất hay.
+HSK 3,815,束,shù,"lượng từ, động từ",bó (lượng từ),to bind; bunch; bundle,一束花；结束；花束,他送给她一束花。,tā sòng gěi tā yī shù huā.,Anh ấy tặng cô ấy một bó hoa.
+HSK 3,816,否定,fǒu dìng,"động từ, động/danh từ",phủ định,to negate; to deny; to reject,否定句；否定答案；被否定,他否定了我的看法。,tā fǒu dìng le wǒ de kàn fǎ.,Anh ấy đã phủ định quan điểm của tôi.
+HSK 3,817,主张,zhǔ zhāng,"động từ, danh từ",chủ trương,to advocate; to stand for; view,我主张；提出主张；主张……,我主张大家一起去。,wǒ zhǔ zhāng dà jiā yì qǐ qù.,Tôi chủ trương mọi người cùng đi.
+HSK 3,818,认出,rèn chū,động từ,nhận ra,recognition; to recognize,认出来；认不出；一眼认出,我一眼就认出了他。,wǒ yī yǎn jiù rèn chū le tā.,Tôi nhận ra anh ấy ngay từ cái nhìn đầu tiên.
+HSK 3,819,性别,xìng bié,danh từ,giới tính,gender; sex,性别不同；写性别；性别平等,请在表上写你的性别。,qǐng zài biǎo shàng xiě nǐ de xìng bié.,Hãy ghi giới tính của bạn vào bảng.
+HSK 3,820,亲切,qīn qiè,"tính từ, tính/phó từ","thân thiết, gần gũi",amiable; cordial; close and dear,很亲切；亲切的笑容；感到亲切,老师对我们很亲切。,lǎo shī duì wǒ men hěn qīn qiè.,Thầy rất gần gũi với chúng tôi.
+HSK 3,821,气候,qì hòu,danh từ,khí hậu,(meteorology) climate; (fig.) climate; prevailing conditions (in human affairs),气候变化；气候温暖；这里的气候,这里的气候很好。,zhè lǐ de qì hòu hěn hǎo.,Khí hậu ở đây rất tốt.
+HSK 3,822,办理,bàn lǐ,động từ,"làm (thủ tục), giải quyết",to handle; to transact; to conduct,办理手续；办理签证；办理业务,我去银行办理一张卡。,wǒ qù yín háng bàn lǐ yī zhāng kǎ.,Tôi đi ngân hàng làm một chiếc thẻ.
+HSK 3,823,规范,guī fàn,"động từ, danh từ, tính từ, động/danh từ",quy phạm; chuẩn mực,norm; standard; specification,很规范；规范化；行为规范,请用规范的汉字写。,qǐng yòng guī fàn de hàn zì xiě.,Hãy viết bằng chữ Hán chuẩn.
+HSK 3,824,可乐,kě lè,"danh từ, danh từ riêng, tính từ",nước cô-ca,amusing; entertaining; (loanword) cola,喝可乐；一瓶可乐,我想喝一杯可乐。,wǒ xiǎng hē yī bēi kě lè.,Tôi muốn uống một cốc cô-ca.
+HSK 3,825,近期,jìn qī,thời gian,"thời gian gần đây, sắp tới",near in time; in the near future; very soon,近期计划；近期内；近期的,我近期没有出国的计划。,wǒ jìn qī méi yǒu chū guó de jì huà.,Thời gian tới tôi không có kế hoạch ra nước ngoài.
+HSK 3,826,自主,zì zhǔ,"động từ, động/danh từ",tự chủ,independent; to act for oneself; autonomous,自主学习；自主选择；独立自主,学生要学会自主学习。,xué shēng yào xué huì zì zhǔ xué xí.,Học sinh phải biết tự học.
+HSK 3,827,歌迷,gē mí,danh từ,người hâm mộ ca sĩ,fan of a singer,很多歌迷；歌迷会,她有很多歌迷。,tā yǒu hěn duō gē mí.,Cô ấy có rất nhiều người hâm mộ.
+HSK 3,828,握手,wò shǒu,"động từ, động/danh từ",bắt tay,to shake hands,跟他握手；握握手,两个人握了握手。,liǎng gè rén wò le wò shǒu.,Hai người bắt tay nhau.
+HSK 3,829,民间,mín jiān,danh từ,dân gian,among the people; popular; folk,民间故事；民间艺术；民间文化,这是一个民间故事。,zhè shì yí gè mín jiān gù shì.,Đây là một câu chuyện dân gian.
+HSK 3,830,题目,tí mù,danh từ,"đề bài, đầu đề",subject; title; topic,作文题目；这道题目；看清题目,做题前要看清题目。,zuò tí qián yào kàn qīng tí mù.,Trước khi làm bài phải đọc kỹ đề.
+HSK 3,831,解开,jiě kāi,động từ,"cởi ra, giải đáp",to untie; to undo; to solve (a mystery),解开问题；解开扣子；解开谜,他终于解开了这个难题。,tā zhōng yú jiě kāi le zhè ge nán tí.,Cuối cùng anh ấy đã giải được câu đố khó này.
+HSK 3,832,跑步,pǎo bù,động từ,chạy bộ,to run; to jog; (military) to march at the double,去跑步；每天跑步；跑步机,我每天早上去跑步。,wǒ měi tiān zǎo shàng qù pǎo bù.,Sáng nào tôi cũng đi chạy bộ.
+HSK 3,833,初中,chū zhōng,danh từ,trung học cơ sở,junior high school (abbr. for 初级中学),上初中；初中生；初中同学,我弟弟在上初中。,wǒ dì di zài shàng chū zhōng.,Em trai tôi đang học cấp hai.
+HSK 3,834,将近,jiāng jìn,phó từ,"gần, xấp xỉ",almost; nearly; close to,将近一年；将近一百人,我在中国住了将近三年。,wǒ zài zhōng guó zhù le jiāng jìn sān nián.,Tôi đã sống ở Trung Quốc gần ba năm.
+HSK 3,835,卫生间,wèi shēng jiān,danh từ,nhà vệ sinh,bathroom; toilet; WC,去卫生间；卫生间在哪儿,请问卫生间在哪儿？,qǐng wèn wèi shēng jiān zài nǎ ér?,Xin hỏi nhà vệ sinh ở đâu?
+HSK 3,836,不光,bù guāng,liên từ,không chỉ,not the only one; not only,不光……也……,不光我去，他也去。,"bù guāng wǒ qù, tā yě qù.",Không chỉ tôi đi mà anh ấy cũng đi.
+HSK 3,837,子女,zǐ nǚ,danh từ,con cái,children; sons and daughters,子女教育；照顾子女,父母都希望子女幸福。,fù mǔ dōu xī wàng zǐ nǚ xìng fú.,Cha mẹ nào cũng mong con cái hạnh phúc.
+HSK 3,838,老太太,lǎo tài tai,danh từ,bà cụ,elderly lady (respectful); esteemed mother,一位老太太；老太太们,一位老太太在公园里散步。,yī wèi lǎo tài tai zài gōng yuán lǐ sàn bù.,Một bà cụ đang đi dạo trong công viên.
+HSK 3,839,上衣,shàng yī,danh từ,áo,jacket; upper outer garment,一件上衣；红上衣；穿上衣,她穿着一件蓝色的上衣。,tā chuān zhe yī jiàn lán sè de shàng yī.,Cô ấy mặc một chiếc áo màu xanh.
+HSK 3,840,建成,jiàn chéng,"động từ, động/danh từ",xây dựng xong,to establish; to build,建成了；已经建成；建成以后,新的图书馆已经建成了。,xīn de tú shū guǎn yǐ jīng jiàn chéng le.,Thư viện mới đã xây xong.
+HSK 3,841,打听,dǎ ting,động từ,"hỏi thăm, dò hỏi",to ask about; to make some inquiries; to ask around,打听消息；打听一下,我向你打听一个人。,wǒ xiàng nǐ dǎ ting yí gè rén.,Tôi muốn hỏi thăm bạn về một người.
+HSK 3,842,定期,dìng qī,"phó từ, từ khu biệt",định kỳ,at set dates; at regular intervals; periodic,定期检查；定期存款；定期见面,每年要定期检查身体。,měi nián yào dìng qī jiǎn chá shēn tǐ.,Mỗi năm phải kiểm tra sức khỏe định kỳ.
+HSK 3,843,一方面,yī fāng miàn,"liên từ, danh từ",một mặt,on the one hand,一方面……另一方面……,一方面工作忙，另一方面身体不好。,"yī fāng miàn gōng zuò máng, lìng yī fāng miàn shēn tǐ bù hǎo.","Một mặt công việc bận, mặt khác sức khỏe không tốt."
+HSK 3,844,动人,dòng rén,tính từ,"cảm động, lay động lòng người",touching; moving,动人的故事；很动人；动人的歌声,这是一个很动人的故事。,zhè shì yí gè hěn dòng rén de gù shì.,Đây là một câu chuyện rất cảm động.
+HSK 3,845,老百姓,lǎo bǎi xìng,danh từ,dân thường,"ordinary people; the ""person in the street""",普通老百姓；为老百姓,老百姓的生活越来越好。,lǎo bǎi xìng de shēng huó yuè lái yuè hǎo.,Đời sống người dân ngày càng tốt hơn.
+HSK 3,846,果汁,guǒ zhī,danh từ,nước ép hoa quả,fruit juice,喝果汁；橙汁；苹果果汁,我要一杯果汁。,wǒ yào yī bēi guǒ zhī.,Cho tôi một cốc nước ép.
+HSK 3,847,剧场,jù chǎng,danh từ,nhà hát,theater,去剧场；大剧场；剧场里,我们晚上去剧场看话剧。,wǒ men wǎn shàng qù jù chǎng kàn huà jù.,Tối nay chúng tôi đến nhà hát xem kịch nói.
+HSK 3,848,搬家,bān jiā,"động từ, động/danh từ",chuyển nhà,to move house; to relocate; to remove (sth),搬家公司；搬了家；下个月搬家,我们上个月搬家了。,wǒ men shàng gè yuè bān jiā le.,Tháng trước chúng tôi đã chuyển nhà.
+HSK 3,849,开业,kāi yè,"động từ, động/danh từ",khai trương,to open a business; to open a practice; open (for business),新店开业；开业了；开业典礼,这家饭店明天开业。,zhè jiā fàn diàn míng tiān kāi yè.,Nhà hàng này khai trương vào ngày mai.
+HSK 3,850,生动,shēng dòng,"tính từ, tính/phó từ",sinh động,vivid; lively,很生动；生动的故事；生动有趣,老师讲课讲得很生动。,lǎo shī jiǎng kè jiǎng dé hěn shēng dòng.,Thầy giảng bài rất sinh động.
+HSK 3,851,就业,jiù yè,"động từ, động/danh từ",việc làm,to get a job; employment,就业机会；就业问题；大学生就业,大学生就业越来越难。,dà xué shēng jiù yè yuè lái yuè nán.,Sinh viên tìm việc làm ngày càng khó.
+HSK 3,852,彩色,cǎi sè,từ khu biệt,màu (nhiều màu),color; multicolored,彩色照片；彩色的；彩色电视,这是一张彩色照片。,zhè shì yī zhāng cǎi sè zhào piān.,Đây là một tấm ảnh màu.
+HSK 3,853,节约,jié yuē,"động từ, động/danh từ",tiết kiệm,to economize; to conserve (resources); economy,节约用水；节约时间；节约用电,我们要节约用水。,wǒ men yào jié yuē yòng shuǐ.,Chúng ta phải tiết kiệm nước.
+HSK 3,854,单元,dān yuán,danh từ,đơn vị bài học; đơn nguyên,unit (forming an entity); element; (in a residential building) entrance or staircase,第一单元；单元考试；三单元,这个单元有五课。,zhè ge dān yuán yǒu wǔ kè.,Đơn vị này có năm bài.
+HSK 3,855,海关,hǎi guān,danh từ,hải quan,customs (i.e. border crossing inspection),过海关；海关检查,我们在海关排了很长时间的队。,wǒ men zài hǎi guān pái le hěn zhǎng shí jiān de duì.,Chúng tôi đã xếp hàng rất lâu ở hải quan.
+HSK 3,856,自觉,zì jué,"tính từ, tính/phó từ, động từ, tính/danh từ",tự giác,conscious; aware; on one's own initiative,很自觉；自觉学习；自觉遵守,他学习很自觉。,tā xué xí hěn zì jué.,Cậu ấy học rất tự giác.
+HSK 3,857,收看,shōu kàn,"động từ, động/danh từ",xem (truyền hình),to watch (a TV program),收看节目；收看新闻,欢迎收看今天的节目。,huān yíng shōu kàn jīn tiān de jié mù.,Chào mừng quý vị đến với chương trình hôm nay.
+HSK 3,858,公务员,gōng wù yuán,danh từ,công chức,functionary; office-bearer,考公务员；当公务员,他考上了公务员。,tā kǎo shàng le gōng wù yuán.,Anh ấy đã thi đỗ công chức.
+HSK 3,859,暖和,nuǎn huo,"tính từ, động từ",ấm áp,warm; nice and warm,很暖和；暖和的天气；暖和一下,今天很暖和。,jīn tiān hěn nuǎn huo.,Hôm nay rất ấm áp.
+HSK 3,860,被子,bèi zi,danh từ,chăn,quilt,盖被子；一床被子；叠被子,天冷了，多盖一床被子。,"tiān lěng le, duō gài yī chuáng bèi zi.","Trời lạnh rồi, đắp thêm một cái chăn."
+HSK 3,861,农村,nóng cūn,danh từ,nông thôn,rural area; village,在农村；农村生活；农村人,我爷爷住在农村。,wǒ yé ye zhù zài nóng cūn.,Ông nội tôi sống ở nông thôn.
+HSK 3,862,世界杯,Shì jiè bēi,"danh từ, danh từ riêng","World Cup, cúp thế giới",World Cup,看世界杯；世界杯比赛,我们一起看世界杯吧。,wǒ men yì qǐ kàn Shì jiè bēi ba.,Chúng ta cùng xem World Cup nhé.
+HSK 3,863,听众,tīng zhòng,danh từ,thính giả,audience; listeners,听众朋友；广播听众,各位听众，大家好！,"gè wèi tīng zhòng, dà jiā hǎo!",Kính chào quý thính giả!
+HSK 3,864,变为,biàn wéi,động từ,biến thành,to change into,变为现实；由……变为……,他的梦想变为了现实。,tā de mèng xiǎng biàn wéi le xiàn shí.,Ước mơ của anh ấy đã trở thành hiện thực.
+HSK 3,865,邮箱,yóu xiāng,danh từ,hộp thư,mailbox; post office box; email,电子邮箱；邮箱地址,你的邮箱地址是什么？,nǐ de yóu xiāng dì zhǐ shì shén me?,Địa chỉ email của bạn là gì?
+HSK 3,866,标题,biāo tí,danh từ,tiêu đề,title; heading; headline,文章标题；新闻标题,这篇文章的标题很有意思。,zhè piān wén zhāng de biāo tí hěn yǒu yì si.,Tiêu đề bài viết này rất thú vị.
+HSK 3,867,预报,yù bào,"động/danh từ, động từ",dự báo,forecast,天气预报；预报说,天气预报说明天有雨。,tiān qì yù bào shuō míng tiān yǒu yǔ.,Dự báo thời tiết nói ngày mai có mưa.
+HSK 3,868,整齐,zhěng qí,"tính từ, tính/phó từ","ngăn nắp, đều đặn",orderly; neat; even,很整齐；整齐的；排得整齐,他的房间很整齐。,tā de fáng jiān hěn zhěng qí.,Phòng anh ấy rất ngăn nắp.
+HSK 3,869,志愿,zhì yuàn,"danh từ, động từ",nguyện vọng; tình nguyện,aspiration; ambition; to volunteer,志愿者；志愿服务；第一志愿,北京大学是我的第一志愿。,běi jīng dà xué shì wǒ de dì yī zhì yuàn.,Đại học Bắc Kinh là nguyện vọng một của tôi.
+HSK 3,870,职工,zhí gōng,danh từ,công nhân viên,workers; staff,职工宿舍；工厂职工；全体职工,这家工厂有一千名职工。,zhè jiā gōng chǎng yǒu yī qiān míng zhí gōng.,Nhà máy này có một nghìn công nhân viên.
+HSK 3,871,木头,mù tou,danh từ,gỗ,"slow-witted; blockhead; log (of wood, timber etc)",木头桌子；一块木头,这把椅子是木头做的。,zhè bǎ yǐ zi shì mù tou zuò de.,Chiếc ghế này làm bằng gỗ.
+HSK 3,872,熟人,shú rén,danh từ,người quen,acquaintance; friend,一个熟人；碰到熟人；找熟人,我在这儿碰到了一个熟人。,wǒ zài zhè ér pèng dào le yí gè shú rén.,Ở đây tôi gặp một người quen.
+HSK 3,873,报到,bào dào,"động từ, động/danh từ","đến trình diện, báo danh",to report for duty; to check in; to register,去报到；新生报到；报到时间,新生九月一号报到。,xīn shēng jiǔ yuè yī hào bào dào.,Tân sinh viên đến báo danh vào ngày một tháng chín.
+HSK 3,874,景色,jǐng sè,danh từ,phong cảnh,scenery; scene; landscape,景色很美；美丽的景色；秋天的景色,这里的景色真美！,zhè lǐ de jǐng sè zhēn měi!,Phong cảnh ở đây đẹp thật!
+HSK 3,875,表格,biǎo gé,danh từ,bảng biểu,form; table,填表格；一张表格,请填一下这张表格。,qǐng tián yī xià zhè zhāng biǎo gé.,Xin điền vào bảng này.
+HSK 3,876,功课,gōng kè,danh từ,bài vở,homework; assignment; task,做功课；复习功课；功课很多,我每天晚上做功课。,wǒ měi tiān wǎn shàng zuò gōng kè.,Tối nào tôi cũng làm bài tập.
+HSK 3,877,美术,měi shù,danh từ,mỹ thuật,art; fine arts; painting,美术课；美术馆；美术老师,她是美术老师。,tā shì měi shù lǎo shī.,Cô ấy là giáo viên mỹ thuật.
+HSK 3,878,故乡,gù xiāng,danh từ,"cố hương, quê nhà",home; homeland; native place,回故乡；我的故乡；想念故乡,我很想念我的故乡。,wǒ hěn xiǎng niàn wǒ de gù xiāng.,Tôi rất nhớ quê nhà.
+HSK 3,879,认得,rèn de,động từ,"nhận ra, biết",to recognize; to remember sth (or sb) on seeing it; to know,认得他；认得字；不认得,你还认得我吗？,nǐ hái rèn de wǒ ma?,Bạn còn nhận ra tôi không?
+HSK 3,880,邮票,yóu piào,danh từ,tem thư,(postage) stamp,一张邮票；集邮票；贴邮票,他喜欢集邮票。,tā xǐ huān jí yóu piào.,Anh ấy thích sưu tầm tem.
+HSK 3,881,房租,fáng zū,danh từ,tiền thuê nhà,rent for a room or house,交房租；房租很贵；一个月的房租,这里的房租很贵。,zhè lǐ de fáng zū hěn guì.,Tiền thuê nhà ở đây rất đắt.
+HSK 3,882,武术,wǔ shù,danh từ,võ thuật,military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense,学武术；中国武术；武术表演,他从小学习武术。,tā cóng xiǎo xué xí wǔ shù.,Anh ấy học võ từ nhỏ.
+HSK 3,883,推开,tuī kāi,động từ,đẩy ra,to push open (a gate etc); to push away; to reject,推开门；推开窗户,他推开门走了进来。,tā tuī kāi mén zǒu le jìn lái.,Anh ấy đẩy cửa bước vào.
+HSK 3,884,短裤,duǎn kù,danh từ,"quần đùi, quần soóc",short pants; shorts,穿短裤；一条短裤,夏天他常穿短裤。,xià tiān tā cháng chuān duǎn kù.,Mùa hè anh ấy thường mặc quần soóc.
+HSK 3,885,房东,fáng dōng,danh từ,chủ nhà,landlord,房东太太；跟房东说,房东人很好。,fáng dōng rén hěn hǎo.,Chủ nhà là người rất tốt.
+HSK 3,886,广大,guǎng dà,từ khu biệt,rộng lớn; đông đảo,(of an area) vast or extensive; large-scale; widespread,广大群众；广大读者；广大的地区,这本书受到广大读者的喜爱。,zhè běn shū shòu dào guǎng dà dú zhě de xǐ ài.,Cuốn sách này được đông đảo độc giả yêu thích.
+HSK 3,887,收音机,shōu yīn jī,danh từ,"máy thu thanh, radio",radio,听收音机；一台收音机,爷爷每天听收音机。,yé ye měi tiān tīng shōu yīn jī.,Ông nội ngày nào cũng nghe radio.
+HSK 3,888,长城,Cháng chéng,ns,Vạn Lý Trường Thành,the Great Wall,去长城；爬长城；万里长城,不到长城非好汉。,bú dào Cháng chéng fēi hǎo hàn.,Chưa đến Trường Thành chưa phải hảo hán.
+HSK 3,889,收听,shōu tīng,"động từ, động/danh từ",nghe (đài),to listen to (a radio broadcast),收听广播；收听节目,欢迎收听我们的节目。,huān yíng shōu tīng wǒ men de jié mù.,Chào mừng quý vị lắng nghe chương trình của chúng tôi.
+HSK 3,890,电子邮件,diàn zǐ yóu jiàn,,thư điện tử,email,发电子邮件；收到电子邮件,请用电子邮件联系我。,qǐng yòng diàn zǐ yóu jiàn lián xì wǒ.,Hãy liên hệ với tôi qua email.
+HSK 3,891,初级,chū jí,từ khu biệt,sơ cấp,junior; primary,初级班；初级汉语；初级水平,我在初级班学习。,wǒ zài chū jí bān xué xí.,Tôi học ở lớp sơ cấp.
+HSK 3,892,听力,tīng lì,danh từ,"nghe hiểu, thính lực",hearing; listening ability,听力考试；听力练习；听力很好,我的听力不太好。,wǒ de tīng lì bù tài hǎo.,Kỹ năng nghe của tôi không tốt lắm.
+HSK 3,893,信封,xìn fēng,danh từ,phong bì,envelope,一个信封；信封上；写信封,请在信封上写地址。,qǐng zài xìn fēng shàng xiě dì zhǐ.,Hãy viết địa chỉ lên phong bì.
+HSK 3,894,衬衣,chèn yī,danh từ,áo sơ mi,shirt,一件衬衣；白衬衣,他穿了一件白衬衣。,tā chuān le yī jiàn bái chèn yī.,Anh ấy mặc một chiếc áo sơ mi trắng.
+HSK 3,895,结实,jiē shi,tính từ,"chắc chắn, rắn chắc",rugged; sturdy; strong,很结实；结实的身体；不结实,这张桌子很结实。,zhè zhāng zhuō zi hěn jiē shi.,Cái bàn này rất chắc chắn.
+HSK 3,896,班级,bān jí,danh từ,lớp học,class (group of students); grade (in school),班级活动；我们班级；班级管理,我们班级有三十个人。,wǒ men bān jí yǒu sān shí gè rén.,Lớp chúng tôi có ba mươi người.
+HSK 3,897,现代化,xiàn dài huà,"động/danh từ, động từ",hiện đại hóa,modernization,现代化城市；实现现代化,这是一个现代化的城市。,zhè shì yí gè xiàn dài huà de chéng shì.,Đây là một thành phố hiện đại.
+HSK 3,898,专题,zhuān tí,danh từ,chuyên đề,"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic",专题报道；专题讨论；专题讲座,电视台做了一个专题报道。,diàn shì tái zuò le yí gè zhuān tí bào dào.,Đài truyền hình đã làm một phóng sự chuyên đề.
+HSK 3,899,工夫,gōng fu,danh từ,thời gian; công sức,"period of time (may be months, or mere seconds); spare time; skill",花工夫；没工夫；一会儿工夫,我没工夫跟你说。,wǒ méi gōng fu gēn nǐ shuō.,Tôi không có thời gian nói với bạn.
+HSK 3,900,创业,chuàng yè,"động từ, động/danh từ",khởi nghiệp,to begin an undertaking; to start a major task; to initiate,自主创业；创业公司；开始创业,他大学毕业后开始创业。,tā dà xué bì yè hòu kāi shǐ chuàng yè.,"Sau khi tốt nghiệp đại học, anh ấy bắt đầu khởi nghiệp."
+HSK 3,901,本领,běn lǐng,danh từ,"bản lĩnh, kỹ năng",skill; ability; capability,学本领；有本领；本领很大,年轻人要多学本领。,nián qīng rén yào duō xué běn lǐng.,Người trẻ nên học thêm nhiều kỹ năng.
+HSK 3,902,旅行社,lǚ xíng shè,danh từ,công ty du lịch,travel agency,找旅行社；旅行社导游,我们通过旅行社去北京旅游。,wǒ men tōng guò lǚ xíng shè qù běi jīng lǚ yóu.,Chúng tôi đi du lịch Bắc Kinh qua công ty du lịch.
+HSK 3,903,话剧,huà jù,danh từ,kịch nói,stage play; modern drama,看话剧；演话剧；话剧团,我们晚上去看话剧吧。,wǒ men wǎn shàng qù kàn huà jù ba.,Tối nay chúng ta đi xem kịch nói nhé.
+HSK 3,904,大使馆,dà shǐ guǎn,danh từ,đại sứ quán,embassy,中国大使馆；去大使馆,我去大使馆办签证。,wǒ qù dà shǐ guǎn bàn qiān zhèng.,Tôi đến đại sứ quán làm thị thực.
+HSK 3,905,沙子,shā zi,danh từ,cát,sand; grit,一粒沙子；海边的沙子,鞋里进沙子了。,xié lǐ jìn shā zi le.,Cát vào giày rồi.
+HSK 3,906,分组,fēn zǔ,"động từ, động/danh từ",chia nhóm,to divide into groups; group (formed from a larger group); subgroup,分组讨论；分组练习,我们分组讨论吧。,wǒ men fēn zǔ tǎo lùn ba.,Chúng ta chia nhóm thảo luận nhé.
+HSK 3,907,请教,qǐng jiào,động từ,"thỉnh giáo, xin chỉ bảo",to ask for guidance; to consult,请教老师；向你请教,我想向您请教一个问题。,wǒ xiǎng xiàng nín qǐng jiào yí gè wèn tí.,Tôi muốn thỉnh giáo ngài một câu hỏi.
+HSK 3,908,年底,nián dǐ,thời gian,cuối năm,the end of the year; year-end,年底以前；今年年底；到年底,年底公司会发奖金。,nián dǐ gōng sī huì fā jiǎng jīn.,Cuối năm công ty sẽ phát thưởng.
+HSK 3,909,带动,dài dòng,"động từ, động/danh từ","kéo theo, thúc đẩy",to spur; to provide impetus; to drive,带动发展；带动经济；带动大家,旅游业带动了当地经济发展。,lǚ yóu yè dài dòng liǎo dàng dì jīng jì fā zhǎn.,Ngành du lịch đã thúc đẩy kinh tế địa phương phát triển.
+HSK 3,910,交警,jiāo jǐng,danh từ,cảnh sát giao thông,traffic police (abbr. for 察),一名交警；交警叔叔,交警让我们停车。,jiāo jǐng ràng wǒ men tíng chē.,Cảnh sát giao thông bảo chúng tôi dừng xe.
+HSK 3,911,代表团,dài biǎo tuán,danh từ,đoàn đại biểu,delegation,中国代表团；代表团成员,越南代表团明天到北京。,yuè nán dài biǎo tuán míng tiān dào běi jīng.,Đoàn đại biểu Việt Nam ngày mai đến Bắc Kinh.
+HSK 3,912,影视,yǐng shì,từ khu biệt,điện ảnh và truyền hình,movies and television,影视作品；影视明星；影视公司,他在一家影视公司工作。,tā zài yì jiā yǐng shì gōng sī gōng zuò.,Anh ấy làm việc ở một công ty điện ảnh.
+HSK 3,913,国庆,Guó qìng,"thời gian, danh từ",quốc khánh,National Day,国庆节；国庆假期；国庆快乐,国庆节我们放七天假。,Guó qìng jié wǒ men fàng qī tiān jiǎ.,Dịp Quốc khánh chúng tôi được nghỉ bảy ngày.
+HSK 3,914,做客,zuò kè,động từ,làm khách,to be a guest or visitor,去做客；到朋友家做客,欢迎来我家做客。,huān yíng lái wǒ jiā zuò kè.,Hoan nghênh đến nhà tôi chơi.
+HSK 3,915,理发,lǐ fà,"động từ, động/danh từ",cắt tóc,to get a haircut; to have one's hair done; to cut (sb's) hair; to give (sb) a haircut,去理发；理发店；理个发,我该去理发了。,wǒ gāi qù lǐ fà le.,Tôi nên đi cắt tóc rồi.
+HSK 3,916,所长,suǒ zhǎng,danh từ,"viện trưởng, sở trưởng",head of an institute etc,研究所所长；派出所所长,他是研究所的所长。,tā shì yán jiū suǒ de suǒ zhǎng.,Ông ấy là viện trưởng viện nghiên cứu.
+HSK 3,917,票价,piào jià,danh từ,giá vé,ticket price; fare; admission fee,票价很贵；电影票价；机票票价,这场电影的票价是五十元。,zhè chǎng diàn yǐng de piào jià shì wǔ shí yuán.,Giá vé buổi chiếu phim này là năm mươi tệ.
+HSK 3,918,华人,Huá rén,danh từ,người Hoa,ethnic Chinese person or people,海外华人；华人社区,这个城市有很多华人。,zhè ge chéng shì yǒu hěn duō Huá rén.,Thành phố này có rất nhiều người Hoa.
+HSK 3,919,有的是,yǒu de shì,quán ngữ/thành ngữ,"có thừa, có đầy",have plenty of; there's no lack of,有的是时间；有的是机会,别着急，我们有的是时间。,"bié zháo jí, wǒ men yǒu de shì shí jiān.","Đừng vội, chúng ta có thừa thời gian."
+HSK 3,920,皮包,pí bāo,danh từ,túi da,handbag; briefcase,一个皮包；新皮包；皮包店,她买了一个新皮包。,tā mǎi le yí gè xīn pí bāo.,Cô ấy mua một cái túi da mới.
+HSK 3,921,连续剧,lián xù jù,danh từ,phim truyền hình nhiều tập,serialized drama; dramatic series; show in parts,电视连续剧；看连续剧,我妈每天都看连续剧。,wǒ mā měi tiān dōu kàn lián xù jù.,Mẹ tôi ngày nào cũng xem phim bộ.
+HSK 3,922,复印,fù yìn,"động từ, động/danh từ","phô-tô, sao chụp",to photocopy; to duplicate a document,复印文件；复印机；复印一份,请帮我复印一份。,qǐng bāng wǒ fù yìn yī fèn.,Làm ơn phô-tô giúp tôi một bản.
+HSK 3,923,图画,tú huà,danh từ,tranh vẽ,drawing; picture,一幅图画；画图画；图画书,孩子喜欢看图画书。,hái zi xǐ huān kàn tú huà shū.,Trẻ con thích xem sách tranh.
+HSK 3,924,长处,cháng chù,danh từ,"sở trường, điểm mạnh",good aspects; strong points,发挥长处；他的长处；长处和短处,每个人都有自己的长处。,měi gè rén dōu yǒu zì jǐ de cháng chù.,Mỗi người đều có điểm mạnh riêng.
+HSK 3,925,绿茶,lǜ chá,danh từ,trà xanh,green tea; (slang) (of a girl) seemingly innocent and charming but actually calculating and manipulative; a girl who has these qualities,喝绿茶；一杯绿茶；中国绿茶,我喜欢喝绿茶。,wǒ xǐ huān hē lǜ chá.,Tôi thích uống trà xanh.
+HSK 3,926,留学,liú xué,"động từ, động/danh từ",du học,to study abroad,去中国留学；留学生；出国留学,我想去中国留学。,wǒ xiǎng qù zhōng guó liú xué.,Tôi muốn sang Trung Quốc du học.
+HSK 3,927,教材,jiào cái,danh từ,giáo trình,teaching material,汉语教材；新教材；编教材,这本教材很好用。,zhè běn jiào cái hěn hǎo yòng.,Giáo trình này rất dễ dùng.
+HSK 3,928,书架,shū jià,danh từ,giá sách,bookshelf,一个书架；书架上；放在书架上,书架上有很多书。,shū jià shàng yǒu hěn duō shū.,Trên giá sách có rất nhiều sách.
+HSK 3,929,白菜,bái cài,danh từ,cải thảo,Chinese cabbage; pak choi,一棵白菜；白菜汤；炒白菜,冬天北方人常吃白菜。,dōng tiān běi fāng rén cháng chī bái cài.,Mùa đông người miền Bắc thường ăn cải thảo.
+HSK 3,930,普及,pǔ jí,"động từ, động/danh từ",phổ cập,to spread extensively; to generalize; widespread,普及教育；普及知识；已经普及,现在手机已经很普及了。,xiàn zài shǒu jī yǐ jīng hěn pǔ jí le.,Bây giờ điện thoại đã rất phổ biến.
+HSK 3,931,年初,nián chū,thời gian,đầu năm,beginning of the year,今年年初；年初计划,今年年初我开始学汉语。,jīn nián nián chū wǒ kāi shǐ xué hàn yǔ.,Đầu năm nay tôi bắt đầu học tiếng Trung.
+HSK 3,932,试题,shì tí,danh từ,đề thi,exam question; test topic,考试试题；试题很难,这次的试题不太难。,zhè cì de shì tí bù tài nán.,Đề thi lần này không khó lắm.
+HSK 3,933,积极性,jī jí xìng,danh từ,tính tích cực,zeal; initiative; enthusiasm,学习积极性；提高积极性,老师要调动学生的积极性。,lǎo shī yào diào dòng xué shēng de jī jí xìng.,Giáo viên phải khơi dậy tính tích cực của học sinh.
+HSK 3,934,初一,chū yī,"danh từ, thời gian",mùng một; năm nhất cấp hai,first day of lunar month; New Year's Day; first year in junior middle school,大年初一；正月初一；上初一,大年初一大家互相拜年。,dà nián chū yī dà jiā hù xiāng bài nián.,Mùng một Tết mọi người chúc Tết nhau.
+HSK 3,935,奶茶,nǎi chá,danh từ,trà sữa,milk tea,喝奶茶；一杯奶茶；奶茶店,年轻人很喜欢喝奶茶。,nián qīng rén hěn xǐ huān hē nǎi chá.,Người trẻ rất thích uống trà sữa.
+HSK 3,936,银牌,yín pái,danh từ,huy chương bạc,silver medal,获得银牌；一块银牌,她得了一块银牌。,tā dé le yī kuài yín pái.,Cô ấy giành được một huy chương bạc.
+HSK 3,937,红茶,hóng chá,danh từ,"hồng trà, trà đen",black tea,喝红茶；一杯红茶,英国人喜欢喝红茶。,yīng guó rén xǐ huān hē hóng chá.,Người Anh thích uống hồng trà.
+HSK 3,938,人民币,rén mín bì,danh từ,Nhân dân tệ,Renminbi (RMB); Chinese Yuan (CNY),换人民币；一百元人民币,我想把越南盾换成人民币。,wǒ xiǎng bǎ yuè nán dùn huàn chéng rén mín bì.,Tôi muốn đổi tiền Việt sang Nhân dân tệ.
+HSK 3,939,老头儿,lǎo tóu r,danh từ,ông già,see 老头子,一个老头儿；老头儿们,一个老头儿坐在门口。,yí gè lǎo tóu r zuò zài mén kǒu.,Một ông lão ngồi ở cửa.
+HSK 3,940,划船,huá chuán,"động từ, động/danh từ",chèo thuyền,to row a boat; rowing boat; rowing (sport),去划船；在湖上划船,我们在湖上划船。,wǒ men zài hú shàng huá chuán.,Chúng tôi chèo thuyền trên hồ.
+HSK 3,941,交费,jiāo fèi,"động từ, động/danh từ",nộp phí,to pay a fee,交费处；在网上交费,请先去交费。,qǐng xiān qù jiāo fèi.,Vui lòng đi nộp phí trước.
+HSK 3,942,凉水,liáng shuǐ,danh từ,nước lạnh,cool water; unboiled water,喝凉水；一杯凉水；凉水澡,别喝凉水，喝点儿热水吧。,"bié hē liáng shuǐ, hē diǎn ér rè shuǐ ba.","Đừng uống nước lạnh, uống chút nước nóng đi."
+HSK 3,943,跳高,tiào gāo,"động từ, động/danh từ",nhảy cao,high jump (athletics),跳高比赛；跳高运动员,他跳高跳得很好。,tā tiào gāo tiào dé hěn hǎo.,Anh ấy nhảy cao rất giỏi.
+HSK 3,944,衣架,yī jià,danh từ,móc áo,clothes hanger; clothes rack,一个衣架；挂在衣架上,请把衣服挂在衣架上。,qǐng bǎ yī fú guà zài yī jià shàng.,Hãy treo quần áo lên móc.
+HSK 3,945,外文,wài wén,danh từ,ngoại văn,foreign language (written),外文书；外文系；外文名字,他在外文书店买书。,tā zài wài wén shū diàn mǎi shū.,Anh ấy mua sách ở hiệu sách ngoại văn.
+HSK 3,946,短处,duǎn chù,danh từ,"sở đoản, điểm yếu",shortcoming; defect; fault,有短处；他的短处,每个人都有长处和短处。,měi gè rén dōu yǒu cháng chù hé duǎn chù.,Ai cũng có điểm mạnh và điểm yếu.
+HSK 3,947,空儿,kòng r,danh từ,thời gian rảnh,spare time; free time,有空儿；没空儿；抽空儿,你有空儿的时候来我家玩儿。,nǐ yǒu kòng r de shí hòu lái wǒ jiā wán ér.,Khi nào rảnh bạn đến nhà tôi chơi.
+HSK 3,948,预习,yù xí,"động từ, động/danh từ",chuẩn bị bài trước,to prepare a lesson,预习课文；预习生词,上课前要预习生词。,shàng kè qián yào yù xí shēng cí.,Trước giờ học phải chuẩn bị trước từ mới.
+HSK 3,949,跳远,tiào yuǎn,"động/danh từ, động từ",nhảy xa,long jump (athletics),跳远比赛；跳远运动员,他在跳远比赛中得了第一。,tā zài tiào yuǎn bǐ sài zhōng dé le dì yī.,Anh ấy giành giải nhất môn nhảy xa.
+HSK 3,950,京剧,Jīng jù,danh từ,Kinh kịch,Beijing opera,看京剧；唱京剧；京剧演员,京剧是中国的国粹。,Jīng jù shì zhōng guó de guó cuì.,Kinh kịch là tinh hoa văn hóa của Trung Quốc.
+HSK 3,951,后年,hòu nián,thời gian,năm kia (năm sau nữa),the year after next,后年夏天；后年毕业,我后年大学毕业。,wǒ hòu nián dà xué bì yè.,Năm sau nữa tôi tốt nghiệp đại học.
+HSK 3,952,连忙,lián máng,phó từ,vội vàng,promptly; at once,连忙说；连忙跑过去,他连忙说对不起。,tā lián máng shuō duì bù qǐ.,Anh ấy vội vàng nói xin lỗi.
+HSK 3,953,红酒,hóng jiǔ,,rượu vang đỏ,red wine,喝红酒；一瓶红酒,我们喝一点儿红酒吧。,wǒ men hē yì diǎn ér hóng jiǔ bā.,Chúng ta uống chút rượu vang nhé.
